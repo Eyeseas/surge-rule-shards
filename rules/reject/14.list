@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-09T13:56:31.343Z
-# Size: 147514
+# Last Updated: 2026-11-10T00:40:18.593Z
+# Size: 147705
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:VaJ1JQHd_CIx0qykA2bPAz99XRaa65rSxGpPxJwQFhs$
+# $content-hash-v1$:s-0IwnUaLStf9Ka2wDmaT_g2z4qjHmBQCzfujfzvlzw$
 # 
 # EOF ##################
 .073m.com
@@ -79,6 +79,7 @@
 .1o1nuqbjea.com
 .1ovzgs15u.com
 .1pt7wq8di.com
+.1qjbhounr7eir1i.rest
 .1rtb.com
 .1rtb.net
 .1rxntv.io
@@ -2152,6 +2153,7 @@
 .dywpcs.avenida.com.br
 .dz6xqe19d2.com
 .dzsevh.voyage-prive.com
+.dztdghhukgryc.site
 .dzzzwkgr.torn.com
 .e.excelsior-prt.com
 .e.gettyimages.ae
@@ -2665,6 +2667,7 @@
 .gerbil.lespetitsbots.com
 .germinate06.top
 .gesdrz.b2bpartner.de
+.gesupdfknxzae.website
 .get.fudigo.com
 .get.fullcourt.io
 .get.getblood.com
@@ -2690,6 +2693,7 @@
 .ggl.univers-gant.com
 .ggm.astroedit.co.uk
 .ggo10150lq.com
+.ggvjgcqosjsiv.online
 .ghhumhahablee.website
 .ghl.reussircommetherapeute.com
 .ghnl.goedhoesje.nl
@@ -3571,6 +3575,7 @@
 .jcphi.com
 .jdgtgb.rnz.de
 .jdlog.uu.cc
+.jdrfaqinvrcpm.space
 .jdvokoarxgooz.online
 .jehfl.shoepalace.com
 .jelr1.dili.fr
@@ -3746,6 +3751,7 @@
 .kwxpl.the7virtues.com
 .kybsbf.ruleoneproteins.com
 .kyemnphpymnyv.website
+.kyrjreyxdcmel.online
 .kzmbwwoxkelzr.website
 .kzomu.smoothly.com
 .kzsicw.focus.de
@@ -4907,6 +4913,7 @@
 .mhwbhn.tohapi.fr
 .microscope9.com
 .microsite.ibi.com
+.migsbabishbolting.cyou
 .migstat.com
 .mihdznjuuecvz.space
 .milanss.newjerseydivorceonline.com
@@ -5250,6 +5257,7 @@
 .ohvtrokyq.com
 .oi.fapnado.xxx
 .oi.transhero.com
+.oidiaacrodus.click
 .oimg.nbcsports.com
 .oipahhlctgtlr.website
 .oiyivlyqglj.com
@@ -5856,6 +5864,7 @@
 .robberrelative.com
 .robotbagpipe.com
 .rockpoint.xhamster.com
+.rockspreading.com
 .rofnjd.icu
 .roiapp.net
 .roosedramstam.com
@@ -6597,6 +6606,7 @@
 .siewca.topagrar.pl
 .sifuge.cn
 .sig.nadex.com
+.sighingrastus.com
 .signal.abyssbattery.com
 .signal.stoneward.com
 .signals.instaread.co
@@ -8605,6 +8615,7 @@
 .udd1i5.zhihu.com
 .udxsuy.helline.fr
 .udzucw.haggar.com
+.uehcxbllgjxzj.space
 .uelacdntbosei.site
 .uep.gaijin.net
 .uercje.brookscafe.com
@@ -8732,6 +8743,7 @@
 .videocdnmetrika.com
 .videostat-new.index.hu
 .vight.disputebeast.com
+.vihxflxwuhqca.space
 .viifwjox.com
 .viiqkzqv.com
 .vilpkc.drkellyann.com

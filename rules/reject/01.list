@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-09T13:56:31.343Z
-# Size: 147514
+# Last Updated: 2026-11-10T00:40:18.593Z
+# Size: 147705
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:VaJ1JQHd_CIx0qykA2bPAz99XRaa65rSxGpPxJwQFhs$
+# $content-hash-v1$:s-0IwnUaLStf9Ka2wDmaT_g2z4qjHmBQCzfujfzvlzw$
 # 
 # EOF ##################
 .003store.com
@@ -1203,6 +1203,7 @@
 .cdp.yna.co.kr
 .cedli.brooklyncandlestudio.com
 .celtiswetters.com
+.cembalicourts.click
 .centskeeper.com
 .cephalopod.ospreys.net
 .cf.championvalleypark.com
@@ -1968,6 +1969,7 @@
 .dd133.com
 .ddm.frandroid.com
 .ddoamt.181450.com
+.ddohiwvrhnife.site
 .ddome-tag.blablacar.com
 .ddwododotg.com
 .de.as.pptv.com
@@ -2541,6 +2543,7 @@
 .frm.fairment.de
 .fronttoad.com
 .frostnsullivan.advancedtech.com
+.frostplant.me
 .frostyfuse-ss.olladeals.com
 .fsggey.concierge.diet
 .fsqwdj.live-tennis.eu
@@ -3688,6 +3691,7 @@
 .kk.ch.pamo-design.com
 .kk.no.pamo-design.com
 .kk.pamo-design.com
+.kk38h95rfcm7479cnp92u.cfd
 .kkzittnph.com
 .kkznoe.autouncle.nl
 .kl-branch-sandbox.thekono.com
@@ -5102,6 +5106,7 @@
 .natite.crowtienda.com
 .natsp.xing.com
 .naturalotter.me
+.naxos.lastampausa.com
 .nbgpz.consumer-choices.com
 .nbizzi.store.ferrari.com
 .nbsdi.minisplitsystemsdirect.com
@@ -5547,6 +5552,7 @@
 .portal.insight.maruedr.com
 .portal.ventas.bancoppel.com
 .portatoshivey.com
+.poshoburse.rest
 .positional.ai
 .postrelease.com
 .ppdovk.home24.ch
@@ -5907,6 +5913,7 @@
 .ruytsxohizytc.online
 .rvdkjn.icu
 .rvkee.sigmabeauty.com
+.rvypacltiehnw.online
 .rvz9.destinia.co.ro
 .rwcboa.rjliving.com.au
 .rwemepyfibwvu.space
@@ -7953,6 +7960,7 @@
 .td.eatwsk.com
 .td.oprahdaily.com
 .td.runnersworld.com
+.tdeopzsolpmsit.com
 .tdep.suncamp.nl
 .tdf1.vente-unique.pt
 .tdss.nycmotors.cl
@@ -8040,6 +8048,7 @@
 .tk.santevet.com
 .tk0x1.com
 .tkdjrsee.icu
+.tkggaybfrwzzi.online
 .tkll12150nb.com
 .tkphu.sillysanta.dk
 .tks.poloklikk.hu
@@ -8608,6 +8617,7 @@
 .uzn.sofiadiaz.site
 .uzpxgfhwl3ejlegh1u4.cfd
 .uzurliev.com
+.uzvjbgknoijof.site
 .uzwfct.botoshop.cz
 .v1.tbllzon.com
 .v402.canoncitydailyrecord.com
@@ -8745,6 +8755,7 @@
 .wasghz.lametayel.co.il
 .washoffwaviercyanite.cfd
 .wasserkraftwerkkessel.viessmann.ch
+.waveletiricize.cfd
 .wayoo.alpenfaser.de
 .wb.g8financassistemicas.com.br
 .wbcygu.wardow.com
@@ -8905,6 +8916,7 @@
 .xad.js.org
 .xanalytics.vip
 .xb.363ur3tk9ux7yuyuy.cyou
+.xbwtrkrxpwlqo.website
 .xcnfzp.icu
 .xdazdu.bravafabrics.com
 .xdlipr.icu
@@ -9017,6 +9029,7 @@
 .yttbzswwik.com
 .yukosdistribution.e.epiqnotification.com
 .yumenetworks.com
+.yurqfto73olqr1.rest
 .yvspq.petsdrugmart.ca
 .yweakelandorde.org
 .ywrcqa.11alive.com
@@ -9051,6 +9064,7 @@
 .zgygvo.sommiercenter.com
 .zhdpyo.saveeye.co.kr
 .zhenxinet.com
+.zhigweuezkmqp.website
 .zhzdz.shopiammi.com
 .zimpolo.com
 .zion.api.cnn.io

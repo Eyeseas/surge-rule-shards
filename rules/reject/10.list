@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-09T13:56:31.343Z
-# Size: 147514
+# Last Updated: 2026-11-10T00:40:18.593Z
+# Size: 147705
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:VaJ1JQHd_CIx0qykA2bPAz99XRaa65rSxGpPxJwQFhs$
+# $content-hash-v1$:s-0IwnUaLStf9Ka2wDmaT_g2z4qjHmBQCzfujfzvlzw$
 # 
 # EOF ##################
 .039858f297.com
@@ -2425,6 +2425,7 @@
 .fdyqre.pormadeonline.com.br
 .feed.baidu.com
 .feedback.lifeguardarena.com
+.feedytoyerbks.cyou
 .fermvn.magmac.pl
 .fewkittens.com
 .ff.pdf.ac
@@ -3563,6 +3564,7 @@
 .jfjle4g5l.com
 .jfljazeimhaqv.space
 .jgnxty.revivalrugs.com
+.jgollcdgvgndi.website
 .jgyugc.mp.com.tr
 .jhigujqqfkzhx.online
 .jhqaif.onceagain.fr
@@ -3774,6 +3776,7 @@
 .lbbpl.cartolinanantucket.com
 .lbdft.katespade.co.uk
 .lbu3.labibleurbaine.com
+.lbuqhqrmywhjn.site
 .lbv5.mperf.com
 .lcjubw.fiksuruoka.fi
 .lcmed2.verdantpathfinder.com
@@ -4419,6 +4422,7 @@
 .luxupcdna.com
 .luxxeeu.com
 .lvdubtvqwlhfg.site
+.lw-c-log.lastwarapp.net
 .lwh1.carrefour-banque.fr
 .lwlybwd5zq.com
 .lx2rv.com
@@ -8076,6 +8080,7 @@
 .throbexhaust.com
 .throughlnk.com
 .tick.weg.plus
+.tidcaugtgunyg.site
 .tidingsdressed.com
 .tifflebeach.com
 .tigershark.integratecolumbus.org
