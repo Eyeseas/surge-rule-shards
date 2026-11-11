@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-10T00:40:18.593Z
-# Size: 147705
+# Last Updated: 2026-11-10T22:21:05.752Z
+# Size: 147964
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:s-0IwnUaLStf9Ka2wDmaT_g2z4qjHmBQCzfujfzvlzw$
+# $content-hash-v1$:wCkbXb0ZFLV8USqp1JPzRl7acmiMMLzX0ldTTkWoDtc$
 # 
 # EOF ##################
 .0.myikas.com
@@ -76,7 +76,6 @@
 .1ub29e88i.com
 .1wm.lvc9zoqon2ytx7tqj3.cyou
 .1wxj1q0wo5.com
-.1xulomppkrwcr8zni6yz.cfd
 .1zw5kzrzjm.com
 .223qu6jnqv.com
 .224oztn8dq.com
@@ -159,6 +158,7 @@
 .9i755wxrhlb7.qvc6c44h2e7v5h4ycq.cyou
 .9n89mwfq3l1wen79.po6o4mxkqfwvit5.cyou
 .9txnu9rlmd.com
+.9umyy8kcwv5uc7589mpeten6.rest
 .9v7sbm9zc.com
 .a-us.twofaceaesthetics.com
 .a.10tianqi.com
@@ -971,6 +971,7 @@
 .bilingualgeek.com
 .bimaneoxphony.cyou
 .binaryoptionz.com
+.binioudaikers.cyou
 .binioumusales.rest
 .birdpriceall.com
 .bison.weitweit.at
@@ -1081,6 +1082,7 @@
 .burvz.cerebralpalsyguide.com
 .business.featurespace.com
 .bvycqrmqlqvp.com
+.bvzzcqfalsend.space
 .bwlwbt.rbarevistas.com
 .bwmetrics.jegy.hu
 .bx-cloud.com
@@ -1332,6 +1334,7 @@
 .collector.goldwaterlawfirm.com
 .collector.kstptv5.com
 .collector.szlcsc.com
+.colossal-seat.com
 .comms.cigna.com.sg
 .communications.aon.com
 .communications.idera.com
@@ -1482,7 +1485,6 @@
 .cueohf.passion-harley.net
 .cultchrumexwhat.cyou
 .cunluxgqqhmsx.space
-.cuohzhwjjwupd.online
 .cupid.qiyi.com
 .curbminers.com
 .curerowland.com
@@ -1618,7 +1620,6 @@
 .d3u0wd7ppfhcxv.cloudfront.net
 .d3vnm1492fpnm2.cloudfront.net
 .d4xmm7es84.com
-.d595452bdd.com
 .d6.mobaders.com
 .d8a566efb2.com
 .da.defam.nl
@@ -2360,6 +2361,7 @@
 .eofjtw.jjshouse.se
 .ephebeurgingcitrean.cfd
 .epicoldschool.com
+.epizoanvick.rest
 .epoisejobs.epoise.com
 .epsiloncampaignfso.epsilon.adobesandbox.com
 .eptuet.hamsoamall.co.kr
@@ -2457,6 +2459,7 @@
 .faciliatemate.com
 .facilitatebreakfast.com
 .fagmiethe.com
+.faisanbiotype.cfd
 .faithrowold.com
 .falt925.ferticare.eu
 .familiarrod.com
@@ -2696,7 +2699,6 @@
 .ggvjk.beginhealth.com
 .gh.vsee.me
 .ghifrc.baldai1.lt
-.giantpanda.media
 .gideonlnr.cyou
 .gie.alldent-zahnzentrum-karlsruhe.de
 .gilarditus.com
@@ -3300,6 +3302,7 @@
 .herbgreencolumn.com
 .herefwukou.org
 .heron.joel.is
+.hewostitismalic.cfd
 .hf.forevernetworks.com
 .hf5rbejvpwds.com
 .hfgle.trendozashop.com
@@ -3376,6 +3379,7 @@
 .hubcapcafe.net
 .huidlaserutrecht.nl
 .hulkingdomine.cfd
+.hulvertaluks.cyou
 .humbleroots.net
 .humbuzzenows.cfd
 .humiliatingregion.com
@@ -3684,7 +3688,6 @@
 .jncx1s.michaellindahl.com
 .jns1.junoo.com.br
 .jobs.bvng.nl
-.johzjiuqoiibg.site
 .joias.pistacheacessorios.com.br
 .join.airvet.com
 .join.deetzapp.com
@@ -4533,6 +4536,7 @@
 .m.tvey-cosmetics.com
 .m1.darfd.com
 .m1.stadiumgoods.com
+.m4vrux6x88zwc1.cfd
 .ma.a3.se
 .ma.meritmind.se
 .ma.pasco.com
@@ -5339,6 +5343,7 @@
 .oktkjv.hopi.com.tr
 .old.globalservices.arrow.com
 .oliveiralimaadv.anunciojuridico.com.br
+.olpzlcurobnfs.website
 .om.homeawayconnect.com
 .om.homelidays.de
 .om.triphomes.com
@@ -5426,6 +5431,7 @@
 .ox3e5wyy79.com
 .oxamiccista.qpon
 .oxgyjm.livinterior.com.br
+.oxmanwashier.cyou
 .ozcid.kolkatachai.co
 .ozsbe.goggles4u.com
 .p.beskid4home.pl
@@ -5710,6 +5716,7 @@
 .purrmolify.cyou
 .push-notifications.top
 .push-sdk.com
+.puywath.cyou
 .pvlbcw.glamira.ro
 .pvricvtlvq.com
 .pvvii.griotsgarage.com
@@ -5732,6 +5739,7 @@
 .qa-branch-app.liketoknow.it
 .qa-brc.emails.rakuten.com
 .qaburi.l-appart.net
+.qaegccfsfdqqr.website
 .qaein.coach.com
 .qbrth.ezcontacts.com
 .qbse.intuit.com
@@ -5789,6 +5797,7 @@
 .qvttf.criminalattorneyfortworth.com
 .qvwaan.bellalunatoys.com
 .qvznqz.mekster.se
+.qwjjfgqlfkmih.site
 .qwpcoi.uaf.com.hk
 .qxdjfb.astoreo.cz
 .qxlshnvo.7oh.com
@@ -5853,6 +5862,7 @@
 .registrovillaslapiedad.com
 .relay.brandinglab.com.br
 .reliable.elgas.com.au
+.reliableparrot.biz
 .relievedjoke.com
 .remarketing.oncourselearning.com
 .removeads.workers.dev
@@ -6109,6 +6119,7 @@
 .sdk.markmedia.com.cn
 .sdlmaf.bestsecret.at
 .sdnc.top
+.sdoqnyfwqamhk.site
 .sdt.educazone.es
 .sebotr.rizeclinic.com
 .sec-analytics.panasonic.co.uk
@@ -6391,7 +6402,6 @@
 .set.bondbossofficial.com
 .set6.skinguru24.hu
 .setrpferd.eggersmann-shop.de
-.seveelumus.com
 .sevendeer.com
 .severedbac.cyou
 .seyfwl.deccoria.pl
@@ -6616,6 +6626,7 @@
 .shrfbdg004.com
 .shuaji.360.cn
 .shumskycustomercare.com
+.shvgtjwblivhm.website
 .shwmhfjuwomnx.site
 .sicas.ikea.com
 .sidewalkboiling.com
@@ -7758,6 +7769,7 @@
 .stc.savills.ie
 .stdata.nl.engwe.com
 .stepzenith-core.info
+.stethyclapt.cfd
 .stillpeace.com
 .stingray.communityally.org
 .stm.schilder-schreiber.de
@@ -8620,6 +8632,7 @@
 .uhqunq.tktimport.com
 .uhygtf1.com
 .uidpcx.planet.fr
+.uielpzzqvawfb.online
 .uiwock.epantofi.ro
 .uizmsi.tirendo.ch
 .ujnsh.discovericl.com
@@ -8654,6 +8667,7 @@
 .updates.jwhillcountryresort.com
 .upfolddoter.com
 .upgradeyoga.com
+.uplinksspindly.cyou
 .uqimh.catbirdnyc.com
 .ur.gcion.com
 .urdap.forever21.com
@@ -8772,6 +8786,7 @@
 .vole.tsttechnology.com
 .vols7feed.com
 .vosheexazhmgwq.com
+.vpbugplg.com
 .vqmxv.allfreshseafood.com
 .vrdcftcmydygd.com
 .vrhzg.rvca.com
@@ -8949,6 +8964,7 @@
 .woodpeckerlog.com
 .woonkruthf.com
 .wootmedia.net
+.workplaceanticipatedtribe.com
 .workplacecakefaculty.com
 .workspacesolutions.gos1.com
 .world.discoverylandco.com
@@ -9008,6 +9024,7 @@
 .xjx11240ts.com
 .xjx11261ts.com
 .xkxxrdeuknhvz.site
+.xkysykhputthf.space
 .xlx2ddw4f.com
 .xml.admozartppc.com
 .xmmbqa.goradin.com.br
@@ -9022,7 +9039,6 @@
 .xrb5zmxe2j.com
 .xrnyhc.bgeilbo.com
 .xswrjv.murad.com
-.xtmwxdibqcgzh.site
 .xtntsaqdlflhb.space
 .xtorbk1g3f.com
 .xtpdsreqdoz.com
@@ -9117,6 +9133,7 @@
 .zipthelake.com
 .ziuggw.archon.pl
 .zjmvozrbylwgg.com
+.zjownvjdhfqub.site
 .zjozr.underwearexpert.com
 .zjxuuk.goldpang.com
 .zjyyhv.mydesigndrops.com
@@ -9131,6 +9148,7 @@
 .zm232.com
 .zml-apm-prd.dbv4.noncd.db.de
 .zneerf.ixtem-moto.com
+.znftxennxelii.website
 .znq.pinewood.eu
 .znq.webflower.se
 .zokpt.purityproducts.com

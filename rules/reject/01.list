@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-10T00:40:18.593Z
-# Size: 147705
+# Last Updated: 2026-11-10T22:21:05.752Z
+# Size: 147964
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:s-0IwnUaLStf9Ka2wDmaT_g2z4qjHmBQCzfujfzvlzw$
+# $content-hash-v1$:wCkbXb0ZFLV8USqp1JPzRl7acmiMMLzX0ldTTkWoDtc$
 # 
 # EOF ##################
 .003store.com
@@ -89,7 +89,6 @@
 .301redirect.site
 .31daa5lnq.de
 .32711d677a.com
-.33p3v9fte86o99kl9gqf7wnb7eu3v85u.cfd
 .35lnvz97cg.com
 .360protected.com
 .39q0imqo0.com
@@ -160,6 +159,7 @@
 .9c867e2056.com
 .9g3yx40s6.com
 .9hyuczxrqg2r.19i9p2fo7jln5h5q7q.cyou
+.9o2r9h0ket.com
 .9wkvbvm90.com
 .9xob25oszs.com
 .a-da.invideo.io
@@ -428,7 +428,6 @@
 .akfvustajpz.in
 .aksb-a.akamaihd.net
 .aktkb.eshopygo.pl
-.akxttaqmivp.in
 .al.apros.co.jp
 .al.babyrenta.com
 .al.free-spirits.co.jp
@@ -796,7 +795,6 @@
 .assets.prydligt.com
 .assets1.shannons.com.au
 .ast.warema.de
-.asvjpfaynejhb.online
 .aswpsdkus.com
 .at-ecomm.levi.com
 .at.artistchai.co.kr
@@ -826,12 +824,11 @@
 .av.mygeisha.ae
 .avalonalbum.com
 .avazu.net
-.averinierne.cyou
+.avigatejungle.click
 .avlrv.simplynootropics.com
 .avmvk.oliversweeney.com
 .avowingoxaliteglancer.qpon
 .avrsht.wolfsburger-jobanzeiger.de
-.avzmhurdchosj.space
 .awbbcre.com
 .aweprt.com
 .awepsi.com
@@ -1082,6 +1079,7 @@
 .bxumze.lajuntatribunedemocrat.com
 .bxumze.njherald.com
 .bxumze.sussexcountian.com
+.byarjsfxfrove.space
 .bzlhpo.komamono-honpo.com
 .bzoomlubqo.com
 .bzrpp.nakednutrition.ca
@@ -1437,6 +1435,7 @@
 .cqemus.gartenhaus-gmbh.de
 .cqeoqlmikgrwd.online
 .cqrcf.beachbunnyswimwear.com
+.cqrksadeerzsp.space
 .cqtek.mesotheliomasymptoms.com
 .cqubdd.metro.co.uk
 .cqubdd.thisismoney.co.uk
@@ -1454,6 +1453,7 @@
 .croppasmotter.com
 .crta.dailymail.co.uk
 .crumbs.robinhood.com
+.crvgxmvosircv.website
 .cs.bankmillennium.pl
 .cs1979sbeda.customguide-build.net
 .csbmey.viherpeukalot.fi
@@ -2214,6 +2214,7 @@
 .educationlink.clear360.com
 .eeaejvpkvydly.website
 .eebd3c4c48.com
+.eewqlmtwdsron.space
 .effectivecpmnetwork.com
 .effectivecpmrate.com
 .efficiency.visma.fi
@@ -2368,11 +2369,11 @@
 .ever-track-51.com
 .evitara.decastrosuzuki.com.br
 .evt-api.ntm.eu
-.ewqv6zcjlnw3hw.cfd
 .excellentrobin.com
 .exceptlone.com
 .exch.snoepdiscount.nl
 .exch.zuid.com
+.exdsogxhiatsx.space
 .executeknowledge.com
 .exelbid.com
 .exp.flowhq.com.au
@@ -2460,6 +2461,7 @@
 .fixagebiggety.rest
 .fizopp.duluthtrading.com
 .fjbzf.slickhair.com
+.fjfxeuiqwjhfo.website
 .fjnrh.period.co
 .fjvmj.dilettoso.com
 .fkfwyixbukmua.online
@@ -2558,6 +2560,7 @@
 .fujifilmdb.fujifilmdiosynth.com
 .fund.eloqua.org
 .fungicdiauloschemmy.qpon
+.funkingdefat.rest
 .funniestpins.com
 .fuqcxz.tennis-point.it
 .fuse.forbes.com
@@ -3202,7 +3205,7 @@
 .hello.littlemarie.uk
 .hello.ops.bpost.be
 .hello.wiziq.com
-.heroptionssideway.com
+.helvineslaked.rest
 .herrdhpt.lepel.it
 .herryimmixed.com
 .hevexiximyzywy.com
@@ -3642,7 +3645,6 @@
 .katecrochetvanity.com
 .katuchef-ss.shopradarz.com
 .kauvqr.schulteherenmode.nl
-.kbikfnjaprnkd.online
 .kbnmnl.com
 .kborst.modivo.sk
 .kbpdm.manscaped.com
@@ -3665,6 +3667,7 @@
 .keyade.ooreka.fr
 .keyshot.cc
 .keywordsconnect.com
+.kfbysoxcbleqk.space
 .kfdduc.superstari.co.kr
 .kfezdd.universal.at
 .kfvhn.oneractive.com
@@ -4449,6 +4452,7 @@
 .lxsway.devote.se
 .lymxj.com
 .lynx.inovo.io
+.lyricaljustinewicked.cyou
 .lzdjxp.icu
 .lzswdckjqxbjr.site
 .lzwdh6iwo.com
@@ -5184,6 +5188,7 @@
 .nmlcg.signsonthecheap.com
 .noa.yahoo.com
 .node.bodegadigital.biz
+.nonerr.com
 .nor.nordicprint.no
 .normallydemandedalter.com
 .normalmotor.com
@@ -5204,7 +5209,6 @@
 .nqjyv.wsjwine.com
 .nqxnvy.levi.com.hk
 .nrils.michaelkors.com
-.nrzufrlalmvak.site
 .nsc.natwestinternational.com
 .nsitza.terresdecafe.com
 .nspcapi.nationalschoolspartnership.com
@@ -5706,7 +5710,6 @@
 .qooig.jomajewellery.com
 .qortex.ai
 .qotms.aestheticmanagementpartners.com
-.qqcwkrvmpsssi.site
 .qqhvso.outiror.com
 .qrahi.macro-plate.com
 .qrgzm.topnutritionandfitness.com
@@ -5786,6 +5789,7 @@
 .reg.interop.com
 .register.boostymark.com
 .registertag.alimentosdobem.com.br
+.regluespitons.click
 .regzbkoyccvop.site
 .reindaks.com
 .reklama.shinden.eu
@@ -5842,6 +5846,7 @@
 .rjtoo.stewmac.com
 .rkdms.com
 .rktpa.eshopygo.si
+.rlophkhxsdtma.online
 .rn30y7u7h.com
 .rnotraff.com
 .rnrjpr8gc.com
@@ -6570,9 +6575,11 @@
 .smsulx.kijijiautos.ca
 .smtp2.happ.social
 .smuc.cnnfootballclub.com
+.smvxwnlahkdea.online
 .snapmobileasia.net
 .snarlingrequirement.com
 .snazkmgnaprwj.website
+.sngpyudhhdjca.space
 .snowplow-pixel.tradingview.com
 .snsv.ru
 .snuk.icebikesuk.com
@@ -7797,6 +7804,7 @@
 .sync-a8.cocolocala.jp
 .synonymoussticks.com
 .sysmon.kakaku.com
+.syvxbvuaibmaf.site
 .szkngudpzkgan.website
 .t-s.revealvirology.com
 .t.aampere.com
@@ -7978,6 +7986,7 @@
 .technical.kyzen.com
 .techservice.response.midmark.com
 .techstape.collegevidya.com
+.tectamuehgovj.space
 .teenytinyshirt.com
 .tehmb.etrendygo.com
 .telemetry.eyeo.com
@@ -8535,6 +8544,7 @@
 .ufa9tt1n5.com
 .uffqearh.indigolfclubs.com
 .ug.urban-goddess.com
+.ugazuogyeeadt.online
 .uggbizedncnoa.website
 .ugivv.mansurgavriel.com
 .uhlagm.rakurakuseisan.jp
@@ -8812,7 +8822,6 @@
 .weejnu.elementbrand.com.br
 .wejpuy.factor75.com
 .wellanailshop-sst.shopperhiva.com
-.wewearegogogo.com
 .wf.typesquare.com
 .wftihvn.xyz
 .wgmmlpgkhleac.space
@@ -8925,6 +8934,7 @@
 .xdyn03070jy.com
 .xdyn03130jy.com
 .xenlzn.icu
+.xgfoyrudzstsr.online
 .xgfps.golfclubs4cash.co.uk
 .xglcva.racechip.us
 .xgspzv.troyestore.com
@@ -9066,8 +9076,10 @@
 .zhenxinet.com
 .zhigweuezkmqp.website
 .zhzdz.shopiammi.com
+.zigptycmiycjn.space
 .zimpolo.com
 .zion.api.cnn.io
+.zioshdvobbgim.website
 .zisdqzcpzgarq.space
 .zituz.smartandsexy.com
 .ziuqvl.ledstripkoning.nl

@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-10T00:40:18.593Z
-# Size: 147705
+# Last Updated: 2026-11-10T22:21:05.752Z
+# Size: 147964
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:s-0IwnUaLStf9Ka2wDmaT_g2z4qjHmBQCzfujfzvlzw$
+# $content-hash-v1$:wCkbXb0ZFLV8USqp1JPzRl7acmiMMLzX0ldTTkWoDtc$
 # 
 # EOF ##################
 .01counter.com
@@ -581,7 +581,6 @@
 .angelfish.shorehamlife.com
 .angve.lioridiamonds.com
 .anl.eclore.com.ua
-.annulargulleys.com
 .ans.mlb.com
 .ans.yesnetwork.com
 .ansuksar.com
@@ -594,6 +593,7 @@
 .aoajpduhohlpi.site
 .aofqn.moderngames.com
 .aoqcqh.eavalyne.lt
+.apbrumavwr.in
 .aphpgvbfcaiza.space
 .api-ktm.kkday.com
 .api.aletraderr.com
@@ -800,7 +800,6 @@
 .audiencefuel.com
 .aufef.juneandvie.com
 .auoehd.liebscher-bracht.com
-.auppgitozvbdd.space
 .aurora.presentesgeek.com
 .ausclh.castlery.com
 .aust.alliedacupuncture.com.au
@@ -951,6 +950,7 @@
 .bilahh.feuvert.fr
 .billing.roofnrack.us
 .bird.flynorse.com
+.bistrosflu.com
 .biuisz9ss.com
 .bjknycplkbyse.site
 .bjkoi.incommonbeauty.com
@@ -1002,6 +1002,7 @@
 .bowldescended.com
 .bpblv.katesylvester.co.nz
 .bpgbcl.coconala.com
+.bqbgshfmnhuza.space
 .bqcmk.gardenofmemoriesmetairie.com
 .br.inhaabit.com
 .br930.belarus.caseme.by
@@ -1228,6 +1229,7 @@
 .cjiub.styleedit.com
 .cjjvjjjg.nbovvhut6yituwec.cyou
 .cjlph.com
+.cjvwedvpdnjsi.online
 .ck4hkyq3myt6.com
 .ck7uo6g36.com
 .cko.integrateme.com
@@ -1306,6 +1308,7 @@
 .collector.statowl.com
 .collector.taoxh.life
 .collectorj.tvsquared.com
+.colloidsaga.click
 .colloqcatapan.cyou
 .combitedoeglic.com
 .combrand.v1.edgekey.net.easyjet.com
@@ -1462,6 +1465,7 @@
 .ctx.start.scaledai.org
 .ctx.westwest.com
 .cuarb.cartersoshkosh.ca
+.cubdomdwamish.qpon
 .cudgoz.mifcom.de
 .cueohf.corvettepassion.com
 .cueohf.forum-actif.net
@@ -2218,6 +2222,7 @@
 .eiftfa.fashionette.de
 .eikwax.marmot.com
 .eipeermd.xyz
+.eirqltkfddttl.website
 .eisif.greenleafblends.se
 .eiteribesshaints.com
 .eizzih.com
@@ -2308,6 +2313,7 @@
 .epswiopwxylwi.site
 .eq-tracking.d-marketing.ricoh.co.jp
 .eqoz31mx818qiil4p7tfg.cfd
+.eqrzjerfwhcvx.space
 .equirekeither.xyz
 .erdev4.eulerian.io
 .ergometrix.prodesk.bg
@@ -2399,8 +2405,10 @@
 .eyhyvj.asiatours.de
 .eynaxnvzruafs.online
 .ez2q38b1ik.com
+.ezkzzvzwfjasj.website
 .ezoeyd.planetahuerto.pt
 .eztravude.com
+.ezygwbeelptbx.site
 .f.a23.in
 .f1.estilomma.com
 .f1.np6.com
@@ -3284,6 +3292,7 @@
 .hocgeese.com
 .hodor-collect.arabam.com
 .hodrefers.com
+.hoffpsrrqcymm.site
 .hohmanrtit.com
 .hohosearch.com
 .hojskole.krogerup.dk
@@ -3545,7 +3554,6 @@
 .intg.snapchat.com
 .intimatediary.com
 .intranet.rottne.com
-.inturnsmanager.cfd
 .invitation.mindbliss.com
 .invite.cippy.it
 .invite.colu.com
@@ -3582,7 +3590,6 @@
 .jackal.jakerunzer.com
 .jaimi.oceandrip.au
 .jay.howivscode.com
-.jbpqyfefyppfff.com
 .jclqeq.naszyjnikimie.pl
 .jcnmz.aprils.co.nz
 .jcr3.onlyyouhotels.com
@@ -3687,6 +3694,7 @@
 .kbdhkjgh.gullmarsstrand.se
 .kbset.henneverpackung.de
 .kcnqur.guante.cl
+.kco3up8miwi1cqv.rest
 .kcyjhawac.in
 .kdarje.garten-und-freizeit.de
 .kdkhip.bookoffonline.co.jp
@@ -4460,7 +4468,6 @@
 .main.adblock-gold.com
 .makeuppillow.com
 .maldives.pristine.mv
-.malkitekoft.qpon
 .mamminfinfish.com
 .managed.xmpp.foxtel.com.au
 .map.rockwellautomation.com
@@ -5031,7 +5038,6 @@
 .monthsexpressive.com
 .moose.eldorado.gg
 .moose.octo.app
-.moppetsnandi.cyou
 .more.bier-events.de
 .more.citygames-berlin.de
 .more.citygames-nuernberg.de
@@ -5041,6 +5047,7 @@
 .mountain48.top
 .mounteehut.com
 .movedmensing.com
+.mowjikjotqhka.website
 .moyanaarxvtmo.website
 .mp.cwtv.com
 .mpbpi.munfashion.com
@@ -5229,6 +5236,7 @@
 .ny2oqsu7et.com
 .nya2.com
 .nydfz.gog.com
+.nzxepbrvqtmwn.online
 .o.bluewin.ch
 .o.catalyst.com.sa
 .o.efaxcorporate.com
@@ -5492,7 +5500,6 @@
 .phukienthoitranggiare.com
 .piannetrabat.cyou
 .piatan.piatannatural.com.br
-.picklerrisser.cyou
 .pierisrapgae.com
 .pig.curtisherbert.com
 .pimoverfee.com
@@ -5705,6 +5712,7 @@
 .qjudfh.hh-taiwan.com.tw
 .qkhhjm.autoscout24.nl
 .qksbin.nocturne.com.tr
+.qlhbogdkshotr.website
 .qljiop.allabout.co.jp
 .qlqvej.bahia-principe.com
 .qmyamxdku.in
@@ -5742,6 +5750,7 @@
 .qvzrde.mensagenscomamor.com
 .qwtxwaehcajag.online
 .qwwyf.extraholidays.com
+.qypgnzjkoawpe.online
 .qyronj.trademax.dk
 .qzbpfqqc.mysterymakers.dk
 .qzl8.destinia.fi
@@ -5791,6 +5800,7 @@
 .redexecs.com
 .redtr.aronia-charlottenburg.ro
 .redtrack.antihost.com
+.reelcombat.com
 .reemilsie.com
 .referrals.ridealto.com
 .refraction55.com
@@ -5900,6 +5910,7 @@
 .rrnkmzaflln.com
 .rrpaafci9i.com
 .rrznha.lanvin-en-bleu.com
+.rsecahgkyjzas.site
 .rsfzjtdmbmxdfq.com
 .rshtlian.com
 .rsst.carolinaturfservices.com
@@ -7904,7 +7915,6 @@
 .swordfish.floofs.com
 .swordtail.hnh.digital
 .swwcyk.takvim.com.tr
-.sxcclxzqbmxvi.space
 .sxjfhh.courier-journal.com
 .sxjfhh.desertsun.com
 .sxjfhh.detroitnews.com
@@ -8124,6 +8134,7 @@
 .tenaciousd.zeeprime.com.br
 .tepwxt.bonescoffee.com
 .terbit2.com
+.terciohagrid.click
 .tesseraunpiece.com
 .test-lp.m2.disneydestinations.com
 .test.legitcode.ws
@@ -8592,6 +8603,7 @@
 .trk04.informatech.com
 .trk2.autopolicyguys.com
 .trkcmb.empresas.hsbc.com.mx
+.trliawvdxthkz.website
 .trserv.snusexpress.ch
 .trtlb.apolloneuro.com
 .truckstomatoes.com
@@ -9063,6 +9075,7 @@
 .xbbznszm.com
 .xbuqi.ihqm85jbqurbnr.cyou
 .xckxrn.endriss.de
+.xcuaxkknloypd.site
 .xdirectx.com
 .xdrlthfhikvgm.club
 .xdyn03060jy.com
@@ -9176,12 +9189,14 @@
 .yymowvdy0.com
 .yzaxye.animal-valley.com
 .yzsnrn.n-shine.com
+.yzwpxwxkmeqxt.site
 .yzwtz.com
 .z1fl848ft.com
 .z2ke56999.com
 .z8hnppzl5no5ot8376zzwwgyzqu51r.cfd
 .zabbix.tbllreg.com
 .zakelijk.cz.nl
+.zamiaboort.com
 .zamioculcas2.org
 .zannv.wearfigs.com
 .zanyapps.com
@@ -9235,6 +9250,7 @@
 .zrjvg.splits59.com
 .zrknjk.countrystorecatalog.com
 .zrmggs.distance.eu
+.zrshcirokjuur.online
 .zs.voyage-prive.com
 .zskni.saucepizzaandwine.com
 .zspza.snapsupplements.com
