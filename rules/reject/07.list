@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-10T22:21:05.752Z
-# Size: 147964
+# Last Updated: 2026-11-11T23:26:58.198Z
+# Size: 149619
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:wCkbXb0ZFLV8USqp1JPzRl7acmiMMLzX0ldTTkWoDtc$
+# $content-hash-v1$:U3E-dMrB4Hp8wSq5kuRDRZYeF9mZuGeegqjA83FMJY4$
 # 
 # EOF ##################
 .005ad66f1d.com
@@ -85,6 +85,7 @@
 .1y55vfy87.com
 .2020mustang.com
 .217019d79b.172769f118.com
+.21hn4b64m.de
 .29pt.7ipjpgy1nz4bzqx4y9q4r45cz4jy.cyou
 .2bj4iy5kc83bk13x33w8ez.cfd
 .2e629ntxk3.com
@@ -194,6 +195,7 @@
 .a.meinmpp.de
 .a.miyudaquan.top
 .a.rohde-schwarz.com
+.a.setup.moe
 .a.sixstatesignal.com
 .a.topya.com
 .a.ttest.fr
@@ -381,6 +383,7 @@
 .adultsense.net
 .adultsense.org
 .adups.cn
+.advantageroughplay.com
 .adventurouscomprehendhold.com
 .adversalservers.com
 .advise.gallup.com
@@ -504,6 +507,8 @@
 .amusingbase.com
 .anal.slimis.si
 .analista.jakstore.co
+.analityka.podmlotkiem.pl
+.analysis.gooverseas.online
 .analytic-client.blitzmightyparty.com
 .analytic.buoyweather.com
 .analytic.newmexico.aaa.com
@@ -523,6 +528,7 @@
 .analytics.buoyweather.com
 .analytics.byub.org
 .analytics.canaltcm.com
+.analytics.canibringto.com
 .analytics.cglearninghub.com
 .analytics.churchtools.website
 .analytics.clubic.com
@@ -540,6 +546,7 @@
 .analytics.ferrero.com
 .analytics.fnbfinancialjourney.com
 .analytics.fnbsd.com
+.analytics.fontwerk.com
 .analytics.foresee.com
 .analytics.gentselegance.com
 .analytics.gshc.ch
@@ -551,6 +558,7 @@
 .analytics.infosysbpm.com
 .analytics.innologica.com
 .analytics.islamicfinder.org
+.analytics.jorisslagter.nl
 .analytics.khamksa.com
 .analytics.komoder.at
 .analytics.kubasta.net
@@ -579,13 +587,17 @@
 .analytics.starlink.com
 .analytics.superstation.com
 .analytics.tabichan.jp
+.analytics.tcgcompany.app
 .analytics.techdivision.com
+.analytics.thehelpfulinsight.com
 .analytics.ticimax.cloud
 .analytics.tnt-tv.ro
 .analytics.tntdrama.com
 .analytics.truckingauthority.com
+.analytics.tsdylab.com
 .analytics.unbound.ae
 .analytics.upworthy.com
+.analytics.vadonegociosimobiliarios.com.br
 .analytics.valheimgamer.com
 .analytics.wakihiko.co.jp
 .analytics.whatzon.today
@@ -975,12 +987,14 @@
 .bitsfagald.com
 .bjcbc.anglingdirect.co.uk
 .bjigk.savemycatholicmarriage.com
+.bjjdeotpjglih.website
 .bjvzpk.schuler.ch
 .bjxoyrb4rouvtuiqk.cfd
 .bkjhqkohal.com
 .bkmzhr.joint-space.co.jp
 .bktmsst.baktoma.sk
 .bkufc.meridiangrooming.com
+.bkvkoaiwfrrnt.website
 .blackberry.suvinil.com.br
 .blackunevenabridge.com
 .bladswetis.com
@@ -1229,6 +1243,7 @@
 .chainads.io
 .chalinamajagga.click
 .charmingtiger.me
+.chat.asset-recoovery.com
 .cheapmachinerywail.com
 .check.tadapi.info
 .check2.bankofscotland.co.uk
@@ -1251,6 +1266,7 @@
 .cinemabonus.com
 .ciqne.myobvi.com
 .ciqtracking.com
+.cirjoiqvewufy.online
 .cis.harris.com
 .ciscopowerofpartnership.com
 .citizenship.quantresear.ch
@@ -1355,7 +1371,6 @@
 .combatbaskstationery.com
 .comediandesired.com
 .comm.toro.com
-.commemoratewisdomcontemn.com
 .commendhealthagitation.com
 .commercial.equifax.com
 .commercial.inform.equifax.com
@@ -1545,6 +1560,7 @@
 .d.isototaal.nl
 .d.jeremyloreau.com
 .d.jricards.com
+.d.kelviq.com
 .d.lh-elteknik.dk
 .d.mecsekclean.hu
 .d.moeiteloosindemedia.nl
@@ -1556,7 +1572,6 @@
 .d.vehgroshop.se
 .d.zoemed.ai
 .d.zpark.se
-.d11tybz5ul8vel.cloudfront.net
 .d1304a2026h1123.spadaciniveterinaria.com.br
 .d13082025.deltaconsertodegeladeiras.com.br
 .d140sbu1b1m3h0.cloudfront.net
@@ -1592,7 +1607,6 @@
 .d34r8q7sht0t9k.cloudfront.net
 .d37abonb6ucrhx.cloudfront.net
 .d38goz54x5g9rw.cloudfront.net
-.d39hdzmeufnl50.cloudfront.net
 .d3c8j8snkzfr1n.cloudfront.net
 .d3d52lhoy0sh2w.cloudfront.net
 .d3dq75ilej3qlf.cloudfront.net
@@ -2168,6 +2182,7 @@
 .e.preisapo.de
 .e.qq.com
 .e.shop.app
+.e.zugutschein.de
 .e19tgpeowj9otr5h.cfd
 .e1c.curtisswrightds.com
 .e2.capitalandgrowth.org
@@ -2425,6 +2440,7 @@
 .events.ricoh.co.uk
 .events.shop-nh.com
 .events.sk.ht
+.events.stocks.help
 .events.swindonrendezvous.co.uk
 .events.tam-akademie.de
 .events.tdotperformance.ca
@@ -2483,6 +2499,7 @@
 .fb.serupractice.com
 .fbcapi.tasa.com.bd
 .fbolloiwd.com
+.fbouuanxwspzh.website
 .fbu8.ticket-online.montecarlolive.com
 .fc.die-werkkiste.de
 .fcapi.billionsclub.com
@@ -3462,6 +3479,7 @@
 .ilbywbnmuqnsq.online
 .ilkk97e98lvg.www.sidsplumbing.ie
 .ilm.winalist.nl
+.ilnsuyxbzrcqs.space
 .ilvuqx9vlt.com
 .image.deginvest.de
 .images.care.ssmhealth.com
@@ -3705,6 +3723,7 @@
 .jeflrvle.facialteam.eu
 .jenonaw.com
 .jfawllqc.com
+.jgayqzye.com
 .jggpz.manieredevoir.com
 .jgioj.eshopygoexpress.cz
 .jgr.legendebikes.com
@@ -3787,6 +3806,7 @@
 .jywn7lkbdw.com
 .k.itribe.in
 .k.knuffelwuff.de
+.k.krito.be
 .k.laredoute.ch
 .k.lavuneattire.com
 .k1.wendahu.com
@@ -3837,6 +3857,7 @@
 .kmjpxj.musement.com
 .kndtax.footway.fi
 .knfaah.asustore.it
+.knickixodids.cfd
 .knobsassault.com
 .knptu.titanbuilders.us
 .knqthm4fc.com
@@ -3870,6 +3891,7 @@
 .kw3y5otoeuniv7e9rsi.com
 .kwaefd.rusty.com
 .kxj6y.buvanha.be
+.kxwzalqsecehl.website
 .kyqkyumnlbjik.online
 .kzfvmhkubmlyn.online
 .l.azarlive.com
@@ -4493,6 +4515,7 @@
 .loverevenue.com
 .lowerthewatts.net
 .lowwoodtanner.cfd
+.loyaltymatrix.com
 .lp.boradetop.com.br
 .lp.club.costacoffee.pl
 .lp.froala.com
@@ -4693,21 +4716,55 @@
 .matomo.afservice.eu
 .matomo.alpinasoft.de
 .matomo.amazonica.eu
+.matomo.amexquisito.eu
+.matomo.arsenaleu.eu
 .matomo.arteconcreto.eu
 .matomo.aurolio.de
+.matomo.bernis-plattenboerse.de
 .matomo.blacklightsstudio.eu
+.matomo.caros-presents-prints.de
+.matomo.chrysanthema.eu
+.matomo.chucknunnjr.de
+.matomo.cmp-eula.eu
+.matomo.edchem.eu
+.matomo.eurodeafhandball2016.eu
+.matomo.ex-joker.eu
+.matomo.eypai.net
+.matomo.filipdev.eu
+.matomo.geliupristatymas.eu
 .matomo.gfm-printer.de
+.matomo.goettliche-samen.de
+.matomo.heilpraxis-arneth.de
+.matomo.hrvaska365.eu
+.matomo.hrvatskituristickivodic.eu
 .matomo.imperialclean.eu
 .matomo.inhaledesign.de
+.matomo.isd-center.eu
 .matomo.katyamiller.de
+.matomo.kea-blizzar.eu
 .matomo.kordani.eu
+.matomo.kuhli.eu
+.matomo.littleluxe.eu
 .matomo.maike-hummelsheim.de
+.matomo.maisongiulia.eu
+.matomo.mova-athletics.de
+.matomo.musicadelmondo.de
 .matomo.nicecolours.de
 .matomo.nikanagel-bulgaria.eu
+.matomo.parts4machines.eu
 .matomo.photographe-dijon.eu
+.matomo.punctro.eu
+.matomo.redvfx.eu
+.matomo.saintarnoulf.eu
 .matomo.scolar.cz
+.matomo.sexcams4u.eu
+.matomo.sf.hamburg
+.matomo.smartedu40.eu
 .matomo.svberlinerbrauereien.de
+.matomo.techcomfort.eu
+.matomo.thp-breitenbach.de
 .matomo.tovve-coaching.de
+.matomo.tranzax.eu
 .matomo.villamarta.eu
 .matomo.virtuace.eu
 .matomo.visualnodes.eu
@@ -4719,6 +4776,7 @@
 .mbmgivexdvpajr.com
 .mbns.bruker.com
 .mbox12.offermatica.com
+.mbyaaukeizite.online
 .mbyfhkzasrxbn.space
 .mc.weather.com.cn
 .mc.webvisor.com
@@ -4775,6 +4833,7 @@
 .meowkofbxivyi.space
 .meremark.com
 .mergedlava.com
+.mesure.ad-works.fr
 .met.qz-online.de
 .meta-events.pelotonmagazine.com
 .meta-events.womensrunning.com
@@ -5031,6 +5090,7 @@
 .ml42.suempresa.com
 .mlhtmc.macnificos.com
 .mlidoneebhsjy.online
+.mljkzxrvtieeh.website
 .mlqzau.koffer.com
 .mlsys.xyz
 .mmc.magasinmotoculture.fr
@@ -5340,6 +5400,7 @@
 .one.fsylr.com
 .online.micro-shaver.site
 .ontalpilageblautok.cyou
+.oov.lenderhomepagecdn.com
 .open.clerkie.io
 .opendsp.vip
 .oph7o.montecarlosbm-corporate.com
@@ -5392,8 +5453,10 @@
 .oyssqe.easyvoyage.com
 .oyz61nhz8.com
 .p-cg64-slinganalytics.movetv.com
+.p.divinesong.com
 .p.lbserver.xyz
 .p.raasnet.com
+.p.runhaven.org
 .p.softmedia.cz
 .p004.raffi-hair.com
 .p14i6.1hvccubn4465g2k.cfd
@@ -5527,6 +5590,8 @@
 .pipsgain.com
 .pitdog.frsperformance.com.br
 .pityneedsdads.com
+.piwik.agglo-larochelle.fr
+.piwik.incms.net
 .piwik4.pcsol.com
 .pix.pontiac.media
 .pixel-tracker.com
@@ -5573,7 +5638,6 @@
 .plsbl.eu
 .pluffdoodah.com
 .pluggedlabs.com
-.plugs.co
 .pmbnf.beauty-heroes.com
 .pmpantdgzvttbk.com
 .pms.planejamento.marketing
@@ -5645,7 +5709,6 @@
 .psceiiwiwgswf.site
 .psedwm.com
 .pshb.me
-.psibkjdxecrte.online
 .psnxiljx.com
 .pspqlm.rndsystems.com
 .psuhofevzdnyz.online
@@ -5696,7 +5759,6 @@
 .qcpqn.bunkbedsforadults.com
 .qcrohnef.com
 .qcumjg.modyf.de
-.qczbdzkbqm.com
 .qdzyspjx.com
 .qenb2pxx.xyz
 .qezfer.motelamiio.com
@@ -5849,6 +5911,7 @@
 .rfdpcnpf.rsrf.com
 .rfdxas.zackacademy.com
 .rfmqj.broadwaysd.com
+.rftgwmifboelz.website
 .rgpd.esmeralda.chat
 .rgpd.voltaneo.com
 .rgtm.bellaroad.com
@@ -5912,6 +5975,7 @@
 .rtk.trk.reliablecoveragetoday.com
 .rtlog.tiktokv.com
 .rubouthunger.com
+.rubymoonwinery.com
 .rufoustribes.cfd
 .rugiomyh2vmr.com
 .ruledkaimanthiolic.qpon
@@ -5955,6 +6019,7 @@
 .s.harborbrisk.com
 .s.kociarnia.pl
 .s.lybrae.nl
+.s.lynx360.pl
 .s.materna.de
 .s.mein-seelenschmuck.de
 .s.mundero.be
@@ -6376,6 +6441,7 @@
 .sever.gardhonbandeiras.com.br
 .sever.shilpomoy.com
 .seyfwl.smaker.pl
+.seyusxutyylve.site
 .sfft.conwindo.es
 .sfgysl.m-i.kr
 .sfngya.centrecom.com.au
@@ -7703,6 +7769,7 @@
 .stat.nyheter24.se
 .stat.otazkyodpovedi.cz
 .stat.rum.cdnvideo.ru
+.stat.skolkobrat.ru
 .stat.smarteca.cz
 .stat.szotar.net
 .stat.uuu9.com
@@ -7721,12 +7788,15 @@
 .statistik.matvidsiljan.se
 .stats-blog.lewsion.com
 .stats.aavacations.com
+.stats.acofmusic.studio
 .stats.adultswim.com
 .stats.affarsvarlden.se
 .stats.aikidowaza.com
 .stats.alleaktien.de
+.stats.altseasoncams.com
 .stats.alxwrd.co.uk
 .stats.aquasana.co.uk
+.stats.arm.logoff.cat
 .stats.articlesbase.com
 .stats.auto-dombrowski.de
 .stats.bertwagner.com
@@ -7735,6 +7805,7 @@
 .stats.bookingbuddy.co.uk
 .stats.bookingbuddy.com
 .stats.booncon.com
+.stats.cabin-quiz.com
 .stats.callawaygolf.com
 .stats.campaignlive.co.uk
 .stats.creativinn.com
@@ -7758,17 +7829,20 @@
 .stats.gohealthinsurance.com
 .stats.governmentcontractsusa.com
 .stats.habr.com
+.stats.hci.sh
 .stats.index.hr
 .stats.interactjs.io
 .stats.ioamra-monchau.fr
 .stats.isaacfreund.com
 .stats.itweb.co.za
+.stats.javguide.net
 .stats.jessesquires.com
 .stats.jtrees.io
 .stats.jun-etan.com
 .stats.ksiegoboty.pl
 .stats.landgasthaus.de
 .stats.landingi.com
+.stats.larmore.io
 .stats.leaguestats.gg
 .stats.lena-binkowski.de
 .stats.libero.fi
@@ -7778,13 +7852,18 @@
 .stats.mappl.tv
 .stats.mashwerk.io
 .stats.masterybits.com
+.stats.meet-the-creators.ch
+.stats.mpinto.org
 .stats.mrtnvh.com
 .stats.nana-maghreb.com
 .stats.nascar.com
 .stats.oneilglobaladvisors.com
+.stats.paieapaie.fr
 .stats.paymypremiums.com
 .stats.planningledger.com
 .stats.planxti.com
+.stats.pourlesgendarmes.fr
+.stats.practice365.co.uk
 .stats.profilehunt.net
 .stats.pronouns.page
 .stats.psykedeliskportal.dk
@@ -7821,7 +7900,9 @@
 .stats.tubecalculator.co.uk
 .stats.urlaubsverwaltung.cloud
 .stats.us-light-edge.com
+.stats.verinfer.com
 .stats.vican.me
+.stats.volimpetrzalku.sk
 .stats.wordpress.com
 .stats.wwd.com
 .stats2.cntraveler.com
@@ -7996,6 +8077,7 @@
 .t.orionvet.fi
 .t.pixelporto.com
 .t.scarletknights.com
+.t.shoelace.run
 .t.sjiainfo.com
 .t.ticketleader.ca
 .t.tinrate.com
@@ -8095,6 +8177,7 @@
 .tccd.niche-beauty.com
 .tcdwm.com
 .tchzz.gurneys.com
+.tckcirzwpwprd.website
 .tctde.slickhair.com
 .tcvhz.joahbrown.com
 .tczulp.econea.cz
@@ -8168,6 +8251,8 @@
 .tiq.sunlife.com
 .tiqcdn.cn
 .tiresomethunder.com
+.tj.uuname.cn
+.tj123.org
 .tjjvo.juneandvie.com
 .tjumv.mindgamesfragrance.com
 .tk.airfrance.co.th
@@ -8396,6 +8481,7 @@
 .tracking.accent-technologies.com
 .tracking.aifsabroad.com
 .tracking.alle-fuer-malle.de
+.tracking.arcade.now
 .tracking.asialadies.de
 .tracking.aupairinamerica.co.za
 .tracking.benettiyachts.com
@@ -8409,6 +8495,7 @@
 .tracking.conduit.com
 .tracking.corporatetraveller.co.nz
 .tracking.corteva.ca
+.tracking.creativecommons.qa
 .tracking.cspire.com
 .tracking.dataprobe.com
 .tracking.dshb.biology.uiowa.edu
@@ -8468,6 +8555,7 @@
 .tracking.svarts.com.br
 .tracking.synthasite.net
 .tracking.tchibo.de
+.tracking.time.barcelona
 .tracking.topnotchfurnishers.co.uk
 .tracking.undercovermunich.de
 .tracking.utedesign.no
@@ -8494,7 +8582,6 @@
 .trail.thomsonreuters.com
 .traker.leonardomariani.com.br
 .trap.skype.com
-.traumaticpower.com
 .travel.onlinevacationcenter.com
 .trcbv.pdfhelp.com
 .trck.dp.intuit.com
@@ -8566,6 +8653,7 @@
 .trust.zebra.com
 .try-snowplow.com
 .ts.candibox.fr
+.ts.horair.com
 .ts.hunkstheshow.com
 .ts.line-apps.com
 .ts.sopornvideos.com
@@ -8673,7 +8761,6 @@
 .uie.data.cbc.ca
 .uiejc.innosupps.com
 .uifesg.modulor.de
-.ujjktqovkohcl.space
 .ujvqrs.meandem.com
 .ujzqud.bestsecret.se
 .uknds.cartivoshop.com
@@ -8681,6 +8768,7 @@
 .uksqg.ridecased.com
 .ulayieklcdyas.site
 .ulmoyc.com
+.umami-wispy-dream-8048.fly.dev
 .umami.devliang.xyz
 .umami.vidcore.net
 .umami4.devliang.xyz
@@ -8801,7 +8889,15 @@
 .vipimo.accessbdd.com
 .virlji.turtlefur.com
 .vis.questera.games
+.visit.3dmodelrepairai.site
+.visit.ai-studios.online
+.visit.audio-to-text.info
 .visit.clipdrop.pro
+.visit.cutoutpro.online
+.visit.kaedim.pro
+.visit.motion-control.online
+.visit.musicremover.site
+.visit.unlucid.online
 .visitor-service.peek-cloppenburg.at
 .visor.sberbank.ru
 .vjdvzw.jumpoline.com
@@ -8815,6 +8911,7 @@
 .vmjdpk.repairclinic.com
 .vmsst.j4ksports.co.uk
 .vmts.teak24.de
+.vnbodehnermda.online
 .vnfjj.mtgdstudios.com
 .vocabulary83.com
 .volt.xeropicks.com
@@ -9238,6 +9335,7 @@
 .zoowunagraglu.net
 .zoqfehbkmcndr.website
 .zovurtamo.adic.swiss
+.zqbpgojxnbvzt.space
 .zqkdzl.invia.sk
 .zqmmambgpkdlv.site
 .zrfgofxt.com
