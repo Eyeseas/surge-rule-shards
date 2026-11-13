@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-11T23:26:58.198Z
-# Size: 149619
+# Last Updated: 2026-11-12T22:42:43.870Z
+# Size: 149575
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:U3E-dMrB4Hp8wSq5kuRDRZYeF9mZuGeegqjA83FMJY4$
+# $content-hash-v1$:92d20j0GpEP0ynvjyMDNV0w_9fGWN8NVs1UZ6OmbOqE$
 # 
 # EOF ##################
 .0.avmarket.rs
@@ -85,7 +85,6 @@
 .2bwiihrajn.com
 .2omfz9ygz2.com
 .2yqcaqbfnv.nextgen.shareablee.com
-.3.km7ru2n2jhtfjurotvho91ulyl4gk1121v.cfd
 .309e7ed67e.com
 .33kw1wc58.top
 .3400.org
@@ -108,7 +107,6 @@
 .40caidaylimpia.catzolab.net
 .4171ea7508.com
 .43290662000156.bsmultas.com.br
-.44e6d6204f.38d940fee0.com
 .4590bertn12.wir-gastfreunde.de
 .4k3nzijpm0.com
 .4nfesm3itf.com
@@ -132,7 +130,6 @@
 .6519114.mktg.tajawal.com
 .656zfyg3qg6372curvq8.fhbukww9wotn51x51.cyou
 .68efc320d7.com
-.6b899f30bf.08d59ed715.com
 .6b8emvi3ya.com
 .6eba825f3a.com
 .6k2fehacp.com
@@ -144,7 +141,6 @@
 .732quilulv.com
 .743w3z7pv.com
 .7794933491.transcribetotext.ai
-.7857f29d64.a04fd7399b.com
 .7b4lxqtj.xyz
 .7cbb97f2a8.com
 .7ciiewbz2neo1g9q5y5.rest
@@ -153,7 +149,6 @@
 .7magjd84rd.com
 .7mv57j214eeb4ky5.cfd
 .7mx.eider.com
-.7y5x.tl17lhvvhnpvig.cyou
 .864feb57ruary.com
 .88c75a2494.com
 .89ga0evbha.com
@@ -165,7 +160,6 @@
 .8x919j7l2l.com
 .8yuwd5lpj.com
 .90tsdpml6.com
-.95g9qp282fj9bxrp.cfd
 .95nedowamy-metrics.bancobmg.com.br
 .9735476.sender.skyscanner.com
 .98f316a886735460.pornfans.st
@@ -219,21 +213,17 @@
 .a8.ihinnoseiriyasan.com
 .a8.jiiawater.com
 .a8.job.lismi.jp
-.a8.kojyo-worker.com
 .a8.kujo-service.com
 .a8.lavie-official.jp
 .a8.liver-rhythm.jp
 .a8.mochu.jp
 .a8.ocnk.net
 .a8.ryugaku.kuraveil.jp
-.a8.sakuratravel.jp
 .a8.themoonmilk.jp
-.a8.thermostand.jp
 .a8.unicoffee.tech
 .a8.www.nicosuma.com
 .a8.xn--y8jd4aybzqd.jp
 .a8.yayoi-kk.co.jp
-.a8clkcv.tcb-beauty.net
 .a8cv2.jm-neo.com
 .a8cvhoiku.kidsmate.jp
 .a8ht.hipp.fr
@@ -252,7 +242,6 @@
 .aa.pacificdentalservices.com
 .aa.poptv.com
 .aab.taboohome.com
-.aab.z030z.com
 .aagcd.keymaster247.com
 .aakhn.openfarmpet.ca
 .aalpyojlgmvbu.space
@@ -885,6 +874,7 @@
 .auwfjo.danetti.com
 .avpgm.queencosmetics.store
 .avvoe.juicedbikes.com
+.awwzfykitvtbv.online
 .ax.amnezia.org
 .axeldivision.com
 .axnskz.power-stones.jp
@@ -898,7 +888,6 @@
 .axp.wowktv.com
 .ayatyv.mountainsteals.com
 .az43064.vo.msecnd.net
-.aziqhpijhudvv.online
 .azsct.juicepress.com
 .aztadtvrog.in
 .azuriteorthiteguaymie.cyou
@@ -1069,6 +1058,7 @@
 .branchioth.thehindu.co.in
 .branchtest.uk.puma.com
 .brandsmat.com
+.braoyjjkramdi.space
 .bravo.israelweather.co.il
 .breadcrumb.wearezrcl.com
 .breakfastboat.com
@@ -1295,6 +1285,7 @@
 .check.buetzandbeats.de
 .checkitoutxx.com
 .checkout-ss.tryrewave.com
+.cheerfulridge.com
 .cheese.sweetwatervalley.com
 .cherry.boxburning.com
 .chicerreshmarkka.cyou
@@ -1581,11 +1572,8 @@
 .customers.edgetag.io
 .cv.aedi.ai
 .cv.gas-choice.net
-.cv.michiuru.jp
 .cv.tenjin.cc
-.cv.wp-avenue.com
 .cv.xn--bcktcvdzde3c.biz
-.cv.zephylrin-x.net
 .cv1.start-eo.jp
 .cvmnq9cre.com
 .cvoyrn.astotel.com
@@ -2041,7 +2029,6 @@
 .dbzpek.nike.com
 .dc.fondoro.com
 .dc.jared.com
-.dcb01979d0.9876632bab.com
 .dcs.esprit.eu
 .dcs.esprit.sg
 .dcs.plussizetech.com
@@ -2141,7 +2128,6 @@
 .dlooqrhebkjoh.cloudfront.net
 .dluat.supremapoker.net
 .dlweij.coffrefortplus.com
-.dlxk2dj1h3e83.cloudfront.net
 .dm.toutiao.com
 .dmeq7blex6x1u.cloudfront.net
 .dmkdtkad2jyb9.cloudfront.net
@@ -2159,6 +2145,7 @@
 .donehumoral.cyou
 .dopa.com
 .doppler-config.cbsivideo.com
+.doriahedgingetymons.cyou
 .dornrusky.com
 .dot.wp.pl
 .dotdotlab.com
@@ -2235,7 +2222,6 @@
 .dyxpzildxdxkr.site
 .dz4ad.com
 .dznhlb.thezam.co.kr
-.dzupi9b81okew.cloudfront.net
 .dzwqfq.alpitour.it
 .e.businessclosureguide.com
 .e1e.io
@@ -2430,6 +2416,7 @@
 .eulerian.maison-facile.com
 .eulerian.malakoffmederic.com
 .eulerian.siandso.com
+.eupioneturndun.click
 .euqsfp.belluna.jp
 .eurogamer-uk.eurogamer.net
 .europehog.com
@@ -3473,7 +3460,6 @@
 .ibikini.cyou
 .icon.eu.armndx.com
 .idhtm.bb.com.br
-.idismghats.com
 .idnbz.epicaimmigration.com.sg
 .idykczaa.siriustalent.com
 .iegvm.threadwallets.com
@@ -3700,6 +3686,7 @@
 .javgg.eu
 .jbeof.tableclothsfactory.com
 .jcblar.floridarentals.com
+.jccvaxsiojjiu.online
 .jcpyyh.laredoute.es
 .jcqqtilsyufmz.space
 .jcuav.storytiles.com
@@ -3785,7 +3772,6 @@
 .jxvylwrra.com
 .jyuicr.codemonkey.com
 .jyzkut.com
-.jzo.bb1fm9cu612nz6ro4654h.cyou
 .k.cribofart.com
 .k3fhy6mcbveuqyfb.cfd
 .k3ia7.doersoflondon.com
@@ -3946,7 +3932,6 @@
 .ldv.midoplay.com
 .leads.whatboxdigital.com
 .leadsy.ai
-.leariersamarra.cyou
 .lejxhd.kiddo.gr
 .lekfso.hitohana.tokyo
 .lekven.jetcost.co.uk
@@ -4574,7 +4559,6 @@
 .lrjjly.rockler.com
 .lryfgwhaod.com
 .lskug.outdoorcookingpros.com
-.lsn.hqbang.com
 .lsrke.marcos.com
 .ltmxbxlhlacvz.space
 .ltnkpzlinptlde.com
@@ -4871,7 +4855,6 @@
 .med.fetzima.com
 .med.pasichnyk-lukian.com.ua
 .med.saphrishcp.com
-.media-sapiens.com
 .media.annavirgili.com
 .media.assets.dealeron.com
 .media.polariswealth.net
@@ -5652,6 +5635,7 @@
 .pixelvariety.com
 .pizzacesardf.frsperformance.com.br
 .pjtmj.miraiclinical.com
+.pkbknfzpmzutw.space
 .pkg.balluff.com
 .pkgmkwszinnhg.online
 .pkhpmpclulylm.site
@@ -5693,8 +5677,8 @@
 .pm.eu.viatrisconnect.it
 .pm.poqwua.cn
 .pmpbzjp.everydaydose.com
-.pmrockzenithdive.info
 .pmvwva.grandeline.com
+.pmzzjsbwtnroc.website
 .pn.tickets.openroadsrally.com
 .pnezhyeoxtvjg.site
 .pnnpan.cv-library.co.uk
@@ -5862,6 +5846,7 @@
 .qq.medvi.org
 .qqgnjlnakdhjw.site
 .qqmzen.elfadistrelec.no
+.qqrjliivwakm.com
 .qrcode.visit-thassos.com
 .qrkrr.doll10.com
 .qrksg.tuliphillrecovery.com
@@ -5904,6 +5889,7 @@
 .raf.postnl.be
 .ramartworks.com
 .ramp.purch.com
+.ramuleupbrim.com
 .rancemalars.com
 .rand.propspotter.com.au
 .random.osorteiodosprimos.me
@@ -5931,7 +5917,6 @@
 .rdwxfqohmdnsi.site
 .re.stjude.org
 .reach.ironmountain.com
-.reachmode.com
 .reactwizard.com
 .realsolutions.americanexpress.se
 .rebelhen.com
@@ -6076,12 +6061,12 @@
 .rvungiyqmcgue.site
 .rwpuqm.underarmour.es
 .rwupvdrxiaeyk.online
+.rwycumoq.in
 .ryknkrwqlndj.com
 .rz2xtcvuy.com
 .rzxjwryfzkmsm.site
 .s-ia.informatoreagrario.it
 .s.3gncloud.com
-.s.a4truck.com
 .s.absperrtechnik-direkt.de
 .s.ameriprisestats.com
 .s.aussieservices.com.au
@@ -7797,7 +7782,6 @@
 .stat.youku.com
 .static-cloudflare.workers.dev
 .static-rtb2.dsp-nexus.com
-.static.apexnative.com
 .static.bucketflare.xyz
 .static.eyandfarto.org
 .static.ityhereshallpu.com
@@ -8254,6 +8238,7 @@
 .tirassefpscomplex.cyou
 .titanads2.com
 .titanads4.com
+.titssolutes.cyou
 .tiw.meublezvous.com
 .tjn.abmelder24.de
 .tjn.tuopush.it
@@ -8335,7 +8320,6 @@
 .tpscw.littletrouble.com
 .tptd.parfumdreams.de
 .tpufe.centuryhomesamerica.com
-.tq.i5w8iy9x8j1ubk.cyou
 .tqxpnv.bauhaus.info
 .tr.actualites.reseau-lcd.org
 .tr.augenklinik-steiermark.at
@@ -8686,7 +8670,6 @@
 .typeouttrudge.com
 .typicallyuncovernull.com
 .tyserving.com
-.tz.mvfnu25fmn2ttqxg.cyou
 .tzqbdrwhse.com
 .tzwzos.garminstore.com.br
 .u.sabine-haenisch.de
@@ -8912,6 +8895,7 @@
 .vtmmn.ancientaurajewelry.com
 .vtrtl.de
 .vuqgzz.fiftyoutlet.com
+.vuwirjuxewcxf.website
 .vvogrqq6r.com
 .vwbptvlcrlxzpo.com
 .vwc9h9.28x81qpf8f3t7jjwbuuz7i169im.cyou
@@ -8919,7 +8903,6 @@
 .vylrhxnitzghi.website
 .vytf0mqa0.com
 .vz95953ow5.com
-.vziacskfiq.in
 .vzpua.emango.bg
 .vzudz.itshot.com
 .w.8bcv9nboc9uum1bw8.cyou
@@ -9147,7 +9130,6 @@
 .xegjucjq.jycaplastics.com.au
 .xekrbwex7d.com
 .xeznjrljmzpnp.online
-.xfabqkelmfmrv.online
 .xfepscsxpywbd.site
 .xfjy2fh28b.com
 .xfkqq.kulanikinis.com
@@ -9196,7 +9178,6 @@
 .xxxwap.pro
 .xyz.e-epipla.com
 .xzxbep.plantei.com.br
-.y3nouy9uobo.g3owuqu9y613jxqffj73o6.cyou
 .yaizkr.168cm.kr
 .yakshasanetch.cfd
 .yamlgv.cinziarocca.com
@@ -9220,6 +9201,7 @@
 .yhyumuoyahocw.website
 .yingt.fun
 .yingxiao.ximalaya.com
+.yjbbefafnukqy.com
 .yjpzqw.jackjones.com
 .yko.yogakledingonline.nl
 .yl04z4v.cn

@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-11T23:26:58.198Z
-# Size: 149619
+# Last Updated: 2026-11-12T22:42:43.870Z
+# Size: 149575
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,12 +21,11 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:U3E-dMrB4Hp8wSq5kuRDRZYeF9mZuGeegqjA83FMJY4$
+# $content-hash-v1$:92d20j0GpEP0ynvjyMDNV0w_9fGWN8NVs1UZ6OmbOqE$
 # 
 # EOF ##################
 .00c8741ed3.com
 .023hysj.com
-.03be2bbfe2.be09b02191.com
 .0d9063412c.com
 .0e9knynfb.com
 .0r5e0xvwes.com
@@ -56,6 +55,7 @@
 .147wei5b.2whnf9i15wthlf8.cyou
 .1548164934.rsc.cdn77.org
 .18mo21a2ji.com
+.194ij4epzhlp29v.rest
 .1adda2699c.com
 .1buu1.penyouw.com
 .1bva.sg.fr
@@ -70,7 +70,6 @@
 .1pop.online
 .1qocqk1fho.com
 .1sb.illusionsplasticsurgery.com
-.1ti8n22.8o9jjl21flk8hj.cyou
 .1ts24.top
 .1udy3nzsqx.com
 .202xs.com
@@ -103,14 +102,12 @@
 .3j0pw4ed7uac-a.akamaihd.net
 .3ng6p6m0.de
 .3pkf5m0gd.com
-.3pohpyurxxirl1mqtzj1mj2p1ftj.cfd
 .3sbbnyzps.com
 .3x8zapzon.com
 .3ylj411rdn.com
 .402.402online.com
 .4387isns-7647as.nakedbean.com
 .44-trk-srv.com
-.4499ee878f.009f45b51c.com
 .4b.oktium.com
 .4hf2saujov.com
 .4k1x3mkrus.com
@@ -141,6 +138,7 @@
 .6zy9yqe1ew.com
 .7.seventhings.com
 .70eb07b991.com
+.747.95g9qp282fj9bxrp.cfd
 .753.cpj7g6riuuoq4y9o.cyou
 .75rakcovr.com
 .777.triple7towing.co
@@ -165,7 +163,7 @@
 .8h56vxbj.e1t1r6ku3obq3p.cyou
 .8j7tu8vtxx.com
 .8mp.2vlg1rg5fjyuycrm674b.cyou
-.8nqp2.ur5tyhny69q53nntcz.cyou
+.8nlv8ih4wm37chqx7o4yc.cfd
 .8w76hjp1vd.com
 .8wipegw.zfr4j5zfi7m5wuuiwn.cyou
 .8zovisffy.com
@@ -173,7 +171,6 @@
 .9112rj8wo.com
 .93gtx4pc2w.com
 .9dmnv9z0gtoh.com
-.9fffadcb83.80af4c57a3.com
 .9nwplq7y2o.com
 .9t9r2tkr9.com
 .9tumza4dp4o9.com
@@ -214,20 +211,17 @@
 .a8.cookbiz.jp
 .a8.cypris-online.jp
 .a8.denwa-hikari.com
-.a8.direia-to.net
 .a8.eonet.ne.jp
 .a8.foods.petokoto.com
 .a8.global-mobility-service.com
 .a8.hemptouch.co.jp
 .a8.imagi-nation.jp
 .a8.kekkon.kuraveil.jp
-.a8.kissmusic.net
 .a8.lacitashop.com
 .a8.projectee.online
 .a8.pykespeak.jp
 .a8.sakemuseum.com
 .a8.shop.scrop-coffee-roasters.com
-.a8.snapmaker.jp
 .a8.tech-base.net
 .a8.tokihana.net
 .a8.tour-sys.com
@@ -400,7 +394,6 @@
 .affiliate.mobilonline.sk
 .affiliate.pasti.cz
 .affiliate.stibio.cz
-.affiliate.tripact.jp
 .affiliate.vasecocky.cz
 .affiliatefuel.com
 .affordedseasick.com
@@ -1317,7 +1310,6 @@
 .clientservice.alphasimplex.com
 .cliffgown.com
 .clk.ubi.com
-.clkcv.biglobehikari-kaisen.com
 .clknrtrg.pro
 .clmbtech.com
 .clnbze.gazetalubuska.pl
@@ -1611,7 +1603,6 @@
 .d1mkq4fbm7j30i.cloudfront.net
 .d1pwvobm9k031m.cloudfront.net
 .d1r9f6frybgiqo.cloudfront.net
-.d1rguclfwp7nc8.cloudfront.net
 .d1ue5xz1lnqk0d.cloudfront.net
 .d2.mltagdaekning.dk
 .d204slsrhoah2f.cloudfront.net
@@ -2095,9 +2086,7 @@
 .ditruntp.com
 .ditwrite.com
 .diylvz.seereisedienst.de
-.dizainembole.cyou
 .djncmafidfcpm.online
-.djwf0dl2q9i99.cloudfront.net
 .dk-psa.com-docs.edgekey.net.easyjet.com
 .dkonto.pl
 .dkre4lyk6a9bt.cloudfront.net
@@ -2215,6 +2204,7 @@
 .ea.officedepot.fr
 .ea.smallable.com
 .eabsukuop.com
+.eagerangle.com
 .eagleblossom.com
 .eapsqp.golvshop.se
 .eas2020-mylansymposium.com
@@ -2369,7 +2359,6 @@
 .eqfarzroinvyy.space
 .erg.ihclam.cn
 .ermiph.petermanningnyc.com
-.erovation.com
 .errlak.aromame.co.kr
 .error-collector.ted.com
 .error.videonow.ru
@@ -2745,6 +2734,7 @@
 .gmqvql.furnwise.co.uk
 .gndfs.vervefitness.com.au
 .gnefzpcdskw.com
+.gnfpweivqknli.space
 .gnla02051qp.com
 .gnrmty.eurovaistine.lt
 .gnxmvqfexzlnv.website
@@ -3264,6 +3254,7 @@
 .guzsc.luhxe.com
 .gv.3dassethub.com
 .gv0oi9ecji.com
+.gvkkgyozxagzk.website
 .gvlme.emango.si
 .gw.stape.fr
 .gw.tushyraw.com
@@ -3468,6 +3459,7 @@
 .iionads.com
 .iivmm.coolinastore.com
 .ijafud.heathcotes.co.nz
+.il3oqymnmmmet9yf7v735jyw.rest
 .ill-fatedodd.com
 .illustrious-consideration.com
 .illw1u4f5.m5epm48q1een36et9utu4g1ugupc8z.cyou
@@ -3708,7 +3700,6 @@
 .jenny.jenny-app.com
 .jeycmzwemqzfr.com
 .jeyttn.snipes.com
-.jezjwauhqqvor.site
 .jfdfvprfq.cachfires.co.uk
 .jfiklgnbjnapo.site
 .jfp6.destinia.de
@@ -4575,7 +4566,6 @@
 .m5i3wtd2s6.com
 .m69tvg6wqd.com
 .m6c4t9vmqarj.www.cefirates.com
-.m8.iu65v9f18fgifekcv1p3gg.cyou
 .m8hjt4bhchx7lcf2wy4qtk.cfd
 .m96v7deg59.com
 .ma.hitachi-systems.com
@@ -4783,6 +4773,7 @@
 .matomo.wohnix.de
 .matomo.zusammenkunft.berlin
 .matwbp.iask.sina.com.cn
+.mazerscuraceuprun.cyou
 .mazincike.com
 .mazu.sec.miui.com
 .mbbhij.mi-home.pl
@@ -5102,6 +5093,7 @@
 .mirabelanalytics.com
 .miscropeasting.cyou
 .missiqcalqmu.in
+.mistindue.click
 .mit.deutschewealth.com
 .mitpm.everdries.com
 .mitself.net
@@ -5303,7 +5295,6 @@
 .nhczsqgzpvejk.com
 .nhdhoj.ibs.it
 .nhfkuabmtisjt.online
-.nickiepithier.qpon
 .nidehetaira.com
 .niduspraisesbatoon.cfd
 .niljvt71w5.com
@@ -5628,7 +5619,6 @@
 .payiris.com
 .paymentslink.dropp.cc
 .pbaff.zumgarden.com
-.pbbsimvooomhn.online
 .pbkbdwcqvirjx.site
 .pbox.photobox.de
 .pbszh.sundayriver.com
@@ -5636,12 +5626,14 @@
 .pcdwm.com
 .pclick.yahoo.com
 .pclog.3u.com
+.pcpcg47ycvwxzyuq8fkwu.cfd
 .pdf.3djake.de
 .pdf.didgigo.com
 .pdfad.closertothesun.com
 .peafowl.prod.fyi
 .peahn.modlily.com
 .peakilyracists.com
+.peljakdcnhhic.online
 .pengeskabe.jcp.dk
 .pepakcktycsgu.online
 .peplessgroutsetym.cyou
@@ -5853,7 +5845,6 @@
 .qf51ho9qtz.com
 .qfkmyf.clarins.com
 .qfp.intuit.com
-.qgn.transhero.com
 .qgumjp.statiz.co.kr
 .qgyjjanwpq.com
 .qh3ws6xr53zy.integ.partsavatar.ca
@@ -5862,12 +5853,14 @@
 .qiacj.koala.eco
 .qicponpbnzrfr.site
 .qinchugudao.com
+.qisdulemxfuhz.website
 .qiyegongqiu1.qiyegongqiu.com
 .qizq4hn7pr.com
 .qjith.nativepet.com
 .qjurou.laredoute.com
 .qkphb.catherines.com
 .qlfqkjluvz.com
+.qlihcdthteggq.site
 .qlplayerr.cyou
 .qlqaec.suamusica.com.br
 .qlscg0qnz.com
@@ -5917,11 +5910,13 @@
 .racingorchestra.com
 .racket.metzler.fr
 .radar.snitcher.com
+.radcffbpaqwyr.space
 .rahqe.bighorngolfer.com
 .raisinggrannyexplode.com
 .rajkusfa.in
 .rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com
 .rankaddict.com
+.rashfulexplees.com
 .rastreamento.instemaqloja.com.br
 .rbptt.com
 .rbttmtauvcnpb.online
@@ -6085,6 +6080,7 @@
 .rusppiah.in
 .ruuaqkw.com
 .ruziecoraz.com
+.ruzrrgqtqukxm.online
 .rvbavxtjy.icu
 .rvcwmg.torbs.pl
 .rvh3n6zbr8ub45.luwvyzb8f8rfhbn9vor2b.cyou
@@ -6826,7 +6822,6 @@
 .sn.vitalstoffkraft.de
 .snaithnebalia.com
 .sneakedbiopsy.com
-.sneakkodkod.cfd
 .sng.simplydentalchatswood.com.au
 .snivelinginsect.com
 .snuea.coopsleepgoods.com
@@ -8049,6 +8044,7 @@
 .sxjfhh.redding.com
 .sxjfhh.theleafchronicle.com
 .sxvkhq.downlights.co.uk
+.syhnohomkjzth.website
 .sync.shinobi.jp
 .syncbm.com
 .syndication.dynsrvtbg.com
@@ -8267,7 +8263,6 @@
 .test.bevital.no
 .test.marketing.seasmiles.com
 .test.shigoto-web.com
-.testeanisole.cyou
 .testlink.kidzapp.com
 .testlink.saganworks.com
 .testtarget.jeep.com
@@ -8287,7 +8282,6 @@
 .tgw.web.de
 .tgw01eu1.akenza.io
 .thalesgroup-events.com
-.thcyurtm1icvw2ij.tbw31tlklby2kin11r2p8x4b.cyou
 .the.kroybazar.com
 .thebestgame2020.com
 .thecatmachine.com
@@ -8759,6 +8753,7 @@
 .uadllyad.com
 .uads.cc
 .uakhc.easyyesoffer.io
+.uazawlvvpacgj.space
 .ub.finanzfrage.net
 .ublockdns.com
 .uboiujkzwbp.com
@@ -8946,6 +8941,7 @@
 .vwbbpe.aircaraibes.com
 .vwvxrfnsmwakf.online
 .vxdqfsamhddju.online
+.vxflocowtxztw.site
 .vyhvdpjjgxqup.site
 .vyyikx.sixt.ch
 .vyz3nn85ed0e.controlconceptsusa.com
@@ -9081,6 +9077,7 @@
 .wpush.org
 .wqfflc.plantopedia.de
 .wqnwahvyzwpoe.online
+.wqonzyhaudivv.space
 .wraataikep.com
 .wrathyblesmol.com
 .wrhv.education.gouv.fr
@@ -9136,7 +9133,6 @@
 .x.sexhd.pics
 .x7r3mk6ldr.com
 .x822.mrt.com
-.x8y8awcr.xyz
 .xbredithhecfl.online
 .xceehglvudviv.space
 .xdeiaf.elleshop.jp
@@ -9192,6 +9188,7 @@
 .xyz.dordham.xyz
 .xyz.nobio.cz
 .xzhgiwsvvwuza.space
+.xzikwwnrymtny.space
 .xzjsvcjq.cbdmall.com
 .xzsqs.moshlife.com
 .y.photoint.net
@@ -9209,7 +9206,6 @@
 .ydtzzw.bernabeudigital.com
 .ydtzzw.firenzeviola.it
 .ydtzzw.parmalive.com
-.ye.yl5j7o2wwezxlipbbmbt3b3t9.cfd
 .yearlyartist.com
 .yellowjm.com
 .yerbalist.cookiesdispensary.com
@@ -9218,7 +9214,6 @@
 .yfjfmx.scahealth.com
 .yg4j3py9b.com
 .yg6p1tskn.com
-.yg9jyvl.3y8phttozu2o6yink4y5f.cyou
 .yieldingwoman.com
 .yieldtraffic.com
 .yijfdsu.cn
