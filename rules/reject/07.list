@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-12T22:42:43.870Z
-# Size: 149575
+# Last Updated: 2026-11-13T22:34:37.567Z
+# Size: 149804
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:92d20j0GpEP0ynvjyMDNV0w_9fGWN8NVs1UZ6OmbOqE$
+# $content-hash-v1$:emne8UReRGQsG1xoQsC3jniPxa_Dj6uiPwqXUYkdOtI$
 # 
 # EOF ##################
 .005ad66f1d.com
@@ -497,6 +497,7 @@
 .ami.coppermakersquare.com
 .amon1.net
 .amphibian.studionimbus.nl
+.ampulemaficbelches.cfd
 .amtkezsrxxmci.space
 .amunfezanttor.com
 .amusingbase.com
@@ -846,6 +847,7 @@
 .attend.ubm-events.com
 .atv.conlonmotorsportsfortsask.ca
 .atycs.profootballacademy.com
+.auavaxrfgyyrv.online
 .aud.ayvens.com
 .audio-ak.cdn.spotify.com
 .aurora-d3.herokuapp.com
@@ -930,7 +932,6 @@
 .beat.yourtv.jp
 .bebleedchuffs.cfd
 .beckslouping.cfd
-.becrossblendes.cyou
 .beewhispering.com
 .bef77.com
 .behave.noen.at
@@ -1061,7 +1062,6 @@
 .brmsiboiewolm.space
 .brnc.seidecor.com.br
 .brodownloads.site
-.broolamphore.com
 .brother.dekhajak.com.bd
 .browsertdidticket.m.qq.com
 .brt.studylabs.cn
@@ -1079,7 +1079,6 @@
 .bugs01171ko.com
 .bugsense.com
 .bulginglair.com
-.burleyalgy.com
 .bushhammer01.top
 .bushilydoddies.qpon
 .business.pismo.io
@@ -1284,7 +1283,6 @@
 .clcktrax.com
 .click-rtb2-useast.affinity.net
 .click-v4.jundclikrmdi.com
-.click-v4.junexclkmid.com
 .click.aaptiv.com
 .click.avalere.com
 .click.bokecc.com
@@ -2101,6 +2099,7 @@
 .drugtest.questdiagnostics.com
 .druhu.amerisleep.com
 .ds8k3y2d5n.com
+.dsbktckfycinl.online
 .dsccgm.com
 .dscgz.bulletjournal.com
 .dseedc.com
@@ -2128,7 +2127,6 @@
 .dt.verheestextiles.com
 .dt.xfyun.cn
 .dtc-330d.com
-.dtcggx.com
 .dtdjhb.icu
 .dtwfcizn.konner-sohnen.com
 .dtwfcizn.konner-sohnen.pt
@@ -2170,7 +2168,6 @@
 .dxgo95ahe73e8.cloudfront.net
 .dygassets.dygdigital.com
 .dystomeuterus.qpon
-.dziytaruejcdv.space
 .e-stat.huya.com
 .e.kc-education.com
 .e.preisapo.de
@@ -2284,6 +2281,7 @@
 .elasticchange.com
 .elbfn.cliqproducts.com
 .elementarysinger.com
+.elidesevetideinverts.cyou
 .elmerpmsd.com
 .elq.ansible.com
 .elq.brightmine.com
@@ -3265,6 +3263,7 @@
 .gxvlkzwimkiyb.site
 .gybyxsy1588.com
 .gzct.u3.ucweb.com
+.gzhpalnhttkad.online
 .gzq7cji8e.com
 .h1cn8nwng.com
 .h1q2toonvbkfuf9lbpufre.rest
@@ -5134,6 +5133,7 @@
 .msbainfo.fbe.hku.hk
 .msnpurf.themjewelersny.com
 .msr.boldmatters.ch
+.mstpimqyhnviq.site
 .mt.solarnearme.info
 .mtag.mman.kr
 .mtg.belininabytek.cz
@@ -5175,6 +5175,7 @@
 .myshop.usatradingdepot.com
 .mysite.webroot.com
 .mysjhc.mommyyasmin.com
+.mzkaknzzsilyg.website
 .n2ivsbik2.com
 .nabekdbrk.com
 .nafmxc.1083.fr
@@ -5235,7 +5236,6 @@
 .nextjscms-sgtm.1800gotjunk.com
 .nexus-track-ppr.dev.se.com
 .nexus.rottne.com
-.nffhqvabkunnl.site
 .nfs.justinsurance.co.nz
 .nfs.smartinsurance.co.uk
 .ngazee.novostroy-m.ru
@@ -5937,8 +5937,10 @@
 .rnybul.gismeteo.kz
 .roacc.hairlossreporter.com
 .roadmap.rottne.com
+.roamerprutoth.com
 .robertacapi.reformadigital.org
 .robhahalands.com
+.rockpoint.xhamster42.desi
 .rook.clarify.io
 .rottencycle.com
 .route.fotosemeins.nl
@@ -5984,7 +5986,6 @@
 .rugiomyh2vmr.com
 .ruledkaimanthiolic.qpon
 .runerskyfte.cyou
-.runnerwailaki.qpon
 .runnzk.pch-shop.de
 .rusenov.com
 .rusticprice.com
@@ -6708,6 +6709,7 @@
 .skirmish33.top
 .skp.jalg.me
 .sksvu.battlbox.com
+.skulpgodlikeagamous.cyou
 .skw.rngo.ca
 .sldoj.shoptimized.net
 .slf.fugu-it.com
@@ -6830,6 +6832,7 @@
 .sqnoiupwiklmt.online
 .squealingturn.com
 .sqzfj.landmarkathletics.com
+.sqzvrgmhmzsxc.com
 .srcjpleeeszmk.space
 .srsa.srglobal.com
 .srtrak.com
@@ -8247,6 +8250,7 @@
 .tidy.intel.com.br
 .tidy.intel.la
 .tidymitten.com
+.tigrishabodedcarryon.cfd
 .tilanalytics.timesinternet.in
 .tillingcuckold.com
 .tilt.blacktomato.com
@@ -8654,7 +8658,6 @@
 .trlcn.lindywell.com
 .trmzum.com
 .troopsassistedstupidity.com
-.trophondollies.com
 .trserv.snusexpress.se
 .trust.titanhq.com
 .trust.zebra.com
@@ -8693,6 +8696,7 @@
 .tutorials.karachitutor.com
 .tuulelipp.jyrgenson.xyz
 .tuxmat.surebaby.com
+.tvexnrsvytbeq.space
 .twigcrucialpal.com
 .twisty.net
 .twjobq.sixt.de
@@ -8805,7 +8809,6 @@
 .unwieldyimpulse.com
 .unxvbclfpnkow.online
 .uofcdl.lagos.com
-.uotgsvuyfczoe.online
 .upgaigawgffks.website
 .upl.daytodate.com
 .upshutvenison.qpon
@@ -8829,10 +8832,10 @@
 .usgzei.vidaxl.ch
 .uslandingpage.ajopremiumlearning.adls.adobevlab.com
 .usrkrz.zdravcity.ru
+.utcbcttnukrof.space
 .utmtmkfjbitxzlhijfce.top
 .utr.utravel.it
 .uttbtgsqxi.com
-.uubkyciiwborj.online
 .uudzkdihvjtit.site
 .uuqva.houzz.com
 .uuwaei.kulta-center.fi
@@ -9050,6 +9053,7 @@
 .wheoze.msf.or.jp
 .whibabelime.qpon
 .whitetrafsa.com
+.whktbjdqfxfle.online
 .whktr.runrocknroll.com
 .whoisezh.com
 .whoogled.com
@@ -9213,7 +9217,6 @@
 .xz0wefju.fun
 .xzblht.icu
 .xzhrwy.giordanoweine.de
-.xznjmpdfeooje.space
 .y.topya.com
 .y1.junshitt.com
 .y4e04gql5o1b.www.nookgaming.com
@@ -9324,12 +9327,12 @@
 .zjikqm.europcar.ie
 .zktxan.unitrailer.fr
 .zkwxohilcpfeb.online
+.zkyghqcgeaabl.site
 .zlinkp.com
 .zlywd.kasaustralia.com.au
 .zmetrics.boston.com
 .zmqdez.ru
 .zmxncb5.com
-.zmxuuwiovdzzj.online
 .zngaaixe.fit1.hu
 .znjysufu.com
 .znwsq.kulanikinis.co

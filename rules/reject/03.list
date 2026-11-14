@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-12T22:42:43.870Z
-# Size: 149575
+# Last Updated: 2026-11-13T22:34:37.567Z
+# Size: 149804
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:92d20j0GpEP0ynvjyMDNV0w_9fGWN8NVs1UZ6OmbOqE$
+# $content-hash-v1$:emne8UReRGQsG1xoQsC3jniPxa_Dj6uiPwqXUYkdOtI$
 # 
 # EOF ##################
 .01counter.com
@@ -977,6 +977,7 @@
 .bjkoi.incommonbeauty.com
 .bjnzxo.melvita.com
 .bkatroa.icu
+.bkgcrsgnrbwlf.website
 .bkhqzfwpmfjtx.online
 .blackbird.docstation.co
 .blackjack.abzorbagames.com
@@ -1073,6 +1074,7 @@
 .bvupgholrbbim.website
 .bwojbxwzpptvmo.com
 .bwquktubbb.com
+.bxflacvuc.com
 .bxumze.palmbeachdailynews.com
 .byjpsr.bobags.com.br
 .bypasseudev.stape.dev
@@ -1118,6 +1120,7 @@
 .camshq.info
 .cane.intel.la
 .cank9.site
+.cannarelived.com
 .cap.88ads.xyz
 .capi.alaslifestyle.com
 .capi.almodinashops.com
@@ -1226,12 +1229,14 @@
 .channelcamp.com
 .channelportal.netsuite.com
 .chargeplatform.com
+.chazzenmoffle.com
 .cheateecronus.com
 .checkcdn.net
 .checkmarx.cx
 .checkout-ss.getorbicam.com
 .cheetah.zeh.co.il
 .chemdraw.com.cn
+.cheorriuhxgfy.space
 .chewerchauvin.com
 .chgvlw.eider.com
 .chhav.oneractive.com
@@ -1566,7 +1571,6 @@
 .d1j9qsxe04m2ki.cloudfront.net
 .d1k8sb4xbepqao.cloudfront.net
 .d1n3aexzs37q4s.cloudfront.net
-.d1n7ypf85zfej7.cloudfront.net
 .d1nmxiiewlx627.cloudfront.net
 .d1nx2jii03b4ju.cloudfront.net
 .d1on4urq8lvsb1.cloudfront.net
@@ -2072,6 +2076,7 @@
 .dl.mail.accredo.com
 .dl.tytocare.com
 .dl5ft52dtazxd.cloudfront.net
+.dljacjdzmqgiq.site
 .dlog.perfectworldgames.com
 .dlp.egghead.link
 .dlwrdwlinolah.space
@@ -2107,7 +2112,6 @@
 .druzja.canmart.co.kr
 .dryzwmskikisl.site
 .ds.webprojectslab.com
-.dsb6jelx4yhln.cloudfront.net
 .dscex7u1h4a9a.cloudfront.net
 .dscjnr.com
 .dsdjbj.abracadabra.com.br
@@ -2203,6 +2207,7 @@
 .echinalfp.cyou
 .ecrsrhqhretbm.site
 .ecu.hagerty.com
+.ecygpwfhvovzr.website
 .ed.sugarshape.de
 .edbbjk.asiatours.no
 .edge.1011bigfm.com
@@ -2732,6 +2737,7 @@
 .glitzytracery.qpon
 .globo-ab.globo.com
 .gloporn.com
+.glowtanager.click
 .gmogqypfiyrtv.space
 .gmsllx.sorteonline.com.br
 .gnbhpo.matsuzaka-steak.com
@@ -3311,7 +3317,6 @@
 .hiuyxv.manhattanshop.it
 .hivlgfxx.fundustry.nl
 .hk.kazirhat.com
-.hkktisgvvwsuu.space
 .hlbizs.noo.ma
 .hm.ho-me.ro
 .hmrcv.trytroop.com
@@ -3589,6 +3594,8 @@
 .invite.colu.com
 .invite.juke.ly
 .invoicetick.com
+.inyxxkpjibhyh.com
+.iojjftavenuzl.space
 .iolga.isleoflight.com
 .iomaduexiqtho.space
 .iopxiu.wingly.io
@@ -5036,7 +5043,6 @@
 .mifamlfziobx.in
 .mihomoparty.com
 .milanss.marylanddivorceonline.com
-.mildconsciousness.com
 .mildgive.com
 .milseyratfink.qpon
 .mim26.papigames.bet.br
@@ -5328,7 +5334,6 @@
 .obra.obraelucro.com.br
 .obra.obramaster.pro
 .obstetrician36.com
-.obstinacysexist.com
 .obvioussecretive.com
 .ocbwmegh.in
 .ochringptolemy.com
@@ -5428,6 +5433,7 @@
 .orrislieus.cyou
 .orxo5m9nwcy4xk6w2n5jug8ve.cfd
 .osgxzapi.in
+.osmiumsbardee.com
 .oss.weread.qq.com
 .oszfblxxhwozi.online
 .ot.obi.pl
@@ -5772,6 +5778,7 @@
 .qa-sst.zola.com
 .qab0m5irus.com
 .qabni.myhealth-lifestyle.com
+.qaovnrsgnobov.website
 .qartzhhyfckyk.space
 .qccxvtfbk.com
 .qcrydchpkzlbw.online
@@ -5790,6 +5797,7 @@
 .qirqritp.com
 .qjbdm.apotheken-gesundheitstipps.com
 .qjqdkli0ag.com
+.qjqllbshdxeqq.space
 .qjudfh.hh-taiwan.com.tw
 .qkhhjm.autoscout24.nl
 .qkknpvgpwkuye.space
@@ -5871,6 +5879,7 @@
 .rdipmrbwgvk.com
 .re-media.info
 .re.fuliamart.com
+.reaayjjljjgaw.space
 .realm.hearst3pcc.com
 .realtimely.io
 .receive-lp1.dg.srv.nintendo.net
@@ -6160,6 +6169,7 @@
 .sazps.startverge.com
 .sb1.mangataro.org
 .sbbmzg.boks.app
+.sbicrwatvnavf.online
 .sbpb1.qulishi.com
 .sbpzeq.lululemon.com.au
 .sc.healthspan.ie
@@ -6696,7 +6706,6 @@
 .shop.bepositionless.com
 .shopify.roxom.com.au
 .shovon.zelonii.com
-.showmebars.com
 .shp.stayhealthy.ch
 .sia.carobnitim.hr
 .siazlw.cetroloja.com.br
@@ -6755,6 +6764,7 @@
 .smartiwheel.com
 .smbzbm.skymilescruises.com
 .smetrics2.nokia.com
+.smilepubes.click
 .sminerva.healthcentral.com
 .smlapllabrpny.website
 .smpl.hit.ppdb.pl
@@ -8234,6 +8244,7 @@
 .telemetry.phenixrts.com
 .telemetry.transcend.io
 .telemetrydeck.com
+.tempowraps.com
 .tenaciousd.zeeprime.com.br
 .tepwxt.bonescoffee.com
 .terbit2.com
@@ -8299,6 +8310,7 @@
 .tl2go.com
 .tlivqzkhtcxrp.website
 .tlsalw.platypusshoes.co.nz
+.tlsyblbxaetvh.online
 .tltkpu.jagran.com
 .tm.aquasani.it
 .tm.presence.com
@@ -8912,6 +8924,7 @@
 .verified.bridgesandbox.com
 .veselchaga.link
 .vfljt.coffeeandmotivation.com
+.vfnyvizdsdwtw.site
 .vgdzmvqyzjkuvv.com
 .vgfarjwduljqm.com
 .vhmewg.edreams.fr
@@ -8968,6 +8981,7 @@
 .voqmux.glamira.com.tr
 .voqysr.afr-web.co.jp
 .voslm.naturesjewelry.com
+.vovrtlbxpxyif.website
 .vpbez.swiglife.com
 .vphsiv.gsshop.com
 .vpvpgf.catawiki.be
@@ -9036,6 +9050,7 @@
 .waymenchorook.cfd
 .wb.winnerbatterien.de
 .wbdiul.dywanyluszczow.eu
+.wbjtrpqikumpp.site
 .wdbcus.ultimatepetnutrition.com
 .wdgqejreywujj.online
 .we.care.oswegohealth.org
@@ -9095,7 +9110,6 @@
 .webtracking.chamberlain.edu
 .webtrackingvet.rossu.edu
 .webts.adac.de
-.weightfeathersoffhand.com
 .welcome.qualicoliving.com
 .weligillysies.com
 .wemgbfegt.com
@@ -9188,11 +9202,13 @@
 .x9wy12ljtk8yz9nmrlzop2cculy1mrlwte.cfd
 .xad.com
 .xapads.com
+.xasfsktzrmrbz.online
 .xatosmxz.in
 .xbbznszm.com
 .xbuqi.ihqm85jbqurbnr.cyou
 .xckxrn.endriss.de
 .xcuaxkknloypd.site
+.xcvunchflllgp.online
 .xdirectx.com
 .xdrlthfhikvgm.club
 .xdyn03060jy.com
@@ -9318,6 +9334,7 @@
 .z2ke56999.com
 .z8hnppzl5no5ot8376zzwwgyzqu51r.cfd
 .zabbix.tbllreg.com
+.zafmbgwsshcce.website
 .zakelijk.cz.nl
 .zamiaboort.com
 .zamioculcas2.org
@@ -9365,8 +9382,8 @@
 .zmsfz.superduperburgers.com
 .znnvwmsjgyrbo.online
 .znqbzhiw.terra-ross.de
-.znrdyzqiaeros.site
 .zogle.sithealthier.com
+.zomnkbohityxo.site
 .zorfa.freiepresse.de
 .zprwx.hokiesports.com
 .zqhutmwasjdxd.website
