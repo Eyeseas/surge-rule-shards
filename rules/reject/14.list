@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-13T22:34:37.567Z
-# Size: 149804
+# Last Updated: 2026-11-14T21:27:08.630Z
+# Size: 149967
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:emne8UReRGQsG1xoQsC3jniPxa_Dj6uiPwqXUYkdOtI$
+# $content-hash-v1$:sLsFShEc2GnutEQ3opvcmmmRYKvjQ_5R9ZfyxvB0AJc$
 # 
 # EOF ##################
 .073m.com
@@ -95,6 +95,7 @@
 .2922qj5tf2n.swyftx.com.au
 .2h4els889.com
 .2iiyrxk0.com
+.2yh6rubr2nwkyyrx.cfd
 .30p70ar8m.de
 .324zerb3.gaststaettenunterrichtung-bw.de
 .35o6rrgk3qv4595jk6.lzvvj93zr2u1if9y4ynwy.cyou
@@ -111,6 +112,7 @@
 .4ad4ba0610.com
 .4armn.com
 .4fd0jlybx.com
+.4mhzgizyw28rfr.cfd
 .4mvkxs0o0.com
 .4mwe9ki9r.com
 .4seeresults.com
@@ -239,6 +241,7 @@
 .abcd.yiq.com
 .abe1.letartistsbe.com
 .abethow.com
+.abideantiquarianinflict.com
 .ablink.m.sofi.org
 .ablink.news.kfc.co.za
 .ablink.send.joinjamjar.com.au
@@ -873,10 +876,10 @@
 .b.thechivery.com
 .b.todaytix.com
 .b.vidmob.com
-.b43t3ckolyh9c221ebxpot56.cfd
 .b4641y3dw.com
 .b7d021a17f.58abee1628.com
 .ba5la9ccq.com
+.babres.xyz
 .babsst.buildabear.de
 .backend-sgtm.tugitark.com
 .baloe.xyz
@@ -980,6 +983,7 @@
 .blflslfkddvcv.online
 .blinks.mindoktor.se
 .blinkstest.mindoktor.se
+.blisterpompey.com
 .blmjbp.casamundo.pl
 .blog.tagcentral.fr
 .bls.coverbaby.com
@@ -1012,6 +1016,7 @@
 .boost.beyondalpha.co
 .boulder-collide.com
 .boulimyaurigo.com
+.bovldsneaps.com
 .box.creatye.com
 .bpfmssa.baileypsychtn.com
 .bpt.webedia-group.com
@@ -2223,6 +2228,7 @@
 .eevfstl1n.com
 .effectivecpmgate.com
 .efg.zle.com
+.efji4wl5ouowgv1r.cfd
 .efvcxevyy9lqbf.cfd
 .egvhd2ggc1.com
 .ehftql.soshape.com
@@ -2544,7 +2550,6 @@
 .fnl.quizizz.com
 .fnmvok.aaaradiatory.cz
 .focus.biggsuccess.com
-.fogegtcddjlsi.site
 .fohztovjigukz.space
 .foinedmtscmd.com
 .follow.1slideoffer.com
@@ -2647,7 +2652,6 @@
 .galeoidmuddish.cfd
 .gamefowl.emailforward.mx
 .gamerplay67.space
-.gangwaynumberprivacy.com
 .gaolcomptlytaxable.cfd
 .garvum.julesb.co.uk
 .gastdn.wolfandbadger.com
@@ -2700,6 +2704,7 @@
 .getme.grivola.nl
 .getme.vanharte.nl
 .geuqd.us.nadinemerabi.com
+.gezosteoma.cyou
 .gg.miinaa.com
 .ggai12190cp.com
 .ggai12211cp.com
@@ -3194,7 +3199,6 @@
 .gtmyt.melhorversao3.online
 .gtqkag.madeleine-fashion.be
 .guang1.zhakao.cn
-.guaninefulmine.qpon
 .guetardilliskyas.cyou
 .guhohvxtocum.in
 .guildernardoo.qpon
@@ -3248,6 +3252,7 @@
 .hcotvwpasqknw.space
 .hcsmec.decathlon.pt
 .hdesvtpufcd.com
+.hdfcwqwaqmnnn.website
 .hdlcscvhoyuhs.online
 .hdnse.newtonbaby.com
 .health-metrics-api.setapp.com
@@ -3282,7 +3287,6 @@
 .hlj10060ip.com
 .hlog.hiido.com
 .hmrgdccbkg.com
-.hnodmvcgffene.space
 .hntczfbfbsvhe.website
 .hoelikeissuers.rest
 .hokzn.vie-riche.com
@@ -3313,6 +3317,7 @@
 .hsefhnuodtav.com
 .hsektnmjyvshw.online
 .hstatstest.hepsiburada.com
+.htgdkmjwscepw.site
 .htiagq.sheplers.com
 .htkqj.rainbowshops.com
 .htlwbn.icu
@@ -3424,6 +3429,7 @@
 .impassableoffend.com
 .impeccablewriter.com
 .imperativefumebewitch.com
+.impkgarrxbgxn.site
 .implialelegiac.com
 .impulsejewel.com
 .imrboc.ikrix.com
@@ -3514,6 +3520,7 @@
 .innovation.changan.nl
 .innovation.prestonpalaceshop.nl
 .innovation.xpeng-center.nl
+.inpfumeqbrbgb.site
 .inquisitiveinvention.com
 .ins.oberpfalzmedien.de
 .ins.wolterskluwerfs.com
@@ -3665,6 +3672,7 @@
 .js-error-tracer-api.cafe24.com
 .jsdelivr.vip
 .jsmentry.com
+.jssdk.gogukypynijoxy.com
 .jssdk.sivycafybemude.com
 .jssdk.wisurajobuliwo.com
 .jssdk.woheticycehyho.com
@@ -3738,6 +3746,7 @@
 .kk.at.pamo-design.com
 .kkanalytics.rfox.de
 .kketr.ilovehue.store
+.kkptipbfgnmvl.space
 .kkznoe.autouncle.es
 .kleding.veritas.be
 .klfutm.missamara.com.au
@@ -3748,6 +3757,7 @@
 .knucqgzjrzyxs.online
 .knurryanele.cyou
 .koala.hicks.house
+.kodxmvgawgheh.space
 .koebpmhcce.com
 .kohlermetricssecure.kohler.com
 .kombblqgxclmc.site
@@ -3769,7 +3779,6 @@
 .kucku.gigago.vn
 .kuguopush.com
 .kujlq.cartivoshop.com
-.kultlxmwepqgi.online
 .kunkursparm.qpon
 .kuvpapzeapdv.com
 .kvdyehlhccbhk.space
@@ -5085,6 +5094,7 @@
 .mundi.nibapel.com
 .mundi.plunixo.com
 .munnin.hicsuntdra.co
+.muolaatqfqgmo.website
 .muoqe.bxn1hl237xzjftye.cyou
 .muse.originalculprit.co.uk
 .muse.originalculprit.com
@@ -5233,6 +5243,7 @@
 .notice.t-mobile.com
 .noupc.innosupps.jp
 .novadune.com
+.novaeillapseetonian.cyou
 .novell.rottne.com
 .novemberassimilate.com
 .novi.webnovi.eu
@@ -5263,6 +5274,7 @@
 .nurryfegsobb.cfd
 .nuyujp.barstoolsports.com
 .nvblthqojxran.online
+.nvceveycbhohj.space
 .nvielkaa.com
 .nwnyovsx.ourwunderland.com
 .nwpxuyrumutlj.store
@@ -5322,6 +5334,7 @@
 .oiyivlyqglj.com
 .oizfzrjavugyq.space
 .ojgot.solawave.co
+.ojksqwucsakpd.online
 .ojsjry.modyf.it
 .ojtlm.y4yw9g4u4kxh7xnr194jvjhenqq6v.cyou
 .ojufuk.vincecamuto.com
@@ -5414,6 +5427,7 @@
 .osmmfycaqh.in
 .osmnv.happyhairbrush.com.au
 .ot.obi-italia.it
+.otel-gw.booking.com
 .otioqs.srcasino.es
 .otr.kaspersky.ca
 .otr.kaspersky.com
@@ -5456,6 +5470,7 @@
 .pandora.xiaomi.com
 .panodewexyxibo.com
 .parrot.kijimea.com
+.parrotforest.info
 .partner.alesio.cz
 .partner.batesville.com
 .partner.brilianty.cz
@@ -5591,6 +5606,7 @@
 .plt.fairmontreed.co.uk
 .plugin.gartivo-living.de
 .plumprush.com
+.plvtvtkvalfuh.site
 .pm.eu.viatrisconnect.fr
 .pm.geniusmonkey.com
 .pmbjjsarqkjpr.site
@@ -5921,6 +5937,7 @@
 .rmwjwj.virginiahayward.com
 .rmzzjmbshnjbo.space
 .rndmlk8asw.com
+.rnetvvewsvcks.online
 .rnpqa.famousdaves.com
 .rnybul.gismeteo.lt
 .rnyhid.pepperfry.com
@@ -5932,7 +5949,6 @@
 .rockspreading.com
 .rofnjd.icu
 .roiapp.net
-.roosedramstam.com
 .ropkklzxoywtc.space
 .rottenray.com
 .roughremove.com
@@ -7076,6 +7092,7 @@
 .ssdda.luxaflex.nl
 .ssdt.ffsinstitute.com
 .ssevt.com
+.ssfustmve.com
 .ssg.blacktrack.cloud
 .ssg.globalrealestateschool.com
 .ssg.mytest.health
@@ -7978,6 +7995,7 @@
 .swordfish.holzschuhe.at
 .swordfish.mattpreston.io
 .swqerog.com
+.sxbjgppzgmbfv.website
 .sxjfhh.clarionledger.com
 .sxwifqvoodcxn.space
 .sy.amebame.com
@@ -7986,12 +8004,14 @@
 .sync.omgn-gaming.com
 .syndication.trafficreps.com
 .synthesizescarecrow.com
+.syophwynthyed.space
 .systemssummit.com
 .syxknyhlxtlcqh.com
 .szben.ba-sh.com
 .szdzbcjj.dvsalg.dk
 .szjjd.boringwithoutyou.com
 .szmbey.budouya.jp
+.szmsinpbgantc.website
 .t-s.gpa-mpaclinical.com
 .t-s.lucentis.com
 .t-s.lyticportfolio.com
@@ -8811,6 +8831,7 @@
 .vainanalyst.com
 .valentin.cool-shoe.com
 .valueclick.net
+.variacgaia.click
 .vaudona.com
 .vb5gi1zp5.com
 .vbhbzhjaeudztw.com

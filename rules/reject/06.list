@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-13T22:34:37.567Z
-# Size: 149804
+# Last Updated: 2026-11-14T21:27:08.630Z
+# Size: 149967
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:emne8UReRGQsG1xoQsC3jniPxa_Dj6uiPwqXUYkdOtI$
+# $content-hash-v1$:sLsFShEc2GnutEQ3opvcmmmRYKvjQ_5R9ZfyxvB0AJc$
 # 
 # EOF ##################
 .01anf08rf.com
@@ -177,6 +177,7 @@
 .990ir3zfu.com
 .9955951.pillar.app
 .9992kl2wx3.com
+.9nugb4.orxo5m9nwcy4xk6w2n5jug8ve.cfd
 .9qvpcta0t.com
 .9sgckbc7e.com
 .9vmbje748.com
@@ -516,6 +517,7 @@
 .analytics.betternoi.com
 .analytics.bitrix.info
 .analytics.brunch.co.kr
+.analytics.bucks.helixo.co
 .analytics.carter-cash.com
 .analytics.catstevens.com
 .analytics.chattarize.de
@@ -1353,6 +1355,7 @@
 .cmp.mespneusete.be
 .cmp.myway.be
 .cmpgns.net
+.cmyvivsamx.in
 .cname-aa.engineersguide.jp
 .cname.nikkei-cnbc.co.jp
 .cname1.shakenkan.co.jp
@@ -2331,6 +2334,7 @@
 .enolizekiedifform.cyou
 .enrol.cud.ac.ae
 .ens.thurgauerzeitung.ch
+.ensoberevicteefideism.cfd
 .entrustfacileproficient.com
 .entry.baidu.com
 .enverkxou.com
@@ -2591,7 +2595,6 @@
 .frdoki.content-lump.net
 .freecontent.date
 .friendlyduck.com
-.frigglesansar.com
 .frisiigudge.qpon
 .fritq.thatasset.com
 .froglytics.eventfrog.ch
@@ -2708,6 +2711,7 @@
 .gigglegrowlworrisome.com
 .gihubbmspxnmm.space
 .giiuxm.partioaitta.fi
+.gimjdpiwjxzrp.space
 .gimpsgenips.com
 .gio.alldent-zahnzentrum-leipzig.de
 .girlicasm.com
@@ -3159,7 +3163,6 @@
 .hacksaw37.com
 .hades.qyer.com
 .hakurei.cdnbo.org
-.halduoculus.cfd
 .halibut.phytype.com
 .halvedsheds.click
 .han.imsohan.com
@@ -3203,7 +3206,6 @@
 .hiad.myweb.hinet.net
 .hieingintroit.cfd
 .highperformancedformats.com
-.hijfousaqbrzk.space
 .hippierrapiner.com
 .hiprofitnetworks.com
 .histais.com
@@ -3231,7 +3233,6 @@
 .hmkpz.thunderbirdskin.com
 .hnibej.transat.com
 .hnjohjorqaqea.site
-.hnksvwqkgdmuj.site
 .hntxyc.schadeautos.nl
 .hoghidejacusatine.cyou
 .hokkuarces.com
@@ -3392,7 +3393,6 @@
 .inbbredraxing.com
 .incloak.com
 .incompetencesorting.com
-.indulinrayful.com
 .inequation23.com
 .infantilecombination.com
 .infineon-community.com
@@ -3707,6 +3707,7 @@
 .knlqeu.jewlr.com
 .kntuknifvkfmw.space
 .koi.filtersource.com
+.kojirireckla.rest
 .kongonilawkremede.cfd
 .kosjf.abbottlyon.com
 .kpr2exp21.com
@@ -3761,7 +3762,6 @@
 .laimroll.ru
 .laj.oralsinlajeado.com.br
 .lajeshuru.pro
-.lamnoidmegohm.com
 .lampshadescreen.com
 .landing.clubcar.com
 .landing.emails1.cahoot.com
@@ -4436,6 +4436,7 @@
 .m.snitchmate.com
 .m161.sbsun.com
 .m17d1e83q.com
+.m2q9p51vrxo4q476lp5nor7f.rest
 .m5.4fl7299p2k1q4woch6n6g.cyou
 .m6cx48b0e.com
 .maccms.la
@@ -4454,7 +4455,6 @@
 .mango.dhok.bd
 .manterlatredebrl.cyou
 .manygramaoscines.cyou
-.manyielding.com
 .maoistshellers.com
 .marketing-form.fiat.com
 .marketing-test.aqr.com
@@ -5979,6 +5979,7 @@
 .samt.zkb.ch
 .sandbox-elq.keysight.com.cn
 .sandytaco.com
+.sanjakschimley.cfd
 .sanmet.originenergy.com.au
 .sas.adamasjeans.com
 .sas.int-nft.peacocktv.com
@@ -6522,6 +6523,7 @@
 .singleencycl.com
 .singlesgetmatched.com
 .singroot.com
+.sink.gw.booking.com
 .sio.artisanfob.com
 .sippansy.com
 .site-stats.supernotes.app
@@ -8506,7 +8508,6 @@
 .udc.msn.com
 .udqkf.ogio.com
 .udtnjdhtdb.com
-.udxhzseguwjdr.space
 .ueaeahze.com
 .uexgsi.guppy.jp
 .uf.uttomfood.com
@@ -8667,7 +8668,6 @@
 .visits.iloveuobgold.com
 .vitting.org
 .vividplume.com
-.vjmllyxkacaft.space
 .vkbvny.chookjenews.kr
 .vkbvny.gives.co.kr
 .vligfctcykwng.website
@@ -8732,7 +8732,6 @@
 .wackysketch.com
 .waeschicote.cfd
 .wahwahcentime.cfd
-.waiterfortnight.com
 .waitersooliths.cfd
 .wart.val.town
 .waterfall90.top
@@ -8893,6 +8892,7 @@
 .xinfmi.helmonline.de
 .xiniuz.com
 .xinju.cc
+.xiqexguwxvris.site
 .xisinwjwofkom.space
 .xiwhhx.wolfandshepherd.com
 .xjsefd.materik-m.ru
@@ -8905,6 +8905,7 @@
 .xludzt.alfastrah.ru
 .xlwtd.knownnutrition.co.uk
 .xmaguskz.in
+.xmbegfqtcsugc.online
 .xmggucgmy.com
 .xml-api.online
 .xml.rtbnext.com
