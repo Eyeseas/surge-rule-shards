@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-14T21:27:08.630Z
-# Size: 149967
+# Last Updated: 2026-11-15T21:45:39.677Z
+# Size: 150229
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:sLsFShEc2GnutEQ3opvcmmmRYKvjQ_5R9ZfyxvB0AJc$
+# $content-hash-v1$:ofgA_XXs-nRmbEI1w92Tk1_XluKXmALGviGASaWsLIY$
 # 
 # EOF ##################
 .0171pjx5q.com
@@ -371,6 +371,7 @@
 .aem-target.allianz.nl
 .aepxlg.adobe.com
 .af1tsjdta.com
+.afccuxkwiuhkw.online
 .aff.winkey.cz
 .aff1xstavka.com
 .affasi.com
@@ -647,6 +648,7 @@
 .anytime.digitaljobs.gr
 .aoohaq.micromania.fr
 .aopikqzneorvp.site
+.aospdqoteetsk.site
 .aoulpo.puccini.pl
 .ap.hibbett.com
 .apaff.oneplus.com
@@ -850,6 +852,7 @@
 .arthurbrent.werkenbijambiq.nl
 .articles.autodiscountfinders.com
 .artificialboughtme.com
+.aruntacondo.com
 .as.axelspringer.com
 .as.mirapodo.de
 .as.myhomebook-magazine.com
@@ -857,6 +860,7 @@
 .as1.m.hao123.com
 .asd.bauhaus.cz
 .asdfsikdlds.afarmaway.com.br
+.aseptichylicwrast.cyou
 .ask.antalis.pl
 .ask.wearelistening.co.nz
 .asp.dimileeh.com
@@ -980,7 +984,6 @@
 .bb.hugodining.com.au
 .bb.riddlebrothersroofing.com
 .bbampd.yves-rocher.nl
-.bbgpcdvxaumdz.site
 .bbitn.alittlesandco.com
 .bbk.pnc.com
 .bbnfcfrvjs.com
@@ -1154,7 +1157,6 @@
 .brqsxv.bergdorfgoodman.com
 .brquikly.eccocar.com
 .brshareandrent.eccocar.com
-.brubrutiang.com
 .brv0.bravomusique.com
 .brvallsrentacar.eccocar.com
 .bst.chainacart.com
@@ -1165,6 +1167,7 @@
 .btaconnect.americanexpress.de
 .btd.brewers.co.uk
 .buasmk.earthshoes.com
+.buavblbsdrwmk.website
 .bucklechemistdensity.com
 .bugpizza.com
 .bugs01181ko.com
@@ -1353,6 +1356,7 @@
 .charabaleta.gabrielchabalas.com.br
 .charlottemice.com
 .charmingpoliteinjunction.com
+.chaufergabelle.com
 .chavoads.com
 .chcekcxekirtx.online
 .check.looser.jp
@@ -1686,7 +1690,6 @@
 .d0f.le-dauphin.com
 .d1.5h.com
 .d14zhsq5aop7ap.cloudfront.net
-.d1aznprfp4xena.cloudfront.net
 .d1csp7vj6qqoa6.cloudfront.net
 .d1ev866ubw90c6.cloudfront.net
 .d1jum8517nhtf1.cloudfront.net
@@ -2269,7 +2272,6 @@
 .e10.verticurl.com
 .e26fr9qb4m.com
 .e3j60qqdk.com
-.e9pub3xc44wm9ekeiivkombz9bkr.cfd
 .ea.bcassurance.fr
 .ea.coffrefortplus.com
 .ea.diamant-unique.com
@@ -2398,7 +2400,6 @@
 .engagement.feedly.com
 .enmftyfedastk.space
 .ennuyeelaroid.com
-.enrageobesejan.com
 .ensighten.norton.com
 .ent.tipo.bdbazarghat.com
 .ent1.12584.cn
@@ -2445,6 +2446,7 @@
 .eua.trailerplus.se
 .eua.trailerplus.si
 .eua.trailerplus.tr
+.eucvlsdimzdvb.online
 .eue21east.com
 .eulerian.canal-plus.com
 .eulerian.look-voyages.fr
@@ -2606,7 +2608,6 @@
 .fine.xkglow.com
 .fipsta.ravensberger-matratzen.de
 .fireworkadservices1.com
-.firlotphorid.com
 .first-hufu.oss-cn-shanghai.aliyuncs.com
 .first.kabbocollectionbd.com
 .first.selerb.com
@@ -3368,7 +3369,6 @@
 .hfryyynvqwgy.com
 .hfsevu.simonds.com.au
 .hg-statsd.setapp.com
-.hgkhjxgrzgwex.website
 .hgxcnt.ecovor.ro
 .hhba03211kdh.com
 .hhhibq.elitekeepers.com
@@ -3481,6 +3481,7 @@
 .id.nbcuni.com
 .identity39.com
 .identitypxl.app
+.idfzfafqzoxby.website
 .idgptg.esm-computer.de
 .ieg.intel.com
 .iegwze.goldcar.es
@@ -3942,6 +3943,7 @@
 .lashinssargo.qpon
 .late6year.com
 .latinwayy.com
+.laukwnzmnzits.site
 .launcher.us.yeshen.com
 .lb-sgtm.signatures-scents.com
 .lbcljwreslalb.website
@@ -3963,6 +3965,7 @@
 .lem.nouvelobs.com
 .lenkmio.com
 .leo.tridge.com
+.lep2xqfrf.7g1tf5458ckxgjcnw7i2u8qlh4.cfd
 .lets.instantify.it
 .lftza.simplyseattle.com
 .lgse.com
@@ -4621,9 +4624,9 @@
 .m1.nn670.com
 .m11bkuusyb.com
 .m3uef4b38brmbntdzx.franchiseplus.nl
+.m526mlg7xw1uc29e1.rest
 .m5nv2f52i.com
 .m886.kmbc.com
-.m8uhr7bjw2ibij4b8z88cbbyfqt7z74k49.cfd
 .m9sm6th48c.com
 .ma.dogheroes.it
 .ma.globalhma.com
@@ -4836,6 +4839,7 @@
 .matomo.wolfgang-sommer.de
 .mauiv.innisfree.com
 .mavq.net
+.maximumboggles.click
 .mazguqfimdwa.in
 .mba.oldrepublictitle.com
 .mbidtg.com
@@ -5144,7 +5148,6 @@
 .minimetrika.xsolla.com
 .minorcattle.com
 .miragesdiazid.com
-.misdeemmornay.qpon
 .miserybisksbishari.cyou
 .misgrowducked.cfd
 .mit.deutschebank.be
@@ -5512,6 +5515,7 @@
 .otrzgsnwrrwhk.com
 .ouchwhere.com
 .oufrqs.kunduz.com
+.oujykoverucym.website
 .ouptvhdqi.com
 .ouqmd.sugarbabycare.co
 .ours3care.com
@@ -5627,6 +5631,7 @@
 .pc180101.com
 .pcktmkfjnkfqm.club
 .pclk.name
+.pdlhbgrqgjndo.site
 .pdvacde.com
 .peafzfaghradr.com
 .peddlarwayback.cfd
@@ -5735,6 +5740,7 @@
 .posthog.football24.ua
 .postmaster.velpa.pl
 .power.dj.studio
+.ppeyjomsayefp.online
 .ppkufuc5vg.com
 .pqoge.theinteriordesigninstitute.com
 .pr.cision.co.uk
@@ -5938,6 +5944,7 @@
 .rcodc.drdennisgross.com
 .rcytet.hnsmall.com
 .rd.improvementsinfo.com
+.rdavzngpcxztl.online
 .rdntpbeivqbjhi.com
 .rdp.thetbull.com
 .rdroot.com
@@ -6111,6 +6118,7 @@
 .rxtolo.domiporta.pl
 .rykauhxgkwwaq.online
 .rzarxl.ovs.it
+.rzqhwdljfufdn.online
 .s-t.topya.com
 .s.akademie-sport-gesundheit.de
 .s.amora.ro
@@ -6546,6 +6554,7 @@
 .sfmc-marketing.com
 .sfreetummies.cfd
 .sftrack.searchforce.net
+.sfuwwizvaunax.online
 .sg-public-data-api.hoyoverse.com
 .sg.mattisons.com
 .sgbrftxioksgf.online
@@ -6876,6 +6885,7 @@
 .spamscanner.net
 .spannspunkswishes.qpon
 .sparrow.carol.gg
+.spasconfidenappies.cfd
 .spasmgame.com
 .spc.personalcreations.com
 .specialevent.informaengage.com
@@ -7995,7 +8005,6 @@
 .supersonic.com
 .suppose84.com
 .surmounttemperbooklet.com
-.surnounknappan.cyou
 .survey.communication.qualfon.com
 .suunta.visma.fi
 .suurl.nuudcare.de
@@ -8896,6 +8905,7 @@
 .vwotiw.agazeta.com.br
 .vwsuoczefptjr.website
 .vxamslnbndqv.com
+.vxomziqjykxru.website
 .vybbem.womanhit.ru
 .vzncjeftbnbxt.online
 .vzztat.inkan-takumi.com
@@ -9096,6 +9106,7 @@
 .xithgs.suitsoutlets.com
 .xj380euzh.com
 .xj63rov3m.com
+.xjeqqizdepifo.website
 .xjx11200ts.com
 .xjx11230ts.com
 .xjx11260ts.com
@@ -9128,6 +9139,7 @@
 .xrmxt.shoreexcursionsgroup.com
 .xrnyhc.saerailbo.com
 .xrnyhc.sunmanilbo.com
+.xs27ycutl.com
 .xscp03100xq.com
 .xsyhy.cn
 .xtendad.com
@@ -9221,7 +9233,6 @@
 .yzzqza.vanillashu.co.kr
 .z1e2vp1gw.com
 .z211.yourconroenews.com
-.z2c9n81uljvxgv4l.cfd
 .z4outthbgcywj4jp4.rest
 .z60ft9y8lj.com
 .z9o0rgee8.com

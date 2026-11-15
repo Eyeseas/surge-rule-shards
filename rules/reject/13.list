@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-14T21:27:08.630Z
-# Size: 149967
+# Last Updated: 2026-11-15T21:45:39.677Z
+# Size: 150229
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:sLsFShEc2GnutEQ3opvcmmmRYKvjQ_5R9ZfyxvB0AJc$
+# $content-hash-v1$:ofgA_XXs-nRmbEI1w92Tk1_XluKXmALGviGASaWsLIY$
 # 
 # EOF ##################
 .0.myikas.com
@@ -789,7 +789,6 @@
 .aquaticowl.com
 .aqwjngvkgqrzv.website
 .archive.double-kick.co
-.ariledspools.com
 .arthurbrent.bevo.com
 .arthurbrent.zinindenbosch.nl
 .as.travelbook-magazine.com
@@ -1239,6 +1238,7 @@
 .cfdoulhmrvytg.space
 .cgcg01041ht.com
 .cgihh.cn
+.cgjepstpnrkxj.online
 .ch.credithypo.com
 .ch1.luxbridgenetwork.com
 .chaberserow.qpon
@@ -1529,6 +1529,7 @@
 .cyooqdvvqampc.website
 .cz16vlh0la.com
 .czh5aa.xyz
+.czjzyfnfrjukk.online
 .d-snapshotapp.progressive.com
 .d-test.39.net
 .d.1stformations.co.uk
@@ -2302,6 +2303,7 @@
 .ehvkaakviw.com
 .ei-api.gwy.easyjet.com.businessrelationshipregistrationkey.net.easyjet.com
 .eiizoc.poeles-et-granules.fr
+.eiolebduzlulw.site
 .eiorzm.orvis.com
 .ejark.bagups.com
 .ejectormirvs.com
@@ -2369,7 +2371,6 @@
 .engage.us.victorinsurance.com
 .engine.laweekly.com
 .engineertrick.com
-.enqbhjqulihto.com
 .ens.urnerzeitung.ch
 .ensighten.heineken.co.za
 .ent1.qunchua.com
@@ -2413,6 +2414,7 @@
 .etsfq.perfect-hair.com.au
 .etual.boggbag.com
 .etwitelowser.qpon
+.etybnfvcsbjbc.space
 .eu-cdn.kgm-motors.co.uk
 .eu-ort-stsdk.vivoglobal.com
 .eua.trailerplus.mx
@@ -2485,6 +2487,7 @@
 .falt925.ferticare.eu
 .familiarrod.com
 .fancycolorlist.net
+.fangedrouts.click
 .fapnt.bissingers.com
 .fargwyn.com
 .fartmoda.com
@@ -2741,7 +2744,6 @@
 .gleenplants.com
 .glisteningsign.com
 .gloriousbeef.com
-.glossalstrums.cfd
 .glymanicale.com
 .gm.mmstat.com
 .gmdci.pastease.com
@@ -3340,6 +3342,7 @@
 .hg3.n5ilur6lljrufzbjgxvwhjrqgtc.cyou
 .hgatfucfabsei.website
 .hghaa.roxy.com
+.hgngpqjoxquky.online
 .hh.jiankang.com
 .hhga.horzehoods.com
 .hhghxxsaabbnc.space
@@ -3636,6 +3639,7 @@
 .irgddc.oasishoteles.com
 .iris.riffonline.com
 .iron0walk.com
+.irowisoerkqoi.site
 .irvzya.weekly-monthly.net
 .is-log.furunavi.jp
 .isl.caminos.click
@@ -3670,6 +3674,7 @@
 .jalapenos.jopasteleria.cl
 .jameltipoazul.study
 .jangonetwork.com
+.jaymguxbzomra.site
 .jayshoesshop-ss.topashopo.com
 .jaytk.ecosproutify.com
 .jc917x3.adaptive.marketing
@@ -3764,7 +3769,6 @@
 .jxpbry.hometogo.at
 .jygslk.dynamiteclothing.com
 .jyxpae.suncamp.pl
-.jyz2kzz8otz9w381o215iv.cfd
 .k.voyageursdumonde.ca
 .k08tn5uk9.com
 .k0tdrkbhx.com
@@ -3813,7 +3817,6 @@
 .kilqg.drinkzyn.com
 .kimberlite.io
 .kindleunfocusedunpaired.com
-.kindly-equivalent.com
 .kingdompoongee.com
 .kirkifyfoam.qpon
 .kiwi.montysupps.com
@@ -3964,6 +3967,7 @@
 .lgbdxo.azazie.com
 .lgskr.lolaandtheboys.com
 .lgu7in90o.com
+.lhchjg2369ymgg.rest
 .lhevhb.hjgreek.com
 .lhewdj.fnac.pt
 .lhgtux.balnet.net
@@ -4031,6 +4035,7 @@
 .links.nexttrucking.com
 .links.ph.discoveryplus.com
 .links.pinart.io
+.lintertungus.rest
 .listing-a8-itp.hello-storage.com
 .littlecutelions.com
 .littlestastronaut.com
@@ -4559,6 +4564,7 @@
 .lxnofgfeugqwh.site
 .lxovrggqvtgxs.com
 .lxztgb.musee-pla.com
+.lyeryfabula.rest
 .lyltevnutramaxlaboratoriesinc.e.epiqnotification.com
 .lytics.fileditch.com
 .lzp.plus
@@ -5210,6 +5216,7 @@
 .mts.femalac.de
 .mts.femnacare.de
 .mtuqnl.roomys-webstore.jp
+.mudkyzmsm.com
 .muembfrakhsyp.space
 .multiplicator98.com
 .multstorage.com
@@ -5434,6 +5441,7 @@
 .om.triphomes.com
 .om.usnews.com
 .om1aq1t27.com
+.omanilodens.com
 .omeotex.com
 .omgup.didiglobal.com
 .omn.hiltongrandvacations.com
@@ -5471,6 +5479,7 @@
 .onlinemediahelper.com
 .onoztg.ultimate-guitar.com
 .onttsrh5i.com
+.oorieupgang.rest
 .oouvhmoxzsevq.online
 .opbvu.getfirstperson.com
 .open-test.wynk.in
@@ -5498,7 +5507,6 @@
 .oropz.ultimatelinings.com
 .os.myfax.com
 .osamaimpact.com
-.oselaziffs.cyou
 .ospartners.xyz
 .otr.kaspersky.co.za
 .otrack.workday.com
@@ -5678,6 +5686,7 @@
 .pjcmoaxftojjz.website
 .pjcummfj.svenskhandel.se
 .pjisahjzjzcqe.space
+.pjuvppenmulbk.site
 .pkjhq.rockettstgeorge.co.uk
 .pkpmhr2gw.com
 .pkvjquvxvbd.com
@@ -6181,6 +6190,7 @@
 .sas15k01.com
 .satisfycork.com
 .satpe.atualiza360.com.br
+.saxqnqyjusmxo.online
 .sbatzb.ebags.com
 .sbc-app-links.specialized.com
 .sbcmt.curlmix.com
@@ -8601,6 +8611,7 @@
 .trail.thomsonreuters.ca
 .trail.thomsonreuters.co.nz
 .trail.thomsonreuters.com.my
+.trailwind.biz
 .transact.blackboard.com
 .transformer.eisenhorn.com
 .transportation.external.xerox.com
@@ -8793,7 +8804,6 @@
 .untimely-promotion.com
 .untitled.dwstatic.com
 .uohqrf.manfieldschuhe.de
-.upbidshamer.cfd
 .upcqgl.idrive.com
 .update.taptarget.io
 .updates.jwhillcountryresort.com
@@ -9166,6 +9176,7 @@
 .xhocykctaigpg.site
 .xhvdk.luckyrx.com
 .xjkugh.waterdropfilter.com
+.xjnqknpxdjows.space
 .xjwhtz3.com
 .xjx11240ts.com
 .xjx11261ts.com
@@ -9244,11 +9255,13 @@
 .yrepmy.jochen-schweizer.de
 .yrpllu.zavino.co.kr
 .ysafcv.auto-platinium.com
+.ysaqjvicsvkqv.website
 .yscrh.brunaebody.com
 .yuno.fitzeus.com
 .yuno.heerus.com
 .yuwpcczbgmolj.com
 .ywrcqa.5newsonline.com
+.yxnjqmjye2e7778pio1.rest
 .yxqfkm.24mx.de
 .yyqlpi.danmusikk.no
 .yywbgs.pneumatiky.sk
@@ -9303,7 +9316,6 @@
 .zokpt.purityproducts.com
 .zoly.tech
 .zoqiyoyamvqtl.online
-.zorango.com
 .zorbitads.com
 .zov.seng.dk
 .zozdpe.nrv.nl

@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-14T21:27:08.630Z
-# Size: 149967
+# Last Updated: 2026-11-15T21:45:39.677Z
+# Size: 150229
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:sLsFShEc2GnutEQ3opvcmmmRYKvjQ_5R9ZfyxvB0AJc$
+# $content-hash-v1$:ofgA_XXs-nRmbEI1w92Tk1_XluKXmALGviGASaWsLIY$
 # 
 # EOF ##################
 .0.avmarket.rs
@@ -263,6 +263,7 @@
 .abc.wild-scape.de
 .abc.yebaike.com
 .abkargentesnate.qpon
+.abkifkamcbfls.space
 .ablechime.com
 .ablink.a.radio.com
 .ablink.arch.sofi.org
@@ -281,6 +282,7 @@
 .abxenldkpytji.online
 .abyss.lacliniccosmetic.com
 .ac9kpxbans1l.staging.unstoppabledomains.com
+.acceptancecancelundoubtedly.com
 .acclog001.shop-pro.jp
 .accommodate53.top
 .accomplishedstrain.com
@@ -868,7 +870,6 @@
 .attribution.keds.com
 .atycs.wesleymission.org.au
 .aubergine.themercury.ai
-.audilesetherol.com
 .audit.shaa.it
 .autoappearancetraining.com
 .automaticside.com
@@ -939,7 +940,6 @@
 .bcbcl.cheapestees.com
 .bcdn-16c9d93d.bankofscotland.co.uk
 .bcmbmedbqx.top
-.bcpkzibxkfogh.space
 .bcznrf.paprcuts.de
 .bczro.boxhill.co.nz
 .bdcdmyzacrjkh.space
@@ -958,7 +958,6 @@
 .bechd.goodnightfox.com
 .bed.bedkingdom.co.uk
 .bedaffyamen.cfd
-.bedsitcovert.qpon
 .bee.jbkmobiledj.com
 .beelinecolor.com
 .beethoven.musicaviva.com.au
@@ -1483,6 +1482,7 @@
 .couponbright.com
 .covivado.club
 .coyoteshell.com
+.coysbrandi.com
 .cozyhillside.com
 .cozytryst.com
 .cp.7y7.com
@@ -2162,6 +2162,7 @@
 .dq06u9lt5akr2.cloudfront.net
 .dqdwbo.ellamila.com
 .dqeiwvlkvdqrdg.com
+.dqgxcjyrfawra.online
 .dqlnwrulga.com
 .dressing27.top
 .drinkspitlikecrony.cyou
@@ -2386,6 +2387,7 @@
 .equablytells.cfd
 .erfhhbodnciqs.site
 .erhverv.hebsoe.dk
+.erianswarmysyruped.cfd
 .ericaseugeniebeefalo.cyou
 .errors.house
 .ers.baidu.com
@@ -2646,6 +2648,7 @@
 .fuztty4b5g.com
 .fuzzybasketball.com
 .fwbdfg5n6.com
+.fxdptwiqspttp.online
 .fxfomm.tegeldepot.nl
 .fxipca.americanexpress.ca
 .fxmdjr.yogajournal.jp
@@ -3662,7 +3665,6 @@
 .is.rottne.com
 .is5qd8sk7a.com
 .islandwebhelp.com
-.isobarswhitier.qpon
 .italy.getinklabs.com
 .itkdb58mo.com
 .itpebis03.deep2031.com
@@ -3703,7 +3705,6 @@
 .jdnuymucqxokn.space
 .jdsppzwikhqgd.website
 .jdt8.net
-.jdulgygsp.com
 .jekvc.losethebackpain.com
 .jewelryforest.com
 .jfdfvprfq.biopeiser-shop.no
@@ -3792,6 +3793,7 @@
 .kbkgg.purblack.com
 .kbpqd.indacloud-vip.com
 .kbvxbw.bugatti-fashion.com
+.kbxutltusende.website
 .kcahc.fireauthority.com
 .kceksuitdqlnq.site
 .kcjrn.restaurant.com
@@ -3812,6 +3814,7 @@
 .khyzbu.lsy031.com
 .khzjw.fryeboots.co.uk
 .ki.knauf-industries.com
+.kifrgktcqlzha.space
 .kikuz.crowdcow.com
 .kirsp.popuparcade.co.uk
 .kirujh.com
@@ -4586,9 +4589,9 @@
 .lvdtzm.grange.co.uk
 .lvivsu.peterhahn.de
 .lvpzpk.friendsdiaper.in
-.lvyiigkezmlhp.site
 .lvykdmk.icu
 .lwf.lendwysefinancial.com
+.lwlqblkcucbrjy.com
 .lxsway.blogg.se
 .lxsway.brollopstorget.se
 .lxsway.kwiss.me
@@ -5813,6 +5816,7 @@
 .pushservice.10010.com
 .pvvdfvwyytmpi.com
 .pwaoyd.kras.nl
+.pwhy8foc2mk7tj6bmw4h6bkgmwyb2tr513.cfd
 .px-intl.ucweb.com
 .px.srvcs.tumblr.com
 .pxpmnthwmqzcf.site
@@ -6702,6 +6706,7 @@
 .sgtmkb.coachinayah.com
 .sgtmstape.lacasamoderna.com
 .shallowart.com
+.shanechkalik.qpon
 .shanto.discountloverbd.com
 .share.blindside.pro
 .share.foxtrotco.com
@@ -6747,8 +6752,8 @@
 .sissingforst.qpon
 .sitedataprocessing.com
 .sixtriplezero.com
+.sjcudmxlqgcwp.space
 .sjirv.thelistingslab.com
-.sjnznvtzhahnu.site
 .sjzhushou.com
 .sk0.monnierfreres.eu
 .skbx.shop.shiresequestrian.com
@@ -8223,6 +8228,7 @@
 .thawbootsamplitude.com
 .thefenceanddeckguys.com
 .theflowads.com
+.thegnssqudgy.cfd
 .thegreatesthits.harleybenton.com
 .thepetcube.com
 .thgfp.homesick.com
@@ -8801,6 +8807,7 @@
 .v.vulture-1.com
 .v4f.v4company.com
 .vacationsgolf.com
+.vaqetroicqqfz.space
 .vbrwcskfihyeg.site
 .vbsjdd.olx.pt
 .vccbd.biocollabs.com
@@ -8810,6 +8817,7 @@
 .vdangi.topshelfgolf.com
 .vdzrjr.kenminkyosai.or.jp
 .vebed.tennibot.com
+.vegnjxepturpr.online
 .veinuigursedat.qpon
 .velvetquasar.com
 .veradata.network
@@ -8939,7 +8947,6 @@
 .wainfuljain.com
 .wallaby.legendkeeper.com
 .wan.sogou.com
-.wangunsreplate.com
 .warhealthy.com
 .warkedmalie.com
 .warmingpod-ss.olladeals.com
@@ -9140,6 +9147,7 @@
 .x8s007rgs.com
 .xadcentral.com
 .xbrkwxmzymjqe.site
+.xbsnsisymkjxc.site
 .xcjpzefoktujd.site
 .xdcbnngn.basicsco.com.br
 .xdkwsh.farmacialoreto.it
@@ -9147,6 +9155,7 @@
 .xeb3x4yj4t.com
 .xegjucjq.jycaplastics.com.au
 .xekrbwex7d.com
+.xemvxxbwlehem.website
 .xeznjrljmzpnp.online
 .xfepscsxpywbd.site
 .xfjy2fh28b.com
@@ -9168,6 +9177,7 @@
 .xliirdr.com
 .xlkpg.dunsterhouse.co.uk
 .xltwmuxchdsxt.site
+.xmaqolcvrsdvd.online
 .xml.step-8396.online
 .xmlppcbuzz.com
 .xmlwiz.com
