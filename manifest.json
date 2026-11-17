@@ -59,105 +59,105 @@
     },
     "reject": {
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
-      "sha256": "ebb1a6c3bef14691b47193eb058c3e986cf1197e3e07e3da39fa67a358ca9aa9",
-      "source_bytes": 3365717,
-      "entries": 150229,
+      "sha256": "aea583559895044ef90f8bad8915e528c4936a50acb4477c42aa8b2db71068a7",
+      "source_bytes": 3348665,
+      "entries": 149414,
       "shards": [
         {
           "path": "rules/reject/00.list",
-          "bytes": 212662,
-          "sha256": "cfcfbab429e604e262e8dfcdff6d09c45801a9f95cbd089055ec63b045d057e1",
-          "entries": 9445
+          "bytes": 211257,
+          "sha256": "58f8c57881d4bc1a5dc6abbb2daaa7a0c1865c0dfecfb21adcd6009ab90496f8",
+          "entries": 9378
         },
         {
           "path": "rules/reject/01.list",
-          "bytes": 210624,
-          "sha256": "448f2b47a74d0a4373a02dbe3ab53daa947d516c7c2f9dad25430cdea7845a59",
-          "entries": 9344
+          "bytes": 209466,
+          "sha256": "70f5e6b83a3b1a8b20f6a857ea2135edd831fc4b910d85a5838cf430fc2429aa",
+          "entries": 9288
         },
         {
           "path": "rules/reject/02.list",
-          "bytes": 211821,
-          "sha256": "7190a370c37276a5df12cf6a08771b6cbb06ae8fcfe959278e1213fd67a3e7bf",
-          "entries": 9411
+          "bytes": 210771,
+          "sha256": "a692689caba1a2b9eaa525ecebc1e91d30b1d95b4806084c7143563159252ce4",
+          "entries": 9363
         },
         {
           "path": "rules/reject/03.list",
-          "bytes": 213183,
-          "sha256": "e1d9ce93cc23edc71a53bdec06601e30ead8854c79438eb6e887677b0db38364",
-          "entries": 9501
+          "bytes": 211995,
+          "sha256": "49d1cac9672829f95d2b722624901bd44b5a0490daa81a9a4d1638959931ff5d",
+          "entries": 9446
         },
         {
           "path": "rules/reject/04.list",
-          "bytes": 211150,
-          "sha256": "70d5a5784c2022ba4ae6660b7d08d619d832d586a6e8cdc6f93aae38a9a36678",
-          "entries": 9407
+          "bytes": 210461,
+          "sha256": "fa970f9339bcbcbc9160203b2efdc24e7476c0aa162e3ef649f9b9b6a7418253",
+          "entries": 9377
         },
         {
           "path": "rules/reject/05.list",
-          "bytes": 211018,
-          "sha256": "bc0f21fbbaa5b546e7049d2a15046cc3eeb47f5464392d9690163d8f8e24937a",
-          "entries": 9405
-        },
-        {
-          "path": "rules/reject/06.list",
-          "bytes": 205877,
-          "sha256": "58780d5809e96bc17b45f753dfc635bbbcd92cc9a935955b9b5035d558280b5a",
-          "entries": 9139
-        },
-        {
-          "path": "rules/reject/07.list",
-          "bytes": 213317,
-          "sha256": "bbed5447bac7b917d5e8803f24fbce1c869c695dd2b8e74e27da6b2d5b5ac0f3",
-          "entries": 9439
-        },
-        {
-          "path": "rules/reject/08.list",
-          "bytes": 213159,
-          "sha256": "dd2c2684b47c8ee8c717efda110c43ff2051221f5a1b2dcdaa7de74089c5599d",
-          "entries": 9443
-        },
-        {
-          "path": "rules/reject/09.list",
-          "bytes": 211038,
-          "sha256": "1fb391a6513f23a267fb647d1ac8686b5be42134a1047334d204f123a515614f",
+          "bytes": 210435,
+          "sha256": "795420b616f140e9f37461f1b8a696b987d30500a18cc398bf12e858c5ee1a02",
           "entries": 9374
         },
         {
+          "path": "rules/reject/06.list",
+          "bytes": 204981,
+          "sha256": "a12c898e0898612aa78d88c8d5f785b1469874be77bf7041b32456392ace9e47",
+          "entries": 9096
+        },
+        {
+          "path": "rules/reject/07.list",
+          "bytes": 212007,
+          "sha256": "65c56bcd79c9d02b60a6c4bf06fd0f7684b11b329821d93dc3d2ed6de8610094",
+          "entries": 9376
+        },
+        {
+          "path": "rules/reject/08.list",
+          "bytes": 212279,
+          "sha256": "9b4c33319e31aec3616e55a7b6628e841720cef9e52f3c132165981fea495996",
+          "entries": 9401
+        },
+        {
+          "path": "rules/reject/09.list",
+          "bytes": 210147,
+          "sha256": "b8d6fadf929012b54159514391d854bc7d92b8fa84c7db2f55b7781807d6b2ed",
+          "entries": 9332
+        },
+        {
           "path": "rules/reject/10.list",
-          "bytes": 209446,
-          "sha256": "0267b77025bf40a25ecd5768846f2a2690fcd10fe0cf631597f1da877492ccfb",
-          "entries": 9296
+          "bytes": 208396,
+          "sha256": "eadbee2723379cb39f951ef8bdfb4ca40f05fe3009aab9d3251bf96714d9f892",
+          "entries": 9243
         },
         {
           "path": "rules/reject/11.list",
-          "bytes": 213725,
-          "sha256": "93ca88100773d889cee5158cca43e9e80ca666fc84d72d5353d73ff25bcc5cb1",
-          "entries": 9466
+          "bytes": 212611,
+          "sha256": "e48129dd1248b40a96fb11888a30a106f0675ecf576c3a4f9dc8c480062894a7",
+          "entries": 9414
         },
         {
           "path": "rules/reject/12.list",
-          "bytes": 212006,
-          "sha256": "9dfd396a638fcf94784443099a4371e2872947dff8db48a236c7c150f590e34a",
-          "entries": 9420
+          "bytes": 211177,
+          "sha256": "2cc6e73d682a7304ec53920c019f6918d8c65d18350b33b30926184b2f481030",
+          "entries": 9380
         },
         {
           "path": "rules/reject/13.list",
-          "bytes": 212017,
-          "sha256": "95801b9ce2ca59cf3f9a15a24523e1d624709628ee84280cd27a0e48689c7615",
-          "entries": 9373
+          "bytes": 210896,
+          "sha256": "69700418c664972b2318c295d75226429c4e1f73a59d90c57c8815ed931959e0",
+          "entries": 9319
         },
         {
           "path": "rules/reject/14.list",
-          "bytes": 211478,
-          "sha256": "96cdf219badbe98085d3b408eed7d2b3efbf19d4829323af95cb1a013d017057",
-          "entries": 9387
+          "bytes": 210125,
+          "sha256": "7f424da08613d525112a599f654f81a6df05e62f848b44f38f089d30d7f60d62",
+          "entries": 9322
         },
         {
           "path": "rules/reject/15.list",
-          "bytes": 210289,
-          "sha256": "4f21583cc805a5703165bfc310f99a499b419d590128a043f7334ed1ea0de8c5",
-          "entries": 9379
+          "bytes": 208754,
+          "sha256": "f704eea5806760e9b8db27a8ca450ca2740289c5e0a7341a36f5957451d74f3d",
+          "entries": 9305
         }
       ]
     }
