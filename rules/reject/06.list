@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-17T23:50:08.178Z
-# Size: 149544
+# Last Updated: 2026-11-18T23:22:21.283Z
+# Size: 149691
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:zEFswRI7X9tA_aIDDvhpYPxxQ1ID0214n1f_H9vEN_4$
+# $content-hash-v1$:Ex8Dn75hcTm_G48Q_ou9VkLUOoTrxY6aoWn63r-_HBs$
 # 
 # EOF ##################
 .01anf08rf.com
@@ -126,6 +126,7 @@
 .4wnetwork.com
 .4zm6p17ppr.com
 .51dxs.com
+.53ed6897af.com
 .558158.xyz
 .5b2de2d8g.com
 .5b518c8he0.com
@@ -435,7 +436,6 @@
 .airfryertricks.com
 .airlytics.airlock.twcmobile.weather.com
 .aiscsaxgwwdtj.online
-.aitrejydphpbl.website
 .aixcdn.com
 .aj2031.online
 .ajazaci.icu
@@ -814,6 +814,7 @@
 .ar.4wank.com
 .arbitryrecramp.cfd
 .arc.mccancemethod.com
+.arc.msn.com
 .archiv.promatis.de
 .arcualjujuistbiped.cfd
 .ardigital.anunciojuridico.com.br
@@ -832,6 +833,7 @@
 .asktierraskidders.cyou
 .asoewk.jaanuu.com
 .aspa8.ozmall.co.jp
+.asqawnbcap.in
 .asrbhlsbkjbzp.site
 .assemblyexchange.com
 .asset.vasozyte.com
@@ -1261,6 +1263,7 @@
 .cerxxxwjtxebr.site
 .cestonknobhippian.cyou
 .cfdfasdvrrfnj.online
+.cfoxeeannedjv.website
 .cg.thecryptogo.com
 .cgicounter.oneandone.co.uk
 .cgrs.smu.edu.sg
@@ -1305,7 +1308,6 @@
 .clarium.global.ssl.fastly.net
 .clb.yahoo.co.jp
 .clck.yandex.com
-.clczthptcthsh.space
 .cleanhaircut.com
 .clearbitscripts.com
 .clearclips.com
@@ -1501,6 +1503,7 @@
 .csicsoka.ffm.hu
 .csitulo.g-heat.eu
 .csppololwejdw.online
+.csrsmzmnkofij.site
 .css.juqingba.cn
 .csvtr10.bmocm.com
 .cswebconf.rottne.com
@@ -1555,6 +1558,7 @@
 .cvfelozwatfcb.com
 .cvloi.threebirdnest.com
 .cw2hc.feestbeest.nl
+.cwmpqjhxixfxc.website
 .cxdxgb.campanile.com
 .cxm.ingeniux.com
 .cxzscx.baby-speaking.fr
@@ -1627,7 +1631,6 @@
 .d2nxi61n77zqpl.cloudfront.net
 .d2v02itv0y9u9t.cloudfront.net
 .d2wa5sea6guof0.cloudfront.net
-.d2werg7o2mztut.cloudfront.net
 .d2wy8f7a9ursnm.cloudfront.net
 .d30qdagvt44524.cloudfront.net
 .d32z5ni8t5127x.cloudfront.net
@@ -2015,6 +2018,7 @@
 .dcjmrcnsktjmj.space
 .dcjoj.clubmagichour.com
 .dcs.esprit.cz
+.dcujytxymslst.site
 .ddla593ymz72o.cloudfront.net
 .ddwpivndikwqd.online
 .deafeningphone.com
@@ -2122,6 +2126,7 @@
 .download.supercoating.com.hk
 .dowsingaceratelotted.cyou
 .dplhmvbt.halsobolaget.se
+.dpmnzkkkpgxzv.space
 .dppesulohfqre.cloudfront.net
 .dqecz.titan.fitness
 .draikqcdmhrqb.website
@@ -2269,6 +2274,7 @@
 .egkdj.skinnydiplondon.com
 .egmoytcwvwfnc.website
 .ehiakjopnzwcc.online
+.ehjfywvuslmpe.site
 .ehrydnmdoe.com
 .ehvmu.visitorpixel.com
 .ei-elastic-test-amq-1a-072gwy.easyjet.com.edgekey.net.easyjet.com
@@ -2322,6 +2328,7 @@
 .eminentend.com
 .emmz.4him4her.com
 .enable.vertikal6.com
+.enar18ahs1.com
 .endljp.gong.bg
 .endo.dentsply.com
 .energeticexample.com
@@ -2360,6 +2367,7 @@
 .errorreports.couponcabin.com
 .errors.darkreader.app
 .erurl.barkpotty.com
+.erysilenitmanb.com
 .escalopdiplontdyaster.cfd
 .esd.energie-schwaben.de
 .esesl.mandujour.com
@@ -2606,6 +2614,7 @@
 .frostscanty.com
 .fruity.redpitaya.com
 .fryhqcgovlyee.space
+.fsblrfvaooojp.online
 .fssvv.sienasleep.com
 .fszelmalzhjn.com
 .ftc.alshechacademy.org
@@ -2787,7 +2796,6 @@
 .golden.adsdomaintracking.com
 .gollum.monotote.com
 .golokamedakaoilers.cfd
-.goofjuggvnfcr.online
 .google-analytics-cn.com
 .gopypteti.com
 .gorgeousedge.com
@@ -2795,7 +2803,6 @@
 .gouptc.brtc.co.kr
 .gourmandise.goupil.ai
 .gpm-mon-va.byteoversea.com
-.gqfck5gnwf88zjqq6pepmwvfg48.cfd
 .gqrvjbpmobsvi.online
 .gr8psejq9.com
 .gravitygive.com
@@ -3149,6 +3156,7 @@
 .gwt.septentrio.v-b.site
 .gwvvgz.borgo.hu
 .gwyztyahjamn.in
+.gxfymazebhlln.site
 .gylwiuqr.sanamana.de
 .gyqntn.dekoruma.com
 .gyydua.dakine.com
@@ -3175,6 +3183,7 @@
 .hb-247.com
 .hb.vhsrv.com
 .hbrt.adobe.com
+.hbvrrsvvkhxrh.online
 .hcpeqg.dare2b.ie
 .hdisprt.maisonetstyles.be
 .hdmtools.com
@@ -3199,7 +3208,6 @@
 .hftccw.mrso.jp
 .hfvkn.dalstrong.com
 .hgcs.ironsidecomputers.com
-.hgrjjsqaet.com
 .hhgqq.boombeauty.com
 .hhhedv.luxauto.lu
 .hhtizkpobmaoo.website
@@ -3277,6 +3285,7 @@
 .huprz.nardurna.com
 .hvlvrj.gardentrends.com
 .hvohmn.kidscasting.com
+.hvvaoxrjglkhd.online
 .hwcias.medpets.be
 .hwvqka.millets.co.uk
 .hxtzfape.bodyatelier.bg
@@ -3325,6 +3334,7 @@
 .ihtbrltziqoio.online
 .ijaabm.golfchannel.com
 .ikikigxywqcrf.site
+.ikjpqfqy33p2zzgw2zz1htw8r77k.rest
 .ikr42qvlg.com
 .ikvjvw.pharma.mynavi.jp
 .ilbceb6d60.com
@@ -3552,6 +3562,7 @@
 .janapaoozoid.cyou
 .jawingsundangrose.cfd
 .jbddm.broadwayintucson.com
+.jbfdwgpcsvebs.website
 .jblskm.dedoles.hu
 .jbttdl.beautycarechoices.com
 .jch.truereport.report
@@ -3560,7 +3571,6 @@
 .jdgtgb.gamezone.de
 .jdgtgb.paz-online.de
 .jdhepn.ecnavi.jp
-.jdkqovxtynzfd.online
 .jdks7a.sportmeals.com
 .jdpnd.katieloxton.com
 .jebb8hurt.com
@@ -3673,6 +3683,7 @@
 .kennisdomein.pqr.com
 .kernoioxhouse.com
 .kessemerodusdictery.qpon
+.kettfvvxvdjci.site
 .keyade.com
 .keywordblocks.com
 .kfocxyufqeoyw.online
@@ -4416,6 +4427,7 @@
 .lv6od3a4sz12.www.logology.co
 .lvdvltsid.com
 .lvsats.gardner-white.com
+.lwvilvoaclifn.site
 .lwxsocpvczuiq.online
 .lxlx6p7y.arrow-web.com
 .lxmnrl.eobuv.sk
@@ -4709,7 +4721,6 @@
 .meendocash.com
 .meet.shapetape.de
 .megawebify.my
-.megrimsinswing.cyou
 .mehqj.spartan.com
 .mendsionic.com
 .meow.edukid.store
@@ -5203,7 +5214,6 @@
 .obhxvb.tmktools.ru
 .objru.thankgodforcoffee.com
 .obs.branderblender.com
-.obysbqrqxdgnz.online
 .obytag.kokiskashop.cz
 .obyuhk.mondoaffariweb.it
 .occidente.ubmmexico.com
@@ -5672,6 +5682,7 @@
 .qmiiln.tower.jp
 .qmoau.moderncheckup.com
 .qmoqruden.com
+.qnagjjdsrhdsz.online
 .qofvgeufsacrw.site
 .qombp.plmbr.app
 .qonyorfwzzwdo.site
@@ -6015,7 +6026,6 @@
 .seamless.joinhwtapp.com
 .seamless.solacebeds.co.uk
 .seaofads.com
-.searchthworl.cyou
 .secu.hagerty.ca
 .secure.52enterprisingdetails.com
 .secure.careerfairy.io
@@ -7904,6 +7914,7 @@
 .tally.bizanalyst.in
 .tamealongpast.com
 .tanbfpdi.www.tekowhaiairpark.co.nz
+.tantonykobu.cfd
 .tapioni.com
 .tarefabiglot.click
 .target.chrysler.com
@@ -7972,6 +7983,7 @@
 .tendertest.com
 .tenhourweek.com
 .tent0mown.com
+.tepbsdqyuoqzn.website
 .termonvint.com
 .terrasdsdstd.com
 .test-link-ccontact.focuscura.com
@@ -8054,6 +8066,7 @@
 .tmx.td.com
 .tnv.neurolab-vital.de
 .tnwlvegywmhbr.online
+.toakdlgygrkdt.space
 .todditehexarch.com
 .todeye.adelaidepsychologyandco.com.au
 .tokedlucigen.cyou
@@ -8555,6 +8568,7 @@
 .unscarbgroper.com
 .unstripsawmont.com
 .unsub.markadsmal.islandsbanki.is
+.unsuitmeatily.click
 .unwindmangeyobus.cfd
 .unwritmirific.com
 .uolwbz.heine.de
@@ -8571,6 +8585,7 @@
 .urbanopus.net
 .url.density.exchange
 .urosomerevived.cyou
+.urploujzpctfi.online
 .urrfkabrkhxjat.com
 .urvvko.tennis-point.at
 .us-california-sgtm-staging.1800gotjunk.com
@@ -8615,6 +8630,7 @@
 .vaughnmulticspontiac.cyou
 .vault.nqintelligence.com
 .vaultwrite.com
+.vbfwzrjbzn.com
 .vbyoyg.couturecandy.com
 .vcagb.portosbakery.com
 .vchllvizn.com
@@ -8661,6 +8677,7 @@
 .vmd.legally.io
 .vmedmqbfgkcmv.site
 .vmsspl.tenamall.co.kr
+.vmtpubrmqsete.site
 .vmts.raeucherwelt.ch
 .vnacg.anthros.com
 .vnvws.theirnibs.com
@@ -8809,6 +8826,7 @@
 .wisteria37.top
 .witchwuddie.com
 .witpux.habitaclia.com
+.wiuoafupzxewv.space
 .wiwa.williamwalker.fr
 .wizaly.com
 .wjkjigxhegfss.online
@@ -8830,6 +8848,7 @@
 .wrannyundrawn.com
 .wrfuxw.roselinlin.com
 .wrksb2gt0.com
+.wruzanrip.in
 .wrztsf.dasique.co.kr
 .wsfpej.denhamjapan.jp
 .wspeed.qq.com
@@ -8904,6 +8923,7 @@
 .xqjg4mb45thuzutykqmf42evvn.rest
 .xqotzwev.dokument24.dk
 .xqxvqu.exoticca.net
+.xr6urwu85226qn4623ru.cfd
 .xrsbwd.eurobuty.com.pl
 .xsbdujkox.com
 .xscp03101xq.com
