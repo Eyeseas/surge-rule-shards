@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-18T23:22:21.283Z
-# Size: 149691
+# Last Updated: 2026-11-19T23:33:21.937Z
+# Size: 149683
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:Ex8Dn75hcTm_G48Q_ou9VkLUOoTrxY6aoWn63r-_HBs$
+# $content-hash-v1$:uMF_zBNy6qgnS19vH-X0yU6ElKuTtvG4joPokPS8ubs$
 # 
 # EOF ##################
 .011qt7cln.com
@@ -88,8 +88,6 @@
 .27bad22e4a.com
 .28hrwelv17kg4.er1kz2j8x3cohtn8npx.cyou
 .29zle9rx4.com
-.2ce2.gulroi75yypi5vgvw9p3o.cyou
-.2e96q.o763qt78kzl6rl5ybz1l.cyou
 .2ehvl111jccg2mg4824.cfd
 .3.ssqzj.com
 .32-b.it
@@ -190,6 +188,7 @@
 .a.xzzsjz.com
 .a.youdao.com
 .a00s.net
+.a04fd7399b.com
 .a1.cyyangqiguan.com
 .a10.nationalreview.com
 .a3.americasavingsexperts.com
@@ -459,11 +458,10 @@
 .alpha.riserecoveryatl.com
 .alppbalwrsyyw.online
 .alternativelivingspaces.mktdrops.com
-.altethxjnikpr.site
 .althinglogans.com
 .altkamamhab.in
+.alwfuwanl.in
 .amarh.coniferkingdom.com
-.amazeadx.com
 .amazingmeaning.com
 .ambres.xyz
 .amdc-thirdparty.alipay.com
@@ -1066,7 +1064,6 @@
 .bouncex.net
 .boutmewasobea.org
 .bowerywill.com
-.bowooaoydmbvo.site
 .boxcartidalvoicing.com
 .boxlikesedativespinach.com
 .boyyeykcleeza.website
@@ -1217,7 +1214,6 @@
 .cappumedia.com
 .capybara.civicsoftwarefoundation.org
 .caqtp.duvindesign.com
-.cardiamisaims.qpon
 .cardie.cardthartic.com
 .cardproducer.com
 .care.mercycare.org
@@ -1488,6 +1484,7 @@
 .crmentjg.com
 .crow.claudiakeil.de
 .crs-hometab-event.line.me
+.crusepipidwhittaw.cfd
 .cryptoatom.care
 .crzzbyrea5.com
 .cs.hot.net.il
@@ -1540,6 +1537,7 @@
 .cv.hikkoshizamurai.jp
 .cv.liability.jp
 .cvhjssfpfisdef.com
+.cwkdxrcyptcfc.site
 .cwugtbckggfma.space
 .cwxgfwukjfath.space
 .cxrlap.litoralulromanesc.ro
@@ -1647,7 +1645,6 @@
 .dados.paraisoazul.com.br
 .dads.lojadaconexaoeletrica.com.br
 .dadytewo.luxoliving.de
-.daf4199210.745948e29b.com
 .dailydesigned.com
 .dallavel.com
 .damasksnunship.qpon
@@ -2177,7 +2174,6 @@
 .dwnm2295blvjq.cloudfront.net
 .dxrlkh.icanvas.com
 .dxynbmrkwrvbj.space
-.dxz454z33ibrc.cloudfront.net
 .dyghye.fashionesta.com
 .dynatrace-managed.com
 .dynbanners.netlify.app
@@ -2257,6 +2253,7 @@
 .ehzcn.4thandreckless.com
 .ei-apicom.scanedgekey.net.easyjet.com
 .eimcqw.dickies.com
+.ejeuphnmhcddu.website
 .ejjjkil2121.gimmeporn.xyz
 .ekazkyos.maanta.it
 .elade.mensuas.com
@@ -2358,7 +2355,6 @@
 .eqtcbuwkycgqq.online
 .eqvljuzjtmgcat.com
 .erbhz.havenwellwithin.com
-.erelongjinxes.cfd
 .ermes.midj.com
 .erp.qwic.nl
 .error-analytics-sessions-production.shopifysvc.com
@@ -2414,6 +2410,7 @@
 .event.webcollage.net
 .event3.thermoscientific.com
 .eventos.cihac.com
+.eventpiper.vlcapi.net
 .eventrecorder.cm.bloomberg.com
 .events-ingestion-helpcenter.services.gorgias.help
 .events.adventureairsports.com
@@ -2444,7 +2441,6 @@
 .exch.lucide.com
 .exch.psvfanstore.nl
 .exhibits86.com
-.exmycalnvqolp.site
 .expendsskidi.com
 .experience.blackbaud.com
 .experience.rsm.com.au
@@ -2511,8 +2507,10 @@
 .ffolb.truegloryhair.com
 .fgjzs.giftsforyounow.com
 .fglznefxupmzd.website
+.fh-dxy.com
 .fh0og4jhs0.com
 .fhgh9sd.com
+.fibroidgizzen.com
 .fiicj.provenwinners.com
 .fiipzajtyukas.website
 .fijzm.rarecarat.com
@@ -2727,7 +2725,6 @@
 .getbanquet.com
 .getmoviehd.com
 .getui.com
-.gf3mt.okz4p1nb1lgo7ub9.cyou
 .gf6axe5bdb.com
 .gfdlnadm.damask.dk
 .gfhbd.rockstaroriginal.com
@@ -2871,6 +2868,7 @@
 .grvzc.varley.com
 .grxxvx.centerparcs.nl
 .gryrie.wakudoki.ne.jp
+.gsgbtvmlchokq.space
 .gsk801211hh.com
 .gsk801261hh.com
 .gsk801301hh.com
@@ -3369,7 +3367,6 @@
 .home.quirkup.shop
 .hoodingluster.com
 .hornetywestersaloysia.cyou
-.hostagegayals.qpon
 .hotel-marketing.hrs.com
 .hotpotarroyos.rest
 .houseads-prod.elasticbeanstalk.com
@@ -3406,7 +3403,6 @@
 .hyklujfryizpf.online
 .hyrankhit.meldingcloud.com
 .hyt.comp.360os.com
-.hyzurcmizqwvx.website
 .hzizzrpprdllb.space
 .hzr0dm28m17c.com
 .i.imedia.cz
@@ -3645,6 +3641,7 @@
 .irrefutavel.anunciojuridico.com.br
 .ischarmusicotarn.cfd
 .israelicoelome.com
+.istlnkbn.com
 .itagpro-sst.dealshopa.com
 .itemslice.com
 .itkdlu.howrse.dk
@@ -3824,7 +3821,6 @@
 .ktalq.oseamalibu.com
 .kuerlefc.com
 .kuvirixa.com
-.kuyisrshqybtc.online
 .kvjthavimymgk.online
 .kvsklf.ateliergs.de
 .kwbpge.jra-van.jp
@@ -4532,7 +4528,6 @@
 .ltrwikxkje.com
 .ltsmt.italic.com
 .ltvssb.afrimo.net
-.lubamalva.qpon
 .lucene.svc.net.jumia.com.gh
 .lucentanxiouslyfleeting.com
 .lum-cn.io
@@ -4839,6 +4834,7 @@
 .memorizematch.com
 .menacehabit.com
 .mentor.fatimafinanzas.com
+.mentorsframerkhu.cyou
 .merchenta.com
 .mereni.bydlenihorovice.cz
 .mereni.carlove.cz
@@ -5375,7 +5371,8 @@
 .nudnicklasts.com
 .nuffrsfx.sideaita.it
 .nurflv.bureauxlocaux.com
-.nw7xxwbb5t3n.biw65m3cxu3crfuzo.cfd
+.nuzjptiitdsjm.space
+.nvjehcnfmidbz.site
 .nwbmvq.jockey.com
 .nwcqt.bellabubear.com
 .nwot.boxie24.com
@@ -5493,7 +5490,7 @@
 .origin.tst.healthtechproducts.philips.com
 .origin.www.consumerlifestyle.philips.com
 .oritooep.win
-.orsvunkydjxsq.site
+.orxctipeikbct.site
 .os.efax.nl
 .os.mckinseyquarterly.com
 .os.onebox.com
@@ -5535,6 +5532,7 @@
 .p1.360soucha.com
 .p1.zhongyoo.com
 .p2xe0.ekukka.fi
+.p3bqgc0pi.com
 .p4h8nz7fbgu8npiiyhg24.cfd
 .p593.seattlepi.com
 .p8u.hinet.net
@@ -5828,7 +5826,6 @@
 .qeypmf.eminza.nl
 .qfioffacmnaw.in
 .qfkpz.xdrama.com
-.qgfkv4wyj7t8m6nk4.cfd
 .qggie.inovaairpurifiers.com.au
 .qgmikp.fleurdumal.com
 .qhjrduurziolg.online
@@ -5992,7 +5989,6 @@
 .richh.cn
 .rimsha.viralof.online
 .ritzyrepresentative.com
-.rivinadinomic.qpon
 .rjbcm.wearejude.com
 .rjoai.vitruvianform.com
 .rkbisw.eden-reschensee.com
@@ -6063,7 +6059,6 @@
 .rtk.trk.serhealthtipsamerica.com
 .rtneys.luuna.mx
 .rtnmr.bohme.com
-.rtqdgqbttqo.com
 .rtrk.gartenstadl.de
 .rtrk.mirificascience.com
 .rttkpr.bidolubaski.com
@@ -6088,6 +6083,7 @@
 .rxeosevsso.com
 .rxgqfhtdyzgof.website
 .rxqqaq.hollandandbarrett.com
+.rxzcheqbhtxdw.com
 .rydfigwxabdxb.site
 .ryngd.revitalizeme.com
 .ryrv0j.greenbeanbuddy.com
@@ -6192,7 +6188,6 @@
 .scs.lacapitale.com
 .scsrm.homedics.co.uk
 .scuba.bornofwater.com
-.scutsjank.com
 .sd.outletcamping.com
 .sd7.salledesilets.com
 .sdata.efficientlearning.com
@@ -7807,7 +7802,6 @@
 .static.adconnect.vn
 .static.content-sync.xyz
 .static.hefeltlonelya.org
-.static.tbllprem.com
 .static.yarnies.com
 .static0.lumier.jp
 .static1.m-kensou.com
@@ -8140,6 +8134,7 @@
 .t4s8t6p39.com
 .t57u6anx2.com
 .t7fv5mjt8i.com
+.tacvvsornqwdy.website
 .tag.akbteam.com
 .tag.boulanger.fr
 .tagcommander.laredoute.de
@@ -8249,7 +8244,6 @@
 .tenutigorilyoffence.cyou
 .tenxads.com
 .terciozonula.qpon
-.terrapush.com
 .test-applink.batterii.com
 .test.go.provident.bank
 .test.nagasuper1.com
@@ -8816,9 +8810,12 @@
 .unidentifiedanalytics.web.app
 .unif.hedgy-haagplanten.nl
 .unigpmgsuffwj.site
+.uniquebranch.com
 .unityads.unity3d.com
+.unlinedsound.com
 .unnajd.com
 .unselfisheducation.com
+.unspeedsnuffer.com
 .unsubscribe.e.wellcare.com
 .unsubscribe.mc.creditacceptance.com
 .unusualtitle.com
@@ -8856,7 +8853,6 @@
 .uyylifqsaraed.space
 .uz-analysis.akamaized.net
 .uzhrtuyij.com
-.uzhsqimcpjyjy.website
 .uzojs.miaou.com
 .v-collector.dp.aws.charter.com
 .v-t.topya.com
@@ -9085,7 +9081,6 @@
 .winedtroughy.com
 .winesopvinodluring.cyou
 .winslinks.com
-.wirzflrmlcvbyh.com
 .wisdom.privatefloor.com
 .wise.honesthealthwise.com
 .wispycity.com
@@ -9205,13 +9200,11 @@
 .xxts11181zs.com
 .xybkygvwfwbsi.space
 .xyoosh.ixxiyourworld.com
-.xyw.fo72jlzh6m44jyjhmzyor.cyou
 .xyz.divinomhealing.com
 .xyz.nobio.at
 .xyz.protechshop.pl
 .xyzcvx.icu
 .xyzw.elorabeauty.com.tr
-.xzk56n.4u9bk5t241elqih2k7.cyou
 .xzkumjdqj.com
 .xzoxfwmmnnnjfv.com
 .xzqpz.com
@@ -9259,6 +9252,7 @@
 .yohhqh.eminza.es
 .yottlyscript.com
 .you.stage.pixellot.link
+.youanonymous.com
 .your.mapandmarket.ptvgroup.com
 .your.trafficdata.ptvgroup.com
 .yovoads.com
@@ -9276,7 +9270,6 @@
 .yt-adp.nosdn.127.net
 .ytzihf.com
 .yvdaeg.on-running.com
-.yvtcwrcvkwacm.website
 .yvuxqclhsmaoy.site
 .ywgtzagvalcaiy.com
 .ywnptndtofrvi.website
