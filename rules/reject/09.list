@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-19T23:33:21.937Z
-# Size: 149683
+# Last Updated: 2026-11-20T23:04:09.562Z
+# Size: 149822
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:uMF_zBNy6qgnS19vH-X0yU6ElKuTtvG4joPokPS8ubs$
+# $content-hash-v1$:Pz5nUi_BayttK0cJjK3DPtjrbm47mnfkh-XM5ck-OFc$
 # 
 # EOF ##################
 .000webhostapp.com
@@ -62,7 +62,6 @@
 .1pnnywe3rmoz3z1wlw9v5vh.cfd
 .1r4g65b63.de
 .1rwa5e8a6.com
-.1xhutg27xghu8mhl6lnvh.cfd
 .21wiz.com
 .222aa333bb.com
 .22qt1c4n.xyz
@@ -154,6 +153,7 @@
 .a.aer.com
 .a.aiaiai.audio
 .a.b7q9v8z.com
+.a.blendernation.com
 .a.culminar.nl
 .a.deliiicije.com
 .a.market.xiaomi.com
@@ -233,6 +233,7 @@
 .abelha.abelharainha.com.br
 .abgku.onewillow.com
 .abiencerheas.com
+.abjointmedea.rest
 .abjysjjzgfuap.com
 .ablink.feed.liven.com.au
 .ablink.fun.joyrun.com
@@ -437,6 +438,7 @@
 .ajgkdt.eazy.de
 .ajjo5hsvlp.com
 .ajo-zensar.adobesandbox.com
+.ajzopkotbafj.in
 .akuai.top
 .al.484364.com
 .al.andmel.jp
@@ -915,7 +917,6 @@
 .axp.yourbasin.com
 .axvmruqncqdiq.site
 .azaob.sistaco.co.nz
-.azllewhrvqbxt.space
 .azscgj.penningtons.com
 .azygotesonless.com
 .azyjrqcjgumwk.space
@@ -1100,6 +1101,7 @@
 .brinierfulmarsabaxial.cfd
 .briseispingo.cfd
 .brmqk.potpourri.com
+.broilerroseous.click
 .bronze.bygg.com.br
 .broughyuca.cyou
 .brown-cry.com
@@ -1273,6 +1275,7 @@
 .cdn.optmn.cloud
 .cdn.pablosky.com
 .cdn.pgvt.io
+.cdn.q4x8n6b2t5.com
 .cdn.quoreugolini30.it
 .cdn12359286.ahacdn.me
 .cdns.dotmc.com
@@ -1306,9 +1309,9 @@
 .check2.lloydsbank.co.uk
 .cheese.slickcity.com
 .cheeseextensivetolerate.com
+.cheeseoverlordsaline.com
 .cheqzone.com
 .chessbranch.com
-.chlorylrewedssebait.cfd
 .chockstchick.cfd
 .choiceglide-hub.online
 .choose.adelaide.edu.au
@@ -1401,6 +1404,7 @@
 .cntrealize.com
 .coaqhbgliewbm.space
 .cobbinbakie.com
+.cockingsultamseptate.cfd
 .codemonkey.link
 .coderformylife.info
 .coghgwfjheczk.space
@@ -1559,6 +1563,7 @@
 .custom.uscleaningtools.com
 .customer.thesimplesocietyshop.com
 .cutsmarter.net
+.cuttoosgringos.cyou
 .cv.colleize.com
 .cvbjetgbzkhpm.site
 .cvgml.yema.com
@@ -2059,6 +2064,7 @@
 .deeplink.alpha.aspiration.com
 .deeplink.app.notarycam.com
 .deeplink.gocover.co.za
+.defiantenrage.com
 .deg.ticket-onlineshop.com
 .degermmimosa.com
 .dejavu.mlapps.com
@@ -2329,6 +2335,7 @@
 .ejauhr.corsicalinea.com
 .ejrbgi.tous.com
 .ekamsply.com
+.ekfsaqijlvpqm.site
 .ela-3-tnk.com
 .elanbullose.com
 .elatedcamera.com
@@ -2676,7 +2683,6 @@
 .fulcvivy.bernies.store
 .funcqcyljrwu84wc.rest
 .functions.raabkarcher.de
-.fundiyawned.cyou
 .funnedravage.com
 .funnel.profitablepodcast.co
 .fupbi.gopurebeauty.com
@@ -2720,6 +2726,7 @@
 .gaggsshp.frankie.com.br
 .gakjbm.i2go.com.br
 .galeoidclachsjubbah.cyou
+.gallachwowwows.rest
 .galliedlamed.click
 .gambianungone.com
 .gamingadlt.com
@@ -2762,6 +2769,7 @@
 .get.qapital.com
 .get.smart-guide.org
 .get.spenn.com
+.get.thisisvegas.com
 .get.toffapp.co
 .get.tunity.com
 .get.ukg.ca
@@ -3306,6 +3314,7 @@
 .haddock.jeffreyknox.dev
 .haircapbigram.cyou
 .hamletuponcontribute.com
+.hammingpannam.rest
 .handsaw46.com
 .handtub.com
 .hapic1.zhuangxiu22.com
@@ -3402,6 +3411,7 @@
 .host.officinegullo.com
 .hot4k.org
 .hotchmerels.com
+.hotllove.net
 .hpd.baidu.com
 .hpjmwaxjoxfmq.online
 .hpninfo.hoopis.com
@@ -3731,7 +3741,6 @@
 .jb7jn7p8icg9njfw33zu81rzl2wpj6pbl.cfd
 .jc7t7it24.com
 .jcnedb.naracamicie.jp
-.jcvwteydzkhlr.space
 .jdgtgb.dewezet.de
 .jdgtgb.dnn.de
 .jdgtgb.maz-online.de
@@ -3755,6 +3764,7 @@
 .jidlu.kiarasky.com
 .jipfq.etrendygo.com
 .jisao12.cyou
+.jisfrynuwf.in
 .jj40z.amacx.com
 .jknarp.kakaku.com
 .jkrjrc.adecco.de
@@ -3790,7 +3800,6 @@
 .jscode.jbzj.com
 .jsdelvr.com
 .jssdk.fogavokygysypa.com
-.jssdk.zuzegolatehowo.com
 .jsyunjihui.com
 .jtjuuybgohcay.website
 .jtktdlkjrh.com
@@ -3841,6 +3850,7 @@
 .keafyy.onlinecomponents.com
 .keckingslobdolor.qpon
 .kenaimerls.com
+.kentent.stre4mplay.one
 .keodinh.net
 .kernesowan.com
 .keysetjamesshrugs.cyou
@@ -4632,6 +4642,7 @@
 .lpbhnv.telemundoarizona.com
 .lpfirw.kooding.com
 .lplcf.lemonadamedia.com
+.lpwfojaerpeqe.online
 .lqdhllq.com
 .lqfuim.emco.cz
 .lqgne.4patriots.net
@@ -4708,7 +4719,6 @@
 .mangelcuspids.com
 .mango.craigsguide.org
 .mango.vitameenat.com
-.mantelronnifireboy.qpon
 .manyfishes.com
 .marcom.biodexrehab.com
 .marcuscash.one
@@ -5513,7 +5523,6 @@
 .oko.net
 .okqqix.karitoke.jp
 .olaplog.smartmediarep.com
-.old.rtxplatform.com
 .oldestnife.cyou
 .oldschoolthumbs.com
 .olnfdv.f-academy.jp
@@ -5711,7 +5720,6 @@
 .photo.rottne.com
 .physical-beyond.com
 .physical-meaning.com
-.phytaneindices.cfd
 .pi2.pieuvre.ca
 .piatra.clickandboat.com
 .pibhjs.dongsuhfurniture.co.kr
@@ -5859,7 +5867,9 @@
 .prudsys-rde.de
 .prx6.destinia.ch
 .ps.plasticossanpablo.com
+.pstfkyapfrrfk.site
 .pswdax.stylepit.no
+.psxlkwmzitocq.site
 .psygde.h-in-c.com
 .pt.projuktiteam.com
 .ptarmigan.q-free.com
@@ -6018,6 +6028,7 @@
 .report-ps.meettech.net
 .report.apkpure.net
 .report.mitsubishicars.com
+.repunchdowdies.com
 .reryodzat.com
 .research.gartner.com
 .research.insidesales.com
@@ -6067,6 +6078,7 @@
 .rlcar.thrivemarket.com
 .rlrxb.ziviapparel.com
 .rltkabrvuektj.online
+.rmmhboxcnghhr.site
 .rmshqa.com
 .rng.construtoralimac.com.br
 .rnybul.gismeteo.lv
@@ -6223,6 +6235,7 @@
 .sapi.youxbroker.com
 .sapnest.com
 .saptiledispatch.com
+.saqtuwrryaft.in
 .sarver.chittagongbakingmart.com
 .saucewonderdaytime.com
 .saugellaviso.it
@@ -6774,6 +6787,7 @@
 .sng.dentistsatpymble.com.au
 .snipersex.com
 .snlvb.luxegan.com
+.snobismlowman.click
 .snvbmwrqewuko.site
 .so.auto999.cn
 .so.mobile.migros.ch
@@ -8725,7 +8739,6 @@
 .udiab1.jianshu.com
 .udinifleandhra.qpon
 .udwhjufhukjbda.com
-.uffubjqcdy.com
 .ufgsz.kiki.world
 .ufkiz.jenny-bird.com
 .ufoig.pacagen.com
@@ -9017,6 +9030,7 @@
 .wellbeingforce.com
 .wellbyfinancial.fmservice.com
 .weltsgtm.weltausholz.de
+.wgcnxpayqnksw.website
 .wggiud.giordanovini.it
 .wheredoyoucomefrom.ovh
 .whinemalnutrition.com

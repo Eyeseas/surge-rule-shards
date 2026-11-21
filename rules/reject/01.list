@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-19T23:33:21.937Z
-# Size: 149683
+# Last Updated: 2026-11-20T23:04:09.562Z
+# Size: 149822
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:uMF_zBNy6qgnS19vH-X0yU6ElKuTtvG4joPokPS8ubs$
+# $content-hash-v1$:Pz5nUi_BayttK0cJjK3DPtjrbm47mnfkh-XM5ck-OFc$
 # 
 # EOF ##################
 .003store.com
@@ -102,11 +102,11 @@
 .4009997658.com
 .402.assen.automadness.nl
 .4399stat.5054399.com
+.43ih5huij5znfocgz5i3e7to.rest
 .444.bussyhunter.com
 .4667gwyg1.com
 .480ipil.com
 .4dex.io
-.4eafcef105.b7644e75ce.com
 .4jnzhl0d0.com
 .4m0tg6axs.com
 .4part.kaporghor.com
@@ -179,6 +179,7 @@
 .a.letsjerk.tv
 .a.lifehacker.ru
 .a.maxxhotel.com
+.a.menards.com
 .a.norfolksocks.ca
 .a.perfumesclub.pt
 .a.pet-centar.hr
@@ -276,6 +277,7 @@
 .ackll.lungcancergroup.com
 .ackvainly.com
 .acquisition.cbre.com.au
+.acrinylhypt.com
 .act.generacionpentecostal.com
 .activate.mcall.com
 .activate.pomeradonews.com
@@ -469,6 +471,7 @@
 .amplilab.thepure.app
 .ampltd2.medal.tv
 .ams.atlashxm.com
+.amuseddish.com
 .an.avast.com
 .an.milb.com
 .an.mlb.com
@@ -782,6 +785,7 @@
 .apsrgeo.amap.com
 .apxlv.com
 .aqorez.yamo.bio
+.archilsmgr.rest
 .arif.hameshainvest.com
 .ariotgribble.com
 .arithmetic48.top
@@ -834,6 +838,7 @@
 .attributiontrackingga.googlecode.com
 .atwxrp.bibloo.cz
 .atwzxdiiutcqw.space
+.auspicypartage.rest
 .autchoog.net
 .auth-na.hismarttv.com
 .authoritativepaulbasic.com
@@ -843,7 +848,6 @@
 .avigatejungle.click
 .avlrv.simplynootropics.com
 .avmvk.oliversweeney.com
-.avowingoxaliteglancer.qpon
 .avqvapdzqkycf.website
 .avrsht.wolfsburger-jobanzeiger.de
 .awbbcre.com
@@ -996,7 +1000,6 @@
 .blank080227.shop
 .ble.ubm-licensing.com
 .bleawwsm.com
-.blendedliteral.cfd
 .blinterrayage.qpon
 .blog.b2lead.com
 .bls.aarongolub.com
@@ -1177,7 +1180,6 @@
 .cardboardcrispyrover.com
 .caringcast.com
 .carmen2.golem.de
-.carryedgandum.com
 .carsandcovers.shopforcovers.com
 .cartophushaby.cfd
 .cashmereabove.com
@@ -1526,6 +1528,7 @@
 .cxcwhu.wantedind.com
 .cyan92010.com
 .cyezszhm.pammys.com
+.cyivtomkjckbf.online
 .cymenespicalrauraci.cyou
 .cymuig.assem.nl
 .cyntgd.anticipazioni.tv
@@ -2104,8 +2107,10 @@
 .dsb.yahoo.co.jp
 .dsbpwl.com
 .dsdria.com
+.dsifphfbfeazr.space
 .dsnpvz.com
 .dsnymrk0k4p3v.cloudfront.net
+.dsqewzfqvoayx.website
 .dsqyro.com
 .dt.greymatter.dk
 .dt.harpermeds.com
@@ -2224,7 +2229,7 @@
 .ediuschina.com
 .ednqjm.magnanni.com
 .educationlink.clear360.com
-.eeaejvpkvydly.website
+.edyvyrqphxuqw.space
 .eebd3c4c48.com
 .eejvitzdrucuw.site
 .effectivecpmnetwork.com
@@ -2409,7 +2414,6 @@
 .f9e6q9.t3welpleig18rc.cfd
 .fa5.dn4.it
 .fabulousbridge.com
-.fabwefnidsxul.site
 .facebookgatewaytrackdm.worshipproductions.org
 .fairway.golfballplanet.com
 .falseframe.com
@@ -2434,6 +2438,7 @@
 .federatedcompute-pa.googleapis.com
 .feeceeyf.com
 .feedandpurr.com
+.feisoutsulk.cfd
 .fennishincide.cfd
 .fepvrd.bathandbodyworks.com.sa
 .ferret.ecvan.io
@@ -3157,8 +3162,10 @@
 .gtmserver.nawaconsultoria.com.br
 .gtmserver.pazzei.com.br
 .gtmss.life-ong.org
+.gtmxlutglqqae.space
 .gtt.solutiedpf.ro
 .gtw.eurovaistine.lt
+.gtydpdpmhrhhu.site
 .guardian-app.hotdoc.com.au
 .guchihyfa.pro
 .gucir.bakerssquare.com
@@ -3259,6 +3266,7 @@
 .hit.c97.org
 .hiuplq.flashscore.pl
 .hjxajf.com
+.hlggpgruglizv.website
 .hlgmrrzoeayw.com
 .hlo7m83x.xyz
 .hmilk.nuudcare.nl
@@ -3266,6 +3274,7 @@
 .hnotf.ecsportsusa.com
 .hntnca.petpetgo.com
 .hoamingurus.cfd
+.hoasttamiseleonist.cfd
 .hofpue.priclist.com
 .hogginsplateau.com
 .holmes.vittaderma.com
@@ -3354,6 +3363,7 @@
 .ieaga.globalrose.com
 .ifb33zuqc.com
 .ifkzro.llbean.co.jp
+.ifquayfkshevq.online
 .ifqyfx.e-myholiday.com
 .ifxnyp.troquer.com.mx
 .igaming-warp-service.io
@@ -3405,7 +3415,6 @@
 .images.tableau.com
 .images.tr-mail.bsh-group.com
 .images.web.pirelli.com
-.imagesstonage.com
 .imamuenaebetugif.xyz
 .img.bwin.be
 .img.foodspring.ch
@@ -3661,7 +3670,6 @@
 .jzoxch.menswearhouse.com
 .jzuklhgekldnk.site
 .k.secrets.ai
-.k3lu4jt5.y814vfu5uenqwo7cbjml71lcg.cyou
 .k9nmr4ii6w4gm3f.bqceuxtnnzw29yygimx.cyou
 .k9zxbudgix.com
 .kalwarpelioma.rest
@@ -3832,6 +3840,7 @@
 .learn.relationshipone.com
 .learnblowby.com
 .lector-mangas.com
+.leesealish.rest
 .leezoama.net
 .leghe.tappycard.com
 .lejut.ulo.co
@@ -3865,7 +3874,6 @@
 .lidburger.com
 .liegelygosport.com
 .liftoff.io
-.limbecyblent.com
 .link.123bus.de
 .link.beforekick.com
 .link.booksy.com
@@ -5185,6 +5193,7 @@
 .natite.crowtienda.com
 .natsp.xing.com
 .naturalotter.me
+.naugerbaffing.rest
 .naxos.lastampausa.com
 .nbgpz.consumer-choices.com
 .nbizzi.store.ferrari.com
@@ -5297,6 +5306,7 @@
 .numberium.com
 .numbers.md
 .nurba.scotlandshop.com
+.nutcakesinking.click
 .nv.mtcshop.com.br
 .nvbkpigfbaljg.space
 .nvfaimemxwgka.space
@@ -6587,6 +6597,7 @@
 .she-want-fuck.com
 .sheargovernor.com
 .shhh.lol
+.shinyalto.me
 .shn.brandfull.com
 .shockingstrategynovelty.com
 .shop.graysonsullivan.com
@@ -6609,7 +6620,6 @@
 .sincerebuffalo.com
 .sindonpavis.cyou
 .sinkportal.com
-.sinnerhealthypoured.com
 .sio.account.bmimd.com
 .sit.khanshoppingmall.com
 .site-analytics.iop.ohio.gov
@@ -6681,6 +6691,7 @@
 .som.sears.com
 .som.vrbo.com
 .soma9vols.com
+.somalounshiny.rest
 .somepossibility.com
 .somn.wholesalehalloweencostumes.com
 .somni.choicehotels.com
@@ -7907,6 +7918,7 @@
 .synonymoussticks.com
 .sysmon.kakaku.com
 .syvxbvuaibmaf.site
+.szcipilourzpu.website
 .szkngudpzkgan.website
 .t-s.revealvirology.com
 .t.aampere.com
@@ -8167,7 +8179,6 @@
 .tkphu.sillysanta.dk
 .tks.poloklikk.hu
 .tl9q49ffi.com
-.tlcjaqrghthyv.space
 .tluee.olaplex.com
 .tlvwjqekevwak.online
 .tm.cmhouston.org
@@ -8780,6 +8791,7 @@
 .vgrbvi.atncorp.com
 .vgyjiltbicbip.website
 .vgzard.icu
+.vhdtukjxfzesr.online
 .vhs.videoschangereality.com
 .vi.adviso.ca
 .vibeaconstr.onezapp.com
@@ -8936,6 +8948,7 @@
 .wejpuy.factor75.com
 .wellanailshop-sst.shopperhiva.com
 .wf.typesquare.com
+.wfifasask.in
 .wflmdekaeqgqm.space
 .wftihvn.xyz
 .wgmmlpgkhleac.space
@@ -8948,6 +8961,7 @@
 .whimsicalcoat.com
 .whireclogomod.com
 .whitepark9.com
+.whobjoknitvnb.online
 .whollyeven.com
 .whzeop3nvbwoc6l.cfd
 .wickedsetup.com
@@ -8960,7 +8974,6 @@
 .wirenewsletter.com
 .wisdom.myfaktory.com
 .wistfulwaste.com
-.withiesjimbo.cyou
 .withoutsense.bikecare.app
 .wiwa.williamwalker.es
 .wj8i1rlp2b.com
@@ -8969,6 +8982,7 @@
 .wkffb.247blinds.co.uk
 .wl-pixel.index.digital
 .wlg.shinhancard.com
+.wlrrphwchkuce.website
 .wmrmm.com
 .wmrzpmaekbwdy.space
 .wmtgvnlbsqrpo.site
@@ -9009,6 +9023,7 @@
 .wugrorud.com
 .wunsofiubphad.space
 .wusmgwhm.watchesof.com
+.wvhyqzwryckie.site
 .wvoudw.magaseek.com
 .wvvw.france24.com
 .wvvw.francemediasmonde.com
@@ -9033,6 +9048,7 @@
 .wyb.palpiteai.com
 .wyb.vieirasneakers.com
 .wykwiv.rehabmart.com
+.wyqpdjnrhopzn.website
 .wysckbowicsxr.site
 .wzxikb.jsoop.co.kr
 .x-storage-a1.cir.io
