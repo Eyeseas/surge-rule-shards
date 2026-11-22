@@ -59,105 +59,105 @@
     },
     "reject": {
       "url": "https://ruleset.skk.moe/List/domainset/reject.conf",
-      "sha256": "bba9da97f4706601a00759b06f6386224e41abb50977bec88bc7ec0f467921bc",
-      "source_bytes": 3355483,
-      "entries": 149822,
+      "sha256": "a78061829fd27fb2dc33df57634f9a25ee7cc0024e56c3e8e245806bbc225060",
+      "source_bytes": 3353759,
+      "entries": 149660,
       "shards": [
         {
           "path": "rules/reject/00.list",
-          "bytes": 211486,
-          "sha256": "6b34ba44f6ee1f42dcb8e0ed471bdd889201797d4657e27694806750650add50",
-          "entries": 9393
+          "bytes": 211425,
+          "sha256": "8640dbf5c4494458dc6d618abee4afe1e9c336cd1f8c296d4cb21032d1bbebac",
+          "entries": 9386
         },
         {
           "path": "rules/reject/01.list",
-          "bytes": 209755,
-          "sha256": "b86d443c06e5189078f39b5b3bda66151520e497f5bf4e07eca81be64b8c88c1",
-          "entries": 9304
+          "bytes": 209621,
+          "sha256": "2e4167a3cd8e453bbb856563d49bdf795919c56f43ceb1b38ffcebf4011beb19",
+          "entries": 9293
         },
         {
           "path": "rules/reject/02.list",
-          "bytes": 211340,
-          "sha256": "63846c8b0b7db4ea6bb46cee65c1a52071325b3977455e07926407a314db4052",
-          "entries": 9393
+          "bytes": 211348,
+          "sha256": "aca7d9dbfeb496c2cb965401a866534b2e0a3ebe32ddc88415484e9aab49d38d",
+          "entries": 9388
         },
         {
           "path": "rules/reject/03.list",
-          "bytes": 212582,
-          "sha256": "5614172ec64a48cbf49a9ea34f955b386b4eca297c3255c43f10b36a0b4cc0e0",
+          "bytes": 212613,
+          "sha256": "5e3883876fe4670fcffe8fdc90d2f9d553e5e9328f3afbf224f4e1a6a3f66810",
           "entries": 9477
         },
         {
           "path": "rules/reject/04.list",
-          "bytes": 211183,
-          "sha256": "4283ae0910999ee03449fccbf6819321b3c0b4355f434c274d8a858f6e3dd2bf",
-          "entries": 9416
-        },
-        {
-          "path": "rules/reject/05.list",
-          "bytes": 210362,
-          "sha256": "9873b15974595e3a5abf816223640de4884af667bd9f5959d51552f4e50b0877",
-          "entries": 9373
-        },
-        {
-          "path": "rules/reject/06.list",
-          "bytes": 205656,
-          "sha256": "06ca42f440d9c4a6936618b60f00250b22c586a9a184f44079c09d7d53c03349",
-          "entries": 9133
-        },
-        {
-          "path": "rules/reject/07.list",
-          "bytes": 212205,
-          "sha256": "8d0bb109ca961abaaeb7fd87b7691ecbd7298ef9f5ee033866b9ab02b0133c7b",
+          "bytes": 210786,
+          "sha256": "561254f500536a32f5e703b7c697112e40edafa421991e2e267fdaf91eec3d39",
           "entries": 9389
         },
         {
+          "path": "rules/reject/05.list",
+          "bytes": 210211,
+          "sha256": "73add9715222f9c0dfa31bea5a5a6f9bd74801e363e94f1777e90bff53b67dea",
+          "entries": 9360
+        },
+        {
+          "path": "rules/reject/06.list",
+          "bytes": 205570,
+          "sha256": "48f1d4e2dfd51a07811619aa0882146a55507f07650a5f786260bfb199f59c14",
+          "entries": 9122
+        },
+        {
+          "path": "rules/reject/07.list",
+          "bytes": 212247,
+          "sha256": "c5110e45ce04e6ff1c4b78e424732cc24ec6627b5e87af625085a677f1f86512",
+          "entries": 9387
+        },
+        {
           "path": "rules/reject/08.list",
-          "bytes": 212669,
-          "sha256": "d6a5ac6cd49a864f5df6ab2fb9f3a36b61ba58c4702a6764efa06ab46ee4d48e",
-          "entries": 9429
+          "bytes": 212550,
+          "sha256": "74de80ab5f9858b0da29e05d149a41fd2d3d5d81a1398320851d41f469659e6d",
+          "entries": 9416
         },
         {
           "path": "rules/reject/09.list",
-          "bytes": 210489,
-          "sha256": "c2c3782b8d986875659c161f999413301e4acbb4fe566b19369e372a76f9ad70",
-          "entries": 9356
+          "bytes": 210242,
+          "sha256": "9c592714664420e0f32fe66a771fa3663ff101c920a92d4f2eec8650f8f86e8d",
+          "entries": 9338
         },
         {
           "path": "rules/reject/10.list",
-          "bytes": 208936,
-          "sha256": "32210e01912ac13b0c552fcdfbc68f2f3169c7940aada3d588338a71e2df7423",
-          "entries": 9271
+          "bytes": 208719,
+          "sha256": "b423f44b4999bf3dba39bb6242c8ef17e2aefc91f23691fd5e67143b11f68058",
+          "entries": 9254
         },
         {
           "path": "rules/reject/11.list",
-          "bytes": 213367,
-          "sha256": "e0e1b513698c294f82695138d204d283f102904de276c6c913922e524d9982e1",
-          "entries": 9458
+          "bytes": 213436,
+          "sha256": "4e5f88ce9a325bdd366d4d965d38478761c6faca69d3297491ffe3a167d3b347",
+          "entries": 9456
         },
         {
           "path": "rules/reject/12.list",
-          "bytes": 211688,
-          "sha256": "5583b62081d9fd8be73521587c1a579ca37036f8a23a110186787eed101db4af",
-          "entries": 9411
+          "bytes": 211427,
+          "sha256": "876aabcffcffbb38b479daacf7ab8b0486599e07c1a06586932c835e75e44a91",
+          "entries": 9395
         },
         {
           "path": "rules/reject/13.list",
-          "bytes": 211336,
-          "sha256": "2976442c64d9958495e6564b63ef7f66bf2ab1fd1d6c8bc6cbd1fc9ca3a03795",
-          "entries": 9348
+          "bytes": 211253,
+          "sha256": "1be15a085c93df412daae3eda4081dcfdb65e1f44c8bec08d9793634a6776df3",
+          "entries": 9341
         },
         {
           "path": "rules/reject/14.list",
-          "bytes": 210745,
-          "sha256": "3788ca29c596a0aa6481ca42de6b180640e59e39ccdfd0550d03eb42da5f198c",
-          "entries": 9359
+          "bytes": 210733,
+          "sha256": "7dfda7189e15da84fb7717cafaa1fda38598065dd94c9cbe4d374cf573786fe6",
+          "entries": 9355
         },
         {
           "path": "rules/reject/15.list",
-          "bytes": 208777,
-          "sha256": "71548ff8ec37742227c690338ad0b28d96a8c0a1ce82a181ed6c13845fc20536",
-          "entries": 9312
+          "bytes": 208671,
+          "sha256": "2895cd3a1c20d3a6e51e707b8d663593b8865757618aa0be8af350b578dc783a",
+          "entries": 9303
         }
       ]
     }

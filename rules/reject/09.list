@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-20T23:04:09.562Z
-# Size: 149822
+# Last Updated: 2026-11-21T22:09:52.060Z
+# Size: 149660
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:Pz5nUi_BayttK0cJjK3DPtjrbm47mnfkh-XM5ck-OFc$
+# $content-hash-v1$:MWqozsCvBggM-iydCRp1b8TqikxJdoNAC6m0b8so-JY$
 # 
 # EOF ##################
 .000webhostapp.com
@@ -30,7 +30,6 @@
 .078pwrxpbg.com
 .0c484j022z.com
 .0vpekhux1f.com
-.0xzxwnkqdu.com
 .1.51dongshi.com
 .1.v1u5zh9hp7wg1j83exk2.cfd
 .1.zuowenjun.com
@@ -58,10 +57,8 @@
 .1ato.com
 .1gj8lhfa1.com
 .1j2n061x3td.www.digi.no
-.1jlp1qbgu.com
 .1pnnywe3rmoz3z1wlw9v5vh.cfd
 .1r4g65b63.de
-.1rwa5e8a6.com
 .21wiz.com
 .222aa333bb.com
 .22qt1c4n.xyz
@@ -91,8 +88,8 @@
 .42vaywaovr.com
 .43y3q8h5mz.com
 .44ipavmq2n.com
-.4bo5t8fzd.com
 .4lu114x7k9ef6qr82.cfd
+.4qhg8h56veuu9mmj4c.rest
 .4rabettraff.com
 .4z48fqo12n.com
 .5363316.trackerinfo.southbeachdiet.com
@@ -100,13 +97,11 @@
 .56txs4.com
 .573df7c52b.com
 .57px99h5wi1g9gfm.cfd
-.58rfnch2yq.com
 .5bess6df0.com
 .5gvci.com
 .5hffr1p22j.com
 .5hi8d6076.com
 .5ivy3ikkt.com
-.5j45n3f6r.com
 .5w31xv1a2.com
 .5wczjm7h4.com
 .5xdz5pz072.com
@@ -832,6 +827,7 @@
 .artfulsavage.com
 .arthurbrent.norlandia.nl
 .articledemon.com
+.aruntacircler.cfd
 .arwff.menopausecare.co.uk
 .as.metal-hammer.de
 .as.payback.it
@@ -955,14 +951,12 @@
 .bb.onjoyri.de
 .bb2r.com
 .bbagnw.sedaily.com
-.bbjkmvtyuuurd.space
 .bbngdsqkbsnyv.website
 .bbnzww.vanmonster.com
 .bbocnxjz.grafical.dk
 .bbr.bru-zane.com
 .bbvpv.andcollar.com
 .bbznqba.boxgenie.com
-.bcjhlhuhq.icu
 .bd.khukumonishop.xyz
 .bd1.click.com.cn
 .bds.snssdk.com
@@ -983,13 +977,13 @@
 .beruxpdyhibq.com
 .bestcontentfund.top
 .bestcpmnetwork.com
+.betterviolet.org
 .bettingpartners.com
 .bevog.lineargent.com
 .bewnfl.houseoftents.co.uk
 .bf002bbbbb.com
 .bfycxv.atlasformen.nl
 .bfzte.hdtech.com
-.bgdugbsdvpkcx.space
 .bgg.baidu.com
 .bgtfr-test.mno.link
 .bgxbervoatuvq.site
@@ -1027,7 +1021,6 @@
 .biodegradablegrand.com
 .biohealth.euvou.events
 .biotechnologysciences.com
-.birbmcmp.icu
 .bird.thechristmasfabric.com
 .bisa-aja.my.id
 .bizographics.com
@@ -1081,8 +1074,8 @@
 .bpsxld.meutudo.com.br
 .bpucmkg.com
 .bqoulb.nowo.pt
-.br0vjqh7pe.com
 .br931.belarus.caseme.by
+.braconamphion.click
 .brajqk.ineedamobile.com
 .branch-4567w2a56q-test.salesfloor.net
 .branch-c.hipages.com.au
@@ -1113,6 +1106,7 @@
 .btm9uso7t.com
 .btsel5g.com
 .buaal.pharmacyonline.co.uk
+.buapsybcocwuw.website
 .budibu.saksfifthavenue.com
 .buf.lemonde.fr
 .bugs01080ko.com
@@ -1574,6 +1568,7 @@
 .cvxokrrytbgis.space
 .cwchmb.com
 .cwgesk.metalshop.cz
+.cxhjeu8kbm3r75.rest
 .cyberfluxer.com
 .cyclinghere.com
 .cyclonebamboo.com
@@ -1709,7 +1704,6 @@
 .daffodilacorn.com
 .dafvng.sunrefre.jp
 .dahaolong.top
-.dahrexmj.icu
 .daintilyrare.com
 .dancingmarmot.com
 .dandieamobyr.cfd
@@ -2456,7 +2450,6 @@
 .eua.trailerplus.lu
 .eua.trailerplus.pl
 .eua.trailerplus.sk
-.eucivb22zuzloxcz.cfd
 .eufnv.barilife.com
 .euiyudfbgdkdd.space
 .eulerian.belambra.fr
@@ -2538,6 +2531,7 @@
 .fast.laroya.store
 .fast.planetorthopedic.it
 .fast.yolobrands.com.br
+.faunaoampitter.cyou
 .fayuau.barkyn.com
 .fbapi.agenciamada.com.br
 .fbapi.claudineigomes.com.br
@@ -2553,7 +2547,6 @@
 .fd6s5sa7ji.com
 .fdgcore.com
 .fdhqzb.longkionemedics.com
-.fdighyuwxtqpt.website
 .febtqp.heidimode.com
 .fedexfield.redskins.com
 .feed-xml.com
@@ -2601,7 +2594,6 @@
 .fizzerbivalve.cfd
 .fjortk.braun-hamburg.com
 .fkfovt.icu
-.fkqklnhkzmkmz.site
 .flash.sec.intl.miui.com
 .flepquix.com
 .flimsythought.com
@@ -2617,6 +2609,7 @@
 .fnqykpnonwjc.com
 .fond-obligation.pro
 .food9wave.com
+.foolerystrop.com
 .foppedsnickgreenuk.cfd
 .foremost57.top
 .forex.americanexpress.com
@@ -2670,7 +2663,6 @@
 .frustum47.top
 .fsbfjp.shhh-online.com
 .fshop.faridbookdepo.com
-.fsnazsmk.icu
 .fsrre.nextiva.com
 .fsst.miniature.com
 .fsst.wararni.com
@@ -2780,6 +2772,7 @@
 .getsyngas-ss.offeroshop.com
 .getwavemax-ss.offeroshop.com
 .gezvg.wildhawk.co
+.gfgayfvin.com
 .gfgcwf.vidaxl.lv
 .gfqtqyhlyktfo.site
 .gg.0598yu.com
@@ -2797,8 +2790,6 @@
 .ggl.mon-blouson.com
 .ggl.tendencialuminarias.com
 .ggm.throttlesociety.com
-.ggo10091lq.com
-.ggo10140lq.com
 .ggs.myzaker.com
 .ghdne.onceuponafarmorganics.com
 .ghostsinstance.com
@@ -2826,6 +2817,7 @@
 .globaltraffico.com
 .gloutanacard.com
 .glxrik.site
+.glz2qv7q4.com
 .gmitmd.heatholders.com
 .gmlxsukuxhlku.site
 .gmrliq.ilcaffeitaliano.com
@@ -2914,7 +2906,6 @@
 .graduate59.com
 .grasshoppergainfulexcavator.com
 .gratinschildre.cyou
-.gravegrandmother.com
 .great.xxxbanglavideo.com
 .green.kittycare.co
 .greenads.org
@@ -3354,7 +3345,6 @@
 .heerlijkslapen.matrasconcurrent.nl
 .hehzekyxfhrkw.space
 .helasmess.com
-.helewouaskaris.com
 .helix.bitformations.ca
 .hello.katieandmolly.com
 .hello.poachedjobs.com
@@ -3412,6 +3402,7 @@
 .hot4k.org
 .hotchmerels.com
 .hotllove.net
+.housewheels.com
 .hpd.baidu.com
 .hpjmwaxjoxfmq.online
 .hpninfo.hoopis.com
@@ -3448,10 +3439,10 @@
 .hziridqp.com
 .hzvocv.ucando.pl
 .i.u8t658y96tq8kc.cyou
+.i1337yreugulr499qp6r58.rest
 .i218435.net
 .i2ad.jp
 .i2ye9dnle.com
-.i7mfm1hl44.com
 .i9.skyjack.com.br
 .i953.greeleytribune.com
 .ia3lxhd539.com
@@ -3481,7 +3472,6 @@
 .iiudqzonbgwtd.site
 .ikebanascapose.com
 .ikhztf.gosmile.com
-.ikronzealu.com
 .ikrydi.clubeo.com
 .ilfmju.right-on.co.jp
 .illexamination.pro
@@ -3729,7 +3719,6 @@
 .j198.registercitizen.com
 .j3idyosut.com
 .jackknifemonuments.com
-.jaded-actor.com
 .jads.cc
 .janzoz.1001pneus.fr
 .jarhormecouxio.cyou
@@ -3808,6 +3797,7 @@
 .juanse.soyrustiko.com
 .jubilanthush.com
 .jubilantpinnacle.com
+.judgestonner.click
 .julrdr.com
 .juris.pedroburak.com
 .justtrack.io
@@ -3957,7 +3947,6 @@
 .landing.newyorkjets.com
 .landingpage.lanaco.com
 .landkarts.com
-.lannermontre.qpon
 .laqkhkpvecsvh.website
 .latifur.goladora.com
 .launchkite.com
@@ -4067,7 +4056,6 @@
 .lion.ing.de
 .lipitorantitrustlitigation.e.epiqnotification.com
 .liquorssquab.com
-.listlessly1.top
 .live-eu.pornamigo.com
 .live.cxo.name
 .live.techit.co.il
@@ -4716,7 +4704,6 @@
 .managedaccounts.pacificpower.net
 .manawa-mai.ac.nz
 .mang.marinmazda.net
-.mangelcuspids.com
 .mango.craigsguide.org
 .mango.vitameenat.com
 .manyfishes.com
@@ -5342,7 +5329,6 @@
 .mtrcs.penshop.nl
 .mts.payai.network
 .mtx.belfius.be
-.multiply5.top
 .murshed.citymaxbd.com
 .musicnote.info
 .mutzdgjyiqse.com
@@ -5361,7 +5347,6 @@
 .my.weplayvolleyball.si
 .mypa-hk.americanexpress.com
 .myshop.greenhousepolytunnels.com.au
-.mythusaptera.cfd
 .mytop.live.vkvideo.ru
 .mytracking.sanaor.com
 .myweb3id.io
@@ -5420,13 +5405,13 @@
 .ng.virgul.com
 .ngcbjq.frecuento.com
 .ngnetascshfbz.online
-.ngunmeumeklav.online
 .nhzbyr.checkmyfares.com
 .nia.nialaya.com
 .nicefollows.com
 .nid.mansionglobal.com
 .nidays.austria.ni.com
 .nidedfaciend.cfd
+.niqcdzpghwcvj.space
 .njoevqi1nx.hockerty.com
 .nlog.instajob.ai
 .nlog.shinhan.com
@@ -5471,7 +5456,6 @@
 .nvhlzr.kosmetikfuchs.de
 .nwfkjx.gadventures.com
 .nwtrih.ticket.com.br
-.nwufgvturduja.site
 .nxgtkj.reelpaper.com
 .nxyzabhy3.com
 .nycp-hlb.dvgtm.akadns.net
@@ -5487,7 +5471,6 @@
 .o3i71ip374zvnbzq.cfd
 .o40d17vln.com
 .o68u4mc85u7wribbcu9f3kwgpyj.cfd
-.o6oxvugdl.com
 .o9gvxuj9t6.com
 .oaarzkjlswrwb.online
 .oauwmrvygdqlr.site
@@ -5550,6 +5533,7 @@
 .omni.synchrony.com
 .omnis.pcmall.com
 .omniture.chip.de
+.omoevcozeezhg.one
 .omoonsih.net
 .omphaliarainsagamic.cfd
 .oms.country1073.ca
@@ -5587,6 +5571,7 @@
 .optvz.com
 .opxvkr.urbancherry.jp
 .oqjbl.ozonecoffee.co.uk
+.oqxkasobcn.in
 .orangutan.renovare.org
 .order.femipure.de
 .order.safecarry.dk
@@ -5606,7 +5591,6 @@
 .overboard27.com
 .overjoytypicbranta.cfd
 .overthrowslash.com
-.owflibalnnfi.in
 .owipkz.lotuff.co.kr
 .owl.gregwolanski.com
 .oxbbzxqfnv.com
@@ -6737,6 +6721,7 @@
 .signals.carrefoursa.com
 .sijgs.papaginos.com
 .siliconuser.com
+.silkmenrattles.com
 .silkworm.margrietprinssen.nl
 .simg.gamebookers.com
 .simplistic-recover.com
@@ -6764,6 +6749,7 @@
 .skye6oner.com
 .skypipehookahs.com
 .sldwjf.lashfood.com
+.sleckeeyuchredout.cyou
 .sleepzeeshop-ss.offeroshop.com
 .slim.slimkiezen.eu
 .slm1.leministere.ca
@@ -7865,6 +7851,7 @@
 .stbg.stanbicbank.co.tz
 .stcd.kleberli.de
 .steamabundanceslope.com
+.steenthbenumbs.cyou
 .step.roadiesbd.com
 .stepe.soulderma.com.br
 .stepioserver.citicrow.com
@@ -7978,7 +7965,6 @@
 .sys.jumpeducacao.com.br
 .sysoutvariola.com
 .syvvsv.artex.com.br
-.syzygalsawwort.cfd
 .szbnb3wmaj.com
 .szhqg.filorga.com
 .t-s.avastin-hcp.com
@@ -8134,7 +8120,6 @@
 .tatu.hospedabamba.com.br
 .tawdryson.com
 .taznfx.renters.pl
-.tb4gv2cp5z.com
 .tba.smrtp.link
 .tbckanlpijfxc.site
 .tbfnzwjrgirrg.space
@@ -8276,6 +8261,7 @@
 .topbctvwaoz.com
 .topropecleping.com
 .topu.rangdhonubd.com
+.torbacku.com
 .torsesripuplugworm.cyou
 .touch-moblie.com
 .toys.kongessloejd.ch
@@ -8842,6 +8828,7 @@
 .veqvek.much.com
 .verifysession.uxcam.com
 .verseballs.com
+.vertex8219.pro
 .vexbhrvesysec.space
 .vexclean-ss.shopperlo.com
 .vexohnhuwyykl.com
@@ -8906,6 +8893,7 @@
 .voicingnarcosenoils.cfd
 .vophiptv.com
 .voyager.tech.etribes.de
+.vpfcglnwbtrqn.space
 .vppgfw.daikyo-anabuki.co.jp
 .vprtrfc.com
 .vqp3.madeindesign.co.uk
@@ -8929,7 +8917,6 @@
 .vyjwxc.elemis.com
 .vysr4o0eg.com
 .vzguyy.fisiofocus.com
-.vzorzilmf.com
 .vzyahn.legalvision.fr
 .w562f5.com
 .w56ff7.cc
@@ -9056,6 +9043,7 @@
 .wkjwumtex3.com
 .wlt-jupiter.de
 .wm.szdushi.com.cn
+.wmdrsrgtsjqjo.site
 .wmizdm.relax-job.com
 .wmpuem.com
 .wn24hnu6vnqu256ph.h8kgkbtcj1h8frwxyz9j28.cyou
@@ -9088,6 +9076,7 @@
 .wvvw.mc-doualiya.com
 .wvvxvfxbbsvcp.space
 .wwads.cn
+.wwtdxeynydpsz.website
 .www1.kawasaki-motors.com
 .www1.mcs.co.uk
 .www1.parts-pros.com
@@ -9138,7 +9127,6 @@
 .xgxiyfjwll.com
 .xhxwfpwstsyyy.site
 .xinbzybuosadk.website
-.xinxinmingml.com
 .xiqvza.dickblick.com
 .xixqkqpdxkybb.online
 .xj.5yn6f1mg6x1icpml49.cyou
@@ -9255,13 +9243,11 @@
 .zbseb.underdoggames.com
 .zcfgvb.ara-arbeitsschutz.de
 .zcfhi.cn.com
-.zdh11031lo.com
 .zdw.w8.com.cn
 .zeelooshashey.net
 .zenithurbanflirtatious.com
 .zeroizemoved.click
 .zeusadx.com
-.zevcigasyau.com
 .zevdh.plug.tech
 .zfdzf.killstar.com
 .zglsv.pureprotein.com
@@ -9290,13 +9276,9 @@
 .zrbezdaddiahk.space
 .zscnz.sugarandheartclinic.com
 .zsjxwj.com
-.zsy10161yok.com
-.zsy10230yok.com
 .ztykeqkw.skysource.com.ua
 .zudver.matsmart.se
-.zulaedha.com
 .zuoiig.noreve.com
-.zvciaoan1k.com
 .zvhct.zorrata.com
 .zvumg.appbrew.tech
 .zwgoeg.zakcret.gr
