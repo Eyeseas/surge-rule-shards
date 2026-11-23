@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-21T22:09:52.060Z
-# Size: 149660
+# Last Updated: 2026-11-22T22:27:35.720Z
+# Size: 149824
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:MWqozsCvBggM-iydCRp1b8TqikxJdoNAC6m0b8so-JY$
+# $content-hash-v1$:QjyDaiLyk-xJZMyOK5krRfDGPTCl4X_H-JnW0bihu2Y$
 # 
 # EOF ##################
 .007bq3y7e5.com
@@ -108,6 +108,7 @@
 .5h3oyhv838.com
 .5u1zleadi.com
 .5xxvm.celebratevitamins.it
+.61ct4yimmej4gb8146bt.rest
 .63794fc885.com
 .66infra-strat.com
 .6gyo6oz.mj6cio3zwtovi4jkjhx4fp8o4.cyou
@@ -127,7 +128,6 @@
 .87uq.com
 .88.slotbiruserper.com
 .89kvh.cn
-.8a7c3186b4.2f7d057ddf.com
 .8c2sxamc6w.com
 .8kbg4gnw32.com
 .8pbiddjtp.com
@@ -452,6 +452,7 @@
 .amalatusseh.com
 .ambaasteerguidman.cyou
 .ambientdusk.com
+.ambifpskje.com
 .amethyst.zappos.com
 .amongstmask.com
 .amphibian.pinestc.com
@@ -847,7 +848,6 @@
 .aux.lansator.ro
 .availablerest.com
 .avazutracking.net
-.avgony.xyz
 .avhmf.toms.com
 .avzpa.gooddaymood.com
 .awarealley.com
@@ -875,7 +875,6 @@
 .b0.yahoo.co.jp
 .b0ko1hd9pb.com
 .b629.electronicdesign.com
-.b8i8qylz55obqt1cruuc5971.cfd
 .b90bae1599.b64397ae54.com
 .ba.brico.ai
 .bab.reinoanimalpet.com.br
@@ -989,7 +988,6 @@
 .blakwc.sabon.fr
 .blattaaccourt.com
 .blavity.black.news
-.bleckaugrim.com
 .blehcourt.com
 .blhwnj.enbio-group.com
 .blismedia.com
@@ -1071,7 +1069,6 @@
 .btldr.net
 .btloader.com
 .btuwrsjvdytpgl.com
-.btwjqkfjgjorh.site
 .bubbly-guarantee.com
 .buggykinoosdogfish.cyou
 .bultroosted.rest
@@ -1090,6 +1087,7 @@
 .buzzingnippy.com
 .bvr.snva.jp
 .bvypp3rttivc1fq914v.cfd
+.bvyutpbsok.com
 .bwlnnrdsqondjy.com
 .bwujxl.yoga-lava.com
 .bxcebt.enjoyyourcamera.com
@@ -1132,7 +1130,6 @@
 .cancellation39.com
 .cane.intel.com.br
 .canidae.fidum.uk
-.canopidpunkin.com
 .capaciousdrewreligion.com
 .capi.abarashbo.com
 .capi.abstractocean.com
@@ -1288,6 +1285,7 @@
 .citatumpity.com
 .citizensactive.com
 .cixrak.5159289.jp
+.ciyxsrdlcmnrg.site
 .cj99fbulb4.com
 .cjb6nr5csu.com
 .cjbsn.agapediamonds.com
@@ -1562,6 +1560,7 @@
 .cw2hc.parfumswinkel.nl
 .cwbpng.olympiah.com.br
 .cwsezpmz.gary.ch
+.cxvfadnsc.com
 .cybba.solutions
 .cyber-tracking.att.com
 .czhjf.baublestockings.com
@@ -2160,6 +2159,7 @@
 .dtasrvr.com
 .dtkapu.mito.group
 .dtry.autosleutelsnel.nl
+.dtu2kitmpserg.cloudfront.net
 .dtwfcizn.konner-sohnen.dk
 .dtwfcizn.konner-sohnen.nl
 .dubai.shadahotels.com
@@ -2651,6 +2651,7 @@
 .fuj.as-waegetechnik.de
 .funny-tooth.com
 .fuoqr.comfortorthowear.com
+.furahcnf.in
 .futrcylzvwlcj.space
 .future.curlysecret.com
 .futureproof.rb-media.nl
@@ -2761,6 +2762,7 @@
 .giaumusnsj.com
 .gibbusdauber.qpon
 .gielzkxk.burrata.bg
+.giglotakenesdepucel.cfd
 .gilylqiazyyei.site
 .gioriybdfzvu.com
 .gitri.almondclear.com
@@ -2863,6 +2865,7 @@
 .gpuijq.mothercare.com.sa
 .gqccz.thealexjonesstore.com
 .gqfga.senreve.com
+.gqhkkcqfnxuiu.site
 .gqmuky.kaigonohonne.com
 .gqot4qlr9.com
 .grafana-agent.cuboxx.io
@@ -3310,6 +3313,7 @@
 .happen.spkt.io
 .harbor.freestorefoodbank.org
 .harbour47.com
+.hardilybrowny.com
 .harmonywing.com
 .harvester.hbpl.co.uk
 .has.hetamsterdamsewinterterras.nl
@@ -3423,7 +3427,6 @@
 .hye.comp.360os.com
 .hyena.fershad.com
 .hykaqn.dormideo.com
-.hynpvkrwdyyaj.website
 .hyperpromote.com
 .hypervre.com
 .hypnalesondes.cfd
@@ -3772,6 +3775,7 @@
 .jraasj.kobo.com
 .jraum.highereducation.shop
 .jrfjcn.mebeli.bg
+.jrrxbicxeekny.online
 .jrzgcz.ilromanista.eu
 .js.jannatshop2022.com
 .jsdikro5nj.com
@@ -3830,8 +3834,10 @@
 .kbqtbd.littlehipstar.com
 .kbspimym.learndirect.com
 .kbx.sleepvillage.co.uk
+.kdfmxpdsstyfo.online
 .kdoci.blessedfamilygifts.com
 .kdqdr.solawave.co
+.kdytfirkumelw.space
 .kdzhf.webeyecare.com
 .keep.superfoodsonline.nl
 .kejet.net
@@ -3894,6 +3900,7 @@
 .kt1pq.evolarshop.de
 .kt1pq.lavalamp.nl
 .ktlztpx8f.com
+.ktzfqdhougpnh.online
 .ku34bh9la09.com
 .kukanmanhua.cyou
 .kukckk.sagefinds.com
@@ -5236,6 +5243,7 @@
 .najtvgov.neyscustoms.com
 .namel.net
 .nan46ysangt28eec.com
+.narrowefficiency.com
 .narsil.liveatthearrow.com
 .naruk.saintluciferspice.com
 .nationalaccounts.adp.com
@@ -5415,6 +5423,7 @@
 .ohlanaizn.com
 .ohtctjiuow.com
 .oigreykofphcz.site
+.oiitisdcarhwh.space
 .oilylimit.com
 .oimywcipilemcn.com
 .oitgf.motelmargarita.com
@@ -5639,6 +5648,7 @@
 .perr.h-cdn.com
 .pervertmine.com
 .petpgn.artisanparfumeur.com
+.pezpewcygkkbw.com
 .pfgfre.kidscoco.com
 .pfhub.petitfute.de
 .pfmram.slamjam.com
@@ -5723,7 +5733,6 @@
 .poqwo3.com
 .portal.gesetzlich-krankenversichert.info
 .porthole58.top
-.portiasaigon.com
 .pos.baidu.com
 .possibleboats.com
 .postback.info
@@ -6066,6 +6075,7 @@
 .rurbanatweel.com
 .rurbandivisimerfolk.cfd
 .rusffkoxwqqfr.online
+.rvcr3ftmrku5vhlnp1.rest
 .rvhayo.rietveldlicht.nl
 .rwfkzw.wuerth.it
 .rwlywoe.keepnaturewild.com
@@ -8083,6 +8093,7 @@
 .t9j3lrvrv.com
 .ta7088hrd.com
 .tabaccabler.com
+.tableheads.com
 .tacojournal.com
 .tag.atom.gamedistribution.com
 .tag.b-sync.ch
@@ -8817,7 +8828,6 @@
 .unflakyinhered.cyou
 .unjzcu.vita-mart.co.kr
 .unmoxe.ypjo438693tq7rw9c.cyou
-.unweavederiv.com
 .uoblij.farmaline.be
 .upcomingperusehike.com
 .updfcisoyimay.space
@@ -9084,6 +9094,7 @@
 .wlmwkz.adrop.sk
 .wlnaukfq.com
 .wmcurwxrjc.com
+.wmqeznveapyfl.space
 .wnd2.destinia.cat
 .wnqymm.bgasc.com
 .wnwuacmkrugkb.space
@@ -9178,7 +9189,6 @@
 .xsdnb.com
 .xsezjw.karlsruher-jobanzeiger.de
 .xsrzqh.the-star.co.ke
-.xsxubdgmhxfxo.online
 .xtcpby.skechers.com
 .xtg5gdugqi.com
 .xtnltaiulkhid.site
@@ -9238,10 +9248,10 @@
 .yoksaffiant.cyou
 .your.mapandguide.ptvgroup.com
 .your.routeoptimiser.ptvgroup.com
+.ypfiejdzjptll.website
 .ypfjdasswhmzt.site
 .ypwzcq.tink.de
 .yq1d0yvwx.com
-.yqkwcllyovqko.site
 .yrjxf61zb.com
 .yrlkte.in360.pl
 .yrtajivgfzoqr.site
