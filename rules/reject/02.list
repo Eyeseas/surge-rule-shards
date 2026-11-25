@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-24T03:19:09.272Z
-# Size: 151718
+# Last Updated: 2026-11-25T01:24:43.730Z
+# Size: 152067
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:RC88rsSI5z9lFxb0RrCe2r4dGECxO2HWvzAB3MnleJM$
+# $content-hash-v1$:kjiq6VWQysKNv9tDg-yvbrpTbi0QRTjvxM2zXmE7Ymw$
 # 
 # EOF ##################
 .02fd659794.com
@@ -106,11 +106,13 @@
 .44tele-infra.com
 .490i1rrbd.com
 .49ioqq6kt.com
+.4b6n4r2ye1bzizl52.rest
 .4bjubv7lxvpch3.cfd
 .4g0b1inr.de
 .4j7mf4mmx.com
 .4jh1le34m.com
 .4ro76m7k2n.com
+.4xglxv36wklzgz81o19g1k5t5h65.cfd
 .512c23d5e6.com
 .52data-venture.com
 .55697329000106.homedeccori.com
@@ -983,12 +985,14 @@
 .bilsyndication.com
 .binomlink.com
 .biome.krrishibd.com
+.bioxidebattle.click
 .birdebigottyasteer.cfd
 .biribatwinkle.cfd
 .birthbox.hypnobirthing-positive-birth.com
 .biztoolsbrief.com
 .bizz.cochraneco.com
 .bjj.brunocastronutricionista.com.br
+.bjzvinxduxltg.website
 .bkhxut1rz.com
 .bkogtr.vacationsbyrail.com
 .bkzgyz.t-2.net
@@ -1339,6 +1343,7 @@
 .coisj3nil.com
 .cojwnjuptdxcgj.com
 .colad.au.willpowders.com
+.coldhighlight.com
 .collect.adplogger.no
 .collect.badmodul.dk
 .collect.biomedcentral.com
@@ -1439,6 +1444,7 @@
 .cookies.jll.ch
 .cookies.jll.nz
 .cookies.siemens-healthineers.com
+.coolgarden.mobi
 .coolguang.com
 .coolstreamsearch.com
 .copilot-telemetry.githubusercontent.com
@@ -2315,6 +2321,7 @@
 .ee13.relationshipone.com
 .eebju.shopfreespirited.com
 .eecu.fmservice.com
+.eemehsezfbdjj.online
 .eetzod.bemol.com.br
 .eeyytk.tonecontrol.nl
 .efglbp.baur.de
@@ -2646,6 +2653,7 @@
 .fpa-events.spectator.com.au
 .fpcs.firemountaingems.com
 .fpptmv.mrmarvis.co.uk
+.fps3xggxro.com
 .fpssl-monitor-sj.omniture.com
 .fpt.justwood.dk
 .fpz4gr87mq.com
@@ -2737,6 +2745,7 @@
 .gateway.vaatzorgkliniek.nl
 .gateway.venecenter.dk
 .gatoramorphy.cfd
+.gausspinedabduct.cfd
 .gbiltuj8w.com
 .gbsot.wsgamecompany.com
 .gc.mindenugyved.hu
@@ -3398,6 +3407,7 @@
 .huntedcholeic.com
 .huntmad.com
 .hwypoqfw.dynefabrikken.dk
+.hxhasxphmqhyf.website
 .hxugzvxvfwam.com
 .hyc.kilomatic.de
 .hycywj.akkushop.de
@@ -5279,6 +5289,7 @@
 .notorietycheerypositively.com
 .nova.dice.net
 .novemberadventures.name
+.nozzlerfunds.click
 .npfopn.mix.tokyo
 .nprkvj.mall.sk
 .nqidrahwexcqd.site
@@ -5771,6 +5782,7 @@
 .qczgzwbmvious.space
 .qdgjpsiqkjiet.website
 .qf21yrnmnk.com
+.qfgpgl.com
 .qfmqk.monsoon.co.uk
 .qfoiss.lendingtree.com
 .qghcix.mathers.com.au
@@ -5812,6 +5824,7 @@
 .quince22.top
 .quinnetrefuels.cyou
 .quitcertify.com
+.quqpdxjhdwruy.site
 .qvnpxc.technopark.ru
 .qvzrde.eusemfronteiras.com.br
 .qwfuug.phoneclick.it
@@ -5932,6 +5945,7 @@
 .rguki.headbangersports.com
 .rhetoricalactivity.com
 .rhhqqdsjtyaga.site
+.rhizoidbrassic.cyou
 .rift.gameboost.com
 .ripamatic.com
 .ripe8book.com
@@ -8820,6 +8834,7 @@
 .u300.dailybulletin.com
 .u4h8saw19.com
 .uaas.yandex.ru
+.uagusoermohqt.website
 .uajzus.ashford.com
 .uamhf.livesans.com
 .uascj.bchurunway.com
@@ -9021,6 +9036,7 @@
 .vtffnz.blindsdirect.co.uk
 .vtodss.livenation.com
 .vtrelphail.com
+.vvhcuoqaxinfp.site
 .vvscabxa.com
 .vwmqoz.msccruises.co.uk
 .vwss.viva.com
@@ -9185,6 +9201,7 @@
 .wtyrcr.viessmann.com.tr
 .wvxi9jbnt.com
 .ww0s.robinson.com
+.wwrfuerjhklkw.online
 .www-110.aig.com
 .www-google-analytics.l.google.com
 .www-mt.daiichisankyo-hc.co.jp
@@ -9205,6 +9222,7 @@
 .wxgnes.courtsmammouth.mu
 .wxunyc.handyhuellen.de
 .wxynsnaplyrio.online
+.wxzpeizldnupa.website
 .wyb.mr7bet.website
 .wydk6zdk2.com
 .wypxt.vitamintree.ca
@@ -9219,6 +9237,7 @@
 .xaavaz.millesima.fr
 .xaguwy.thomas-muenz.ru
 .xaopakrqjqnkk.space
+.xapdygobaljmh.online
 .xbnu.whzeop3nvbwoc6l.cfd
 .xcenxmcm.qctradgard.se
 .xda.xiaodutv.com
@@ -9340,6 +9359,7 @@
 .yqfax76xs.com
 .yqntgq.kovopolotovary.sk
 .yqxg4.compandsave.com
+.yrlsmjdpscscn.website
 .ys2000.cdn.bcebos.com
 .ysaaks.mobiauto.com.br
 .ytdayhyefpxcp.website
@@ -9426,6 +9446,7 @@
 .zpfwfd.freiburger-jobanzeiger.de
 .zpklzvljzjbq.com
 .zploqy.influx.co.kr
+.zpmeimfikuacb.website
 .zqkmcszmdnuym.site
 .zqlgc.facethefuture.co.uk
 .zquitw.fxpro.com

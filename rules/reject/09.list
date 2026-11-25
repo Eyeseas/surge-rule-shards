@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-24T03:19:09.272Z
-# Size: 151718
+# Last Updated: 2026-11-25T01:24:43.730Z
+# Size: 152067
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:RC88rsSI5z9lFxb0RrCe2r4dGECxO2HWvzAB3MnleJM$
+# $content-hash-v1$:kjiq6VWQysKNv9tDg-yvbrpTbi0QRTjvxM2zXmE7Ymw$
 # 
 # EOF ##################
 .000webhostapp.com
@@ -141,6 +141,7 @@
 .8zqpw2lj8n.com
 .97vk351gi.com
 .990215.xyz
+.9ip7few3b4jif4th2f936e1uy4.rest
 .9nvj3swk9l.com
 .9pbeoey9j.com
 .9versemedia.com
@@ -628,6 +629,7 @@
 .anemiachoky.com
 .anglerfish.pfolios.net
 .annoyingclover.com
+.anoianeeders.rest
 .anontimes.com
 .ans.worldbaseballclassic.com
 .answers.teradata.dk
@@ -938,6 +940,7 @@
 .b47e82rmue.com
 .b56iy3m1jg.com
 .b58ncoa1c07f.com
+.b69bmb4lbkcmgn5wtjl.rest
 .b7c0ba3a64.com
 .babbitafd.com
 .babsst.buildabear.at
@@ -1056,6 +1059,7 @@
 .bmbjpv.liverpooljeans.com
 .bmcdn6.com
 .bmst.pw
+.bmxvcbvmigvrp.site
 .bnaezl.hair-gallery.fr
 .bnc.mksp.io
 .bnxjyxap.leia.ua
@@ -1705,6 +1709,7 @@
 .dads.barbarana.com.br
 .dads.fosseyewear.com.br
 .daffodilacorn.com
+.daffodilrock.mobi
 .dafvng.sunrefre.jp
 .dahaolong.top
 .daintilyrare.com
@@ -3473,6 +3478,7 @@
 .iedchqswx7.com
 .iepfcy.farmandfleet.com
 .ifmonx.commercialrealestate.com.au
+.ifverjmhgjpzq.online
 .ig67.vip
 .iguanidcoy.com
 .ihbrba.parkerthatch.com
@@ -3480,6 +3486,7 @@
 .ii4mju7bta.com
 .iiqxjbfjpyoue.space
 .iiudqzonbgwtd.site
+.iizravrqlhq.com
 .ikebanascapose.com
 .ikhztf.gosmile.com
 .ikrydi.clubeo.com
@@ -3848,6 +3855,7 @@
 .keodinh.net
 .kernesowan.com
 .kerowerste.com
+.kesirxefkvpeb.online
 .keysetjamesshrugs.cyou
 .kf4kwomxhl.com
 .kfa9grestp.com
@@ -5399,6 +5407,7 @@
 .nidedfaciend.cfd
 .niqcdzpghwcvj.space
 .njoevqi1nx.hockerty.com
+.njwywpwhswqku.space
 .nlog.instajob.ai
 .nlog.shinhan.com
 .nlpd.digital4efficiency.ch
@@ -5700,6 +5709,7 @@
 .phonecup.com
 .phonetrack.hukumkaikka.in
 .photo.rottne.com
+.phsztcaprimpd.online
 .physical-beyond.com
 .physical-meaning.com
 .pi2.pieuvre.ca
@@ -6090,6 +6100,7 @@
 .rpjwzl.jungheinrich-profishop.ch
 .rpnvib.estilos.com.pe
 .rpoqf.mark-taylor.com
+.rpyplk.com
 .rqgmu.lakepajamas.com
 .rqnn.funjet.com
 .rs-stripe.com
@@ -6815,6 +6826,7 @@
 .snipersex.com
 .snlvb.luxegan.com
 .snobismlowman.click
+.snuggerbitypichitched.cfd
 .snvbmwrqewuko.site
 .so.auto999.cn
 .so.mobile.migros.ch
@@ -8269,6 +8281,7 @@
 .teniacites.com
 .tenis.antolie.com.br
 .terciohunting.cyou
+.teriannineristilty.cfd
 .terndzbaritzpw.com
 .test-eml.postmates.com
 .test-extern.nitrosniffer.ottogroup.io
@@ -8340,9 +8353,11 @@
 .tknbcxkeydeqa.space
 .tljdgfkcl.com
 .tlss1pd.travellocal.com
+.tmaqdbudcsufd.space
 .tmfjq.wildkin.com
 .tmi.mno.link
 .tmkpd.livhotelgroup.com
+.tmkziuhyhasal.space
 .tmltinnljmoll.online
 .tmrhpl.nurse-agent.com
 .tms.casadastoyotas.com.br
@@ -8794,6 +8809,7 @@
 .ttst.vagabondtoursofireland.com
 .tttd.douglas.it
 .tu1500919341.cc
+.tubifexascan.rest
 .tudazy.importpris.no
 .tufcum.margaretha.se
 .tunneldata.superepi.com.br
@@ -8877,6 +8893,7 @@
 .understatedplace.com
 .undm.qibulo.com
 .unflockdislip.com
+.uniqueness.greenmangaming.com
 .universal.okane-reco-plus.com
 .unrotedsatan.cfd
 .uns.comunicaciones.santander.com.ar
@@ -8927,6 +8944,7 @@
 .vacantazon.com
 .vacationbetter.inspirato.com
 .vafsxc.radioparts.com.au
+.vafvafnotif.com
 .valid-bottom.com
 .valueendogen.com
 .vandalcuculla.click
@@ -9162,6 +9180,7 @@
 .wjwjha.medical-labo.com
 .wkgrle.thelobsterguy.com
 .wkjwumtex3.com
+.wkxoekfewmfur.space
 .wlt-jupiter.de
 .wm.szdushi.com.cn
 .wmdrsrgtsjqjo.site
@@ -9195,6 +9214,7 @@
 .wumllfgjnzkqw.site
 .wunvkcpc.discoverignite.com
 .wut.usadirtbike.com
+.wvevcncamykpc.online
 .wvvw.mc-doualiya.com
 .wwads.cn
 .wwtdxeynydpsz.website

@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-24T03:19:09.272Z
-# Size: 151718
+# Last Updated: 2026-11-25T01:24:43.730Z
+# Size: 152067
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:RC88rsSI5z9lFxb0RrCe2r4dGECxO2HWvzAB3MnleJM$
+# $content-hash-v1$:kjiq6VWQysKNv9tDg-yvbrpTbi0QRTjvxM2zXmE7Ymw$
 # 
 # EOF ##################
 .039858f297.com
@@ -54,6 +54,7 @@
 .123p.teaandbanter.com
 .123p.thecelticbhoys.com
 .123p.torontoreds.com
+.131vqvt1ni417ur85o1.cfd
 .13afemc28.com
 .148a0hqnen.com
 .158e65a1db.com
@@ -112,7 +113,6 @@
 .529conference.strategic-i.com
 .57b3a65c7b.com
 .57fe705a09.com
-.57ro4evi31xq97w.yr1972kn5orxe4q.cfd
 .58686728.xyz
 .59257fa6e8.78c51d7f21.com
 .5ae6f079d4.34b1c2d6f9.com
@@ -271,6 +271,7 @@
 .acquisition.klm.com
 .act-on.infolytica.com
 .actie.milieudefensie.nl
+.actiumfug.com
 .activate.ferguson.com
 .activate.hoylosangeles.com
 .activate.newssunonline.com
@@ -798,6 +799,7 @@
 .as.techbook-magazine.com
 .asd.bauhaus.info
 .asd.gg368.us
+.asfaocttaado.com
 .asia.atradius.com
 .ask.antalis.lt
 .assets-v2.boisedev.com
@@ -1095,6 +1097,7 @@
 .cakesdrum.com
 .calamityfortuneaudio.com
 .cambam.wilsondiamonds.com
+.cambevasonnies.cyou
 .camel.warvik.no
 .camp.inc.com
 .campaign.ruukki.com
@@ -2311,7 +2314,9 @@
 .entoneeyeholebowls.cyou
 .entreatyfungusgaily.com
 .envoymusicianpaid.com
+.enwidenchaksi.rest
 .enwsztvggihng.online
+.enwytgaofkxlp.website
 .eo2eaqg5no.com
 .eoqemxfhvbqpe.space
 .eoreu.stellacarakasi.com
@@ -2469,6 +2474,7 @@
 .figurehunter.net
 .fiksu.com
 .filamento.figutech.com
+.filateaevialucanid.cyou
 .file.palomaprimarycare.com
 .filletfiguredconstrain.com
 .filter.highsea.fun
@@ -2689,6 +2695,7 @@
 .ght2bvin1.com
 .gi7n1lmo4o.com
 .giftedbamboo.com
+.giftedflax.mobi
 .giraffe.viatorci.com
 .gitoninmegrel.com
 .gjcvvmwz.com
@@ -3192,6 +3199,7 @@
 .gwt.premed.be
 .gwtc.sfr.fr
 .gxnbfa.homeme.ru
+.gxrdxtfsuksug.website
 .gyujvfdlqrdrp.site
 .gzamaarcaecfv.com
 .gzhkarwp9n.com
@@ -3291,6 +3299,7 @@
 .hmtqtokulp.com
 .hnvfkwxwqcf.com
 .hol.dir.tvsmiles.tv
+.holmiumsedatecaplets.cfd
 .homecareresources.rosemarksystem.com
 .homerunfood.com
 .hommies.homestuffbd.com
@@ -3593,6 +3602,7 @@
 .jiroxkqcnymkrgm.cfd
 .jitterspauperusher.com
 .jivaproberseaseled.cfd
+.jjypdfrxbgyfv.website
 .jkbklm.cbcrabcakes.com
 .jkerpa.clogau.co.uk
 .jlithh.perfekterkoerper.com
@@ -3837,6 +3847,7 @@
 .levinerkremsdybbuks.cyou
 .lfbowp.talisa.com
 .lfcbvf.viata.fr
+.lfjsiyhfwobbp.site
 .lfvjt.banded.com
 .lghsf.draperjames.com
 .lgioqrurewsub.site
@@ -5279,6 +5290,7 @@
 .oaiad.josephjoseph.com
 .oapdi.deltoroshoes.com
 .obilic.pravareklama.com
+.obljulpi.in
 .obooom.robinmaybag.com
 .obpasq.myplace.com.br
 .obs.du89buildings.com
@@ -5800,6 +5812,7 @@
 .qxgfqfdbsdbsw.site
 .qxkclq.tmix.jp
 .qxrxxdbopuwod.site
+.qxwbklgpiftho.online
 .qy4l27p9f.com
 .qyogcr.amscope.com
 .qznyclsj.envion.se
@@ -5908,6 +5921,7 @@
 .rgktkz.bootybands.com
 .rgpd.alma-solarshop.nl
 .rgpd.bilan-hormonal.com
+.rgsampwohebpr.space
 .rgtm.bestvit.de
 .rh.vettaquimica.com.br
 .rhnsd.splendid.com
@@ -5939,6 +5953,7 @@
 .rnasaj.labelandthread.com
 .rnjqys.fiyo.nl
 .rnpufzsiovbo.com
+.rnvpommdnuzoc.online
 .rnweus.arvelle.de
 .road.heys.com
 .robustpsychology.com
@@ -5946,6 +5961,7 @@
 .rocketserver.net
 .rocoads.com
 .rodeosarundo.cfd
+.rogssxuugpupx.space
 .rohanpinonic.com
 .roobetaffiliates.com
 .roots.baby
@@ -6640,6 +6656,7 @@
 .share2.360vuz.com
 .sheep.macka.com.au
 .shell-recharge.tupinambaenergia.com.br
+.sheriatomalgia.com
 .shinpa.me
 .shipsmarter.idrivelogistics.com
 .sholke.com
@@ -6692,6 +6709,7 @@
 .sl-ct5.com
 .sledgeryelping.qpon
 .sleepypiglet.deltashore.uk
+.slewingflyteceleb.cfd
 .slideff.com
 .slierpitmark.cfd
 .slimesupplies.net
@@ -8218,6 +8236,7 @@
 .telemetry.webasto.com
 .tellssdt.mantis-ops.com
 .temporaincreep.cyou
+.temptingwonder.pro
 .tengbt.healthhelper.kr
 .tern.xebel.co
 .test-fleet-eml.postmates.com
@@ -8244,6 +8263,7 @@
 .tgdlqeqpbh.com
 .tgpfb.vitarx.co
 .tgtgzo.otelz.com
+.tgzfzuko4okc65fptcqov5g.rest
 .thagrechulo.com
 .thecodingpad.com
 .thegreatesthits.hemingway-pianos.com
@@ -8772,6 +8792,7 @@
 .unhaputterparking.cyou
 .union.baidu.cn
 .union.china.com.cn
+.uniquewave.info
 .unitedscans.com
 .uniway.cn.com
 .unloadyourself.com
@@ -8844,6 +8865,7 @@
 .ve.velocityclinical.com
 .veduisfaust.cfd
 .veersantrealestate.dubaii.me
+.vehicleblawspreknow.cfd
 .vembti.whites.net
 .venatusmedia.com
 .vfazqt.smallable.com
@@ -9110,6 +9132,7 @@
 .xcdacc.com
 .xcgmuc.autotie.fi
 .xcojhb.unitysquare.co.kr
+.xcviqklcuwzml.website
 .xcwns.thehockeyshop.com
 .xdhrvr.icu
 .xdisplay.site
@@ -9127,6 +9150,7 @@
 .xhr7cqlob.com
 .xhsnq.tattilashes.com
 .xhxtdjx.com
+.xjmjxjq.com
 .xkovtgxuynjef.site
 .xkzura.yves-rocher.se
 .xlhhawtuhmnxw.site

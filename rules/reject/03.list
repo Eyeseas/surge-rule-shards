@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-24T03:19:09.272Z
-# Size: 151718
+# Last Updated: 2026-11-25T01:24:43.730Z
+# Size: 152067
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:RC88rsSI5z9lFxb0RrCe2r4dGECxO2HWvzAB3MnleJM$
+# $content-hash-v1$:kjiq6VWQysKNv9tDg-yvbrpTbi0QRTjvxM2zXmE7Ymw$
 # 
 # EOF ##################
 .01counter.com
@@ -129,6 +129,7 @@
 .6qcvth5fb.com
 .6tdz25urqj.com
 .6y10di5jko.com
+.7302dedd02.com
 .76qrln0bb.com
 .7996epzfh.com
 .7asx1bxaw.com
@@ -444,6 +445,7 @@
 .al.ttandco.com
 .al.yslabo.net
 .alatedscarman.cfd
+.albertosective.click
 .aldehyde06.com
 .aldm.alojadamistica.com
 .alerts.wolterskluwerfs.com
@@ -849,6 +851,7 @@
 .awsurveys.com
 .awuapj.landwatch.com
 .axbhjugezguyh.space
+.axcitqovidvoc.online
 .axentis.arclogics.com
 .axoqjt.gommadiretto.it
 .axp.abc4.com
@@ -1071,6 +1074,7 @@
 .bulk.lazayn.com
 .bulk.ninjawrecks.me
 .bumpyarses.rest
+.burieschill.click
 .burldh.made-kim.co.kr
 .burnbubble.com
 .bushierknorria.com
@@ -3338,6 +3342,7 @@
 .highway.smproduction.co.in
 .hikfapmropu.in
 .hilledrechose.cfd
+.hillxdytvszyx.online
 .hinfogzi.sinful.ie
 .hitbip.com
 .hiuplq.diretta.it
@@ -3590,6 +3595,7 @@
 .infos.anz.com.au
 .infos.anzsmartchoice.com.au
 .infraep.direca.ro
+.ingest.t3.codes
 .inlog01.hket.com
 .innae.mftstamps.com
 .innovatedating.com
@@ -3872,6 +3878,7 @@
 .landingtelecentro.mkt.telecentro.com.ar
 .lane5down.com
 .larinserail.cyou
+.lashesduo.com
 .lastjobporkmanscalper.cyou
 .lasttaco.com
 .latin-csr31.net.abomix.de
@@ -4489,6 +4496,7 @@
 .lpbhnv.telemundoareadelabahia.com
 .lpbhnv.telemundowashingtondc.com
 .lpcopyvs.hameshainvest.com
+.lpjesrjwmfdwb.online
 .lps-info.arval.com
 .lps.qantas.com
 .lpyxrp.thewodlife.com.au
@@ -5069,6 +5077,7 @@
 .meubelen.driehoekmeubelen.nl
 .mfqdo.jpcycles.com
 .mgagd.lacrawfish.com
+.mgmsedcduudbx.space
 .mgnqf.ortholazer.com
 .mgtif.percivalclo.com
 .mgvrst.mi-shop.com
@@ -5481,6 +5490,7 @@
 .orientedargument.com
 .origin.rottne.com
 .ormlrq.groephuyzentruyt.be
+.ormoluschuvash.click
 .ormtgs.orcas.io
 .orrislieus.cyou
 .osgxzapi.in
@@ -5825,6 +5835,7 @@
 .px.adfulplatform.com
 .px.wpk.quark.cn
 .pxbjpwwtidoxl.space
+.pyxyqanrjstoy.online
 .pzlrgp.notetec.com.br
 .pzmu7go7i2.com
 .pznjw.loveyagutsbox.com
@@ -5948,6 +5959,7 @@
 .rectadesc.cfd
 .rectangular10.com
 .redexecs.com
+.redgbriaqtqgi.space
 .redtr.aronia-charlottenburg.ro
 .redtrack.antihost.com
 .reelcombat.com
@@ -8439,6 +8451,7 @@
 .thrjnyabvrhnj.com
 .throughalivemedication.com
 .thyriswh.cyou
+.tibicencoelect.click
 .tiglon.beyondco.de
 .tigroidtanger.com
 .tikjv.aninebing.com
@@ -8851,6 +8864,7 @@
 .trekkeeee.space
 .trevispygmy.com
 .trg.bosch-home.fr
+.triariiforgift.com
 .trikahrta.com
 .trioletfused.com
 .tritonaneling.qpon
@@ -9232,6 +9246,7 @@
 .wasc.kaufland.com
 .washing.livingstonpressurewashing.com
 .waterloggedkind.com
+.wattsstaxiscollins.cfd
 .waymenchorook.cfd
 .wb.winnerbatterien.de
 .wbdiul.dywanyluszczow.eu
@@ -9402,6 +9417,7 @@
 .xdyn03060jy.com
 .xdyn03111jy.com
 .xebmcayqpzmlf.site
+.xecnfeepzokjx.online
 .xegmacvqxtgel.online
 .xfqvsbylvgpvv.site
 .xgatpk.latostadora.com
@@ -9584,6 +9600,7 @@
 .ztqbj.rattandirect.co.uk
 .zuqjug.nutrabay.com
 .zuudt.muslimi.com
+.zuukxvvp.com
 .zvbqi.cycologyclothing.com
 .zvbqya.marideal.mu
 .zvouv.thehistorylist.com
