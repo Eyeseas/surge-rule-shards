@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-25T01:24:43.730Z
-# Size: 152067
+# Last Updated: 2026-11-26T00:58:55.524Z
+# Size: 152191
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:kjiq6VWQysKNv9tDg-yvbrpTbi0QRTjvxM2zXmE7Ymw$
+# $content-hash-v1$:_QkCyh9q2MpKaEev3LnxL2ej191tt5gTAPVu_DZ6I7A$
 # 
 # EOF ##################
 .005ad66f1d.com
@@ -842,7 +842,6 @@
 .athena.nederlandseloterij.nl
 .atifhylrgtiwx.online
 .atraff.com
-.atrailshriftsarridge.cyou
 .ats.otto.de
 .att.click.herbalsnlife.com
 .att.trk.botanikabrasil.com.br
@@ -897,7 +896,6 @@
 .balawufor.cyou
 .banhq.com
 .banner.tp24.it
-.bapzzmqirewtn.space
 .barbafvgixbsa.website
 .bardashdefuzed.qpon
 .barnabaslinger.com
@@ -1058,7 +1056,6 @@
 .briskstorm.com
 .britanyyonner.com
 .brldassustitucion.eccocar.com
-.brmsiboiewolm.space
 .brnc.seidecor.com.br
 .browsertdidticket.m.qq.com
 .brt.studylabs.cn
@@ -1227,7 +1224,6 @@
 .cdp.cisbh.com
 .cds.bs.diamonds
 .cdtal.getbugmd.com
-.celgrnaedzwif.online
 .celoe.xyz
 .cen.acspubs.org
 .certainmoss.com
@@ -1287,6 +1283,7 @@
 .clcktrax.com
 .click-rtb2-useast.affinity.net
 .click-v4.jundclikrmdi.com
+.click-v4.junexclkmid.com
 .click.aaptiv.com
 .click.avalere.com
 .click.bokecc.com
@@ -1515,6 +1512,7 @@
 .cueohf.forum2x2.ru
 .cueohf.motards.net
 .cuiisp.differenta.hr
+.cujbogle.click
 .cuprumbenet.com
 .curogmc.com
 .custom.awakenmyphoto.com
@@ -2098,10 +2096,12 @@
 .dolfww.bauhaus.ch
 .dolphin.brandname.tech
 .dolphin.sfelc.com
+.dolphinplate.com
 .domino.flycl.ps
 .donut.thebakeacademy.com
 .doporuc.necojakocola.cz
 .dorkexspffjmk.online
+.double-check.com
 .dousfhlyp.com
 .douxpatrix.click
 .download.bonnti.com
@@ -2120,6 +2120,7 @@
 .drugtest.questdiagnostics.com
 .druhu.amerisleep.com
 .ds8k3y2d5n.com
+.dsavtr.com
 .dsbjdf.com
 .dsccgm.com
 .dscgz.bulletjournal.com
@@ -2715,10 +2716,10 @@
 .ganoidsstooked.cfd
 .gard4mass.com
 .gateway.five-am.com
-.gayskraighmonnion.cyou
 .gbads.net
 .gbguqrbokfdlz.space
 .gbyzknuej.com
+.gcbwpfwpaumpho.com
 .gdbei.oakessentials.com
 .gdjvkd.tenshoku.mynavi.jp
 .gdmelqact.gartner.com
@@ -2753,7 +2754,6 @@
 .getflexiwave-ss.offeroshop.com
 .getme.schuttinglimburg.nl
 .getwptag.org
-.gfyjibsyslrle.online
 .gg.kugou.com
 .gg.miued.com
 .ggai12230cp.com
@@ -3672,6 +3672,7 @@
 .invitation.friendshipwallet.com
 .invitation.xmastimeapp.com
 .invite.airtabapp.com
+.inwithnonplus.cfd
 .iob.imgur.com
 .iooecb.bergzeit.de
 .iotj6oo90.com
@@ -3814,6 +3815,7 @@
 .jvtncvuz.app.arstrongertogether.com
 .jwf8lxo7b.com
 .jwzqyq.overhemdenonline.nl
+.jxdnvnwibhdmx.online
 .jxsmzz.mytrauringstore.de
 .jyprvthqonbxi.online
 .jyupgi.eurostarshotels.co.uk
@@ -3889,7 +3891,6 @@
 .kra.lamaisonduboncafe.com
 .kraft.teguro.sk
 .kraolkazv.in
-.krdimzqznvbss.site
 .ksaxpnen.furni.io
 .ksmeyw.taftcoffee.com
 .ksqjatyuv.com
@@ -3927,7 +3928,6 @@
 .lacunads.com
 .landing.ajo.email.lcbodev.com
 .landingpage-dtin.mail.ajo-demo-dtin.in
-.landmantinaja.com
 .landsideresendtrousers.com
 .laraliarestir.com
 .largetony.com
@@ -3945,7 +3945,6 @@
 .ldorlv.seiban.co.jp
 .ldqbuy.sport-express.ru
 .ldubbg.gamefools.com
-.lduohrmhrme.com
 .lead.allthewayup.ch
 .leadmanagement.velocify.com
 .leapretrieval.com
@@ -4824,7 +4823,6 @@
 .meds.myandroderm.com
 .meet.westuc.com
 .meet3monk.com
-.meloshounder.com
 .member-app.rightwayhealthcare.com
 .membernook.com
 .memeorigin.com
@@ -5135,7 +5133,6 @@
 .mr-in-staging.beginlearning.com
 .mr.homedepot.ca
 .mrdxf.bombas.com
-.mrorepdkgcalx.space
 .mrpli.digitalcloud.training
 .msbainfo.fbe.hku.hk
 .msnpurf.themjewelersny.com
@@ -5196,6 +5193,7 @@
 .naturebeans.com
 .nbgrekgrekjgrje.lundgaardshop.dk
 .nbiav.hoka.com
+.nbiqdyqmrgcrf.space
 .nblhx.tartecosmetics.com
 .nbvht.superfeast.com.au
 .nbyggk.ladytopi.jp
@@ -5282,7 +5280,6 @@
 .noticefile.samsungcloudsolution.com
 .novak.warwoodtool.com
 .novostimira.biz
-.npixnaidampmp.space
 .npzbf.spongelle.com
 .nqacsh.aarhus24.dk
 .nqacsh.odense24.dk
@@ -5770,8 +5767,8 @@
 .q4fk1v6pm5mzbpk.3gjktxpz1wnyen.cyou
 .q58nf16jd3.com
 .qamdyvygzruekm.com
-.qansqnbflheqn.online
 .qbhsocu.com
+.qbojgffkgzlbr.space
 .qbupzairypjtf.online
 .qbvhs.sistaco.co.uk
 .qbzaqdjkriqth.site
@@ -5783,9 +5780,11 @@
 .qcpqn.bunkbedsforadults.com
 .qcrohnef.com
 .qcumjg.modyf.de
+.qdkgwrfafwapf.online
 .qdzyspjx.com
 .qenb2pxx.xyz
 .qezfer.motelamiio.com
+.qezrfeo8mywgirvmzec.rest
 .qfem4jigh7zbr6br18ofm.cfd
 .qfzuwd.alexandnova.com
 .qgauajujymtaw.site
@@ -5840,7 +5839,6 @@
 .qysknb.fukuishimbun.co.jp
 .qysnzg.bien-zenker.de
 .qyuzwd.maskworld.com
-.qyzqivswtpxff.website
 .r.blidzdeal.com
 .r.upload.app
 .r.winf.site
@@ -8173,7 +8171,6 @@
 .syejhsxaag.com
 .synacast.com
 .sync.gonet-ads.com
-.syndicate.payloadz.com
 .szdki.shefit.com
 .szjtgitvjaxty.website
 .szoluc.computerwissen.de
@@ -8383,7 +8380,6 @@
 .thronosgeneura.com
 .thrtle.com
 .thvptb.icu
-.tiddqqcojoygc.space
 .tidy.intel.com
 .tidy.intel.com.br
 .tidy.intel.la
@@ -8393,6 +8389,7 @@
 .tillingcuckold.com
 .tilt.blacktomato.com
 .timedgype.com
+.timeprince.com
 .timing.whenandhowagency.com
 .timo.hotel-winzer.at
 .tingting.zcraftops.com
@@ -8996,6 +8993,7 @@
 .uyivht.robertgraham.us
 .uzhobt.wholesalemarine.com
 .uzipbs.weltbild.ch
+.uztnsoobcrzoy.site
 .v.voxberg.com
 .v063.4029tv.com
 .v1.tetesantos.com.br
@@ -9025,6 +9023,7 @@
 .vfdemsp.mno.link
 .vfjfci.lensdirect.com
 .vfo.voyage-prive.co.uk
+.vfwektumalyop.com
 .vgavzy.spierandmackay.com
 .vhgayoksmram.com
 .vhiwzqas.netlingerie.be
@@ -9125,6 +9124,7 @@
 .waiads.com
 .walrus.oscaroarevalo.com
 .waly7k3sg3.com
+.wamefullimbecklunata.cfd
 .wantingwindow.com
 .warxattaj.in
 .washingmigraine.com
@@ -9233,6 +9233,7 @@
 .wnacammull.com
 .wncowb.miracle-woman.com
 .wnozpl.escarpe.it
+.wnvdnpbpvhwhr.online
 .woodishrhaphes.click
 .woodsfalsie.com
 .woof.psi-lekarna.cz
@@ -9428,7 +9429,6 @@
 .ywrcqa.khou.com
 .ywrcqa.rocketcitynow.com
 .ywt.quotevandedag.com
-.ywuxuknjofgmt.space
 .yxkzip.brastemp.com.br
 .yy9s51b2u05z.com
 .yyi7.consobaby.de
@@ -9461,7 +9461,6 @@
 .ze4l8qj8z84nw.o9rgpv9iv6t9huqn7xvq83.cyou
 .zemwmv.tretti.se
 .zenru.1md.org
-.zepzylmimnsxj.site
 .zetunndncrbrf.online
 .zf56jef1dd.com
 .zferral.com

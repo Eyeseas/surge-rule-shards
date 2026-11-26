@@ -3,8 +3,8 @@
 # Generated losslessly; upstream notices follow.
 # 
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-11-25T01:24:43.730Z
-# Size: 152067
+# Last Updated: 2026-11-26T00:58:55.524Z
+# Size: 152191
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,7 +21,7 @@
 # - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 # - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 # 
-# $content-hash-v1$:kjiq6VWQysKNv9tDg-yvbrpTbi0QRTjvxM2zXmE7Ymw$
+# $content-hash-v1$:_QkCyh9q2MpKaEev3LnxL2ej191tt5gTAPVu_DZ6I7A$
 # 
 # EOF ##################
 .000webhostapp.com
@@ -90,7 +90,6 @@
 .43y3q8h5mz.com
 .44ipavmq2n.com
 .491fc418d1.bdab733421.com
-.4lu114x7k9ef6qr82.cfd
 .4qhg8h56veuu9mmj4c.rest
 .4rabettraff.com
 .4z48fqo12n.com
@@ -852,6 +851,7 @@
 .asp.brightmachine.uk
 .asp.goodpa.co.uk
 .aspiringattempt.com
+.asrvohouoavdj.site
 .assets.ayp.vn
 .assets.emcur.de
 .assets1.bingle.com.au
@@ -896,6 +896,7 @@
 .avadacom.com
 .avalon.truewisemedia.ca
 .ave-caesar-mas.modivo.io
+.avjyymuxfybyz.site
 .avqb7vrufi.com
 .avqpoezrv.com
 .aw.perlesandco.com
@@ -1090,6 +1091,7 @@
 .br-stape-test.animalfarm.inc
 .br931.belarus.caseme.by
 .braconamphion.click
+.bragerserrano.cyou
 .brajqk.ineedamobile.com
 .branch-4567w2a56q-test.salesfloor.net
 .branch-c.hipages.com.au
@@ -1358,6 +1360,7 @@
 .client.perimeterx.net
 .clientmetrics.kik.com
 .clients.dualentry.com
+.clipeiunvague.click
 .cliquesteria.net
 .cljvi.beautyfixmedspa.com
 .clk.confidentialhealthinsider.com
@@ -1699,6 +1702,7 @@
 .d94qwxh6czci4.cloudfront.net
 .da.hornbach.de
 .daadpefptsdqv.online
+.dabitismica.click
 .dadmivxze.in
 .dados.boomfit.com
 .dados.bornone.com.br
@@ -2086,6 +2090,7 @@
 .detaillog-global-dual.coolgcloud.com
 .details.pella.com
 .detectdiscovery.com
+.detrusshidage.com
 .dev-get.unhedged.com.au
 .dev.email-signify.cjm.adobe.com
 .dev.gallerycanada.com
@@ -2332,6 +2337,7 @@
 .efwhcj.emp-shop.se
 .egfopffnqvsxs.website
 .egg.afisha.ru
+.egretmuddle.com
 .ehqot.southtree.com
 .ei-api.gwy.ei-elastic-test-amq-1a-006.easyjet.com.edgekey.net.easyjet.com
 .ei-elastic-test-amq-1a-229.net.easyjet.com
@@ -2339,6 +2345,7 @@
 .eidmlc.footway.lu
 .eigzldopocmhs.online
 .eiljtxtpaajoh.website
+.eiwaostymzgxw.online
 .ejauhr.corsicalinea.com
 .ejrbgi.tous.com
 .ekamsply.com
@@ -2569,6 +2576,7 @@
 .feedback.rottne.com
 .feedme.use-beez.com
 .feezv.mycheerleadingbox.com
+.fermatapodler.cyou
 .ferret.firstprogressivechurch.org
 .ferret.linksoftwarellc.com
 .fervorszymomin.com
@@ -2791,7 +2799,6 @@
 .gezvg.wildhawk.co
 .gfgayfvin.com
 .gfgcwf.vidaxl.lv
-.gfqtqyhlyktfo.site
 .gg.0598yu.com
 .gg.jhoori.com
 .gg.pkppbowin.cfd
@@ -3424,6 +3431,7 @@
 .hpd.baidu.com
 .hpninfo.hoopis.com
 .hpyjmp.com
+.hqfkfckg5ur8fhctl.rest
 .hqo0k12qs.com
 .hrefsst.curioustea.com
 .hrefsst.lflcs.com
@@ -3468,7 +3476,6 @@
 .iceglamk.billige-arbeidsklaer.no
 .iceglamk.pro-dress.se
 .icliscrl.lilalou.pl
-.icon.eu.atmndx.com
 .icon.eu.mvdomnd.com
 .iczrj.scentair.com
 .idaqf.indacloud.co
@@ -3687,6 +3694,7 @@
 .intowow.com
 .intrafic22.com
 .intuition-agile-7.com
+.inuexrwlzqgib.site
 .inv3te.oui.sncf
 .invite.coinmine.com
 .invite.gust.show
@@ -3778,7 +3786,6 @@
 .jme.jmesales.com
 .jmnhd.luminancemilano.com
 .jnbhi.com
-.jnhykgiysawuq.site
 .jniic.pacas.com
 .jnsjpqyz.serverlama.com
 .jnzedp.his-j.com
@@ -3796,8 +3803,6 @@
 .jotanngycjvxw.online
 .journey.junglegym.lv
 .joyfullybarn.com
-.jpkwoyveladnt.online
-.jpmfsuoxmftku.site
 .jqrrbqfdjkazm.site
 .jrjel.whitemountainpuzzles.com
 .jrrmojsntectt.site
@@ -4085,6 +4090,7 @@
 .lls11090ko.com
 .llsami.eauclair.kr
 .llutfo.get-nourished.com
+.llxuksutghlty.online
 .lm.potenzmittel.com
 .lm1.tuliu.com
 .lmd6dc1aq7.com
@@ -5229,6 +5235,7 @@
 .mistat.intl.xiaomi.com
 .mistervillas.com
 .mite.cotinga.io
+.miuxvxlbkbsby.space
 .mix-omniture.rbs.com
 .mixpanel-proxy.coingecko.com
 .mixpo.com
@@ -5439,6 +5446,7 @@
 .nqx.kitchen4all.nl
 .nrdyxtmzbku.com
 .nrpon.nutribullet.co.uk
+.nrtuzecmrdhmb.space
 .ns1.happ.social
 .nsagz.iliabeauty.com
 .nsdhgcvwfflsm.website
@@ -5588,6 +5596,7 @@
 .osamachoice.com
 .osamapk.com
 .ostrich.getschools.org
+.otekyzejdxaax.online
 .otlhn.fentybeauty.com
 .otter.jetting.no
 .oukub.tiereleven.com
@@ -5677,6 +5686,7 @@
 .patozdkidh.in
 .patrick.oceanviewstudiosandsuites.com
 .patronscohitre.cfd
+.pauxihypoxia.com
 .pbbfngznkifdz.online
 .pbcs.nypost.com
 .pbhcr.leanmeds.com
@@ -5718,7 +5728,6 @@
 .picis.optum.com
 .picnicyareta.com
 .pifjnobjj.com
-.pilausamotion.com
 .pillar.ucadmissionsecrets.com
 .pilot.nlccwi.org
 .pipemanwauchtshommack.cfd
@@ -6088,7 +6097,6 @@
 .rnybul.gismeteo.lv
 .robspabah.com
 .rocket.fadenkreuz-bobbel.de
-.rodratton.qpon
 .rohrdaten.rohrreinigungsschnelldienst.de
 .rolpenszimocca.com
 .roma.prashant.co
@@ -6133,7 +6141,6 @@
 .rtk.trk.wellbeingwellnesshub.com
 .rtrck.elevationesingapore.com
 .rtxfpe.trtltravel.com
-.rtynctfs.com
 .rubyswinehouse.com
 .rum-metrics.bunny.net
 .rum.azioncdn.net
@@ -6142,7 +6149,6 @@
 .rvitam.xenos.nl
 .rviunh.tosowoong.com
 .rvs.revitalizeseusganhos.com.br
-.rwgvmsieccxdw.site
 .rwt.cooxs.com
 .rwupyp.swimmy.fr
 .rxhsry.onvasortir.com
@@ -6260,6 +6266,7 @@
 .screechingstocking.com
 .screenshare.pics
 .screenshots.goguardian.com
+.scufflestyling.cfd
 .sd.resmile.co.il
 .sdata.rb.com.au
 .sdc.allianz-autowelt.de
@@ -8387,6 +8394,7 @@
 .topropecleping.com
 .topu.rangdhonubd.com
 .torbacku.com
+.tornadorainbow.info
 .torsesripuplugworm.cyou
 .touch-moblie.com
 .toys.kongessloejd.ch
@@ -9072,6 +9080,7 @@
 .wakemenoutlip.com
 .walrus.fetzcolor.at
 .wamahe.wokularach.pl
+.wanletuboid.cfd
 .want-some-psh.net
 .wap.wovn.io
 .waps.cn
@@ -9158,6 +9167,7 @@
 .wgcnxpayqnksw.website
 .wggiud.giordanovini.it
 .whatsinforme.theaclub.de
+.whauvefilch.click
 .wheredoyoucomefrom.ovh
 .whinemalnutrition.com
 .whistlemiddletrains.com
@@ -9248,6 +9258,7 @@
 .x6d93mku0.com
 .x70wk5e54.com
 .x94pjnejo.com
+.xb9.b5bb8qpmmtpmrx2r.cfd
 .xbk.189.cn
 .xbmbg.iliabeauty.com
 .xbold171e.com
@@ -9324,6 +9335,7 @@
 .yhbdzh.farmasiint.com
 .yhgtgwewtwmka.site
 .yhjtc.aabcollection.com
+.yhmoqnoouriky.online
 .yiafbw.otticanet.com
 .yicrdo.amsterdamprinting.com
 .yieldmanager.net
@@ -9353,7 +9365,6 @@
 .yun-hl.3g.qq.com
 .yuno.manshetat.com
 .yuxomrgsfvnxu.space
-.yvbomganitwrn.site
 .yvnpeq.interseguro.pe
 .ywrcqa.kens5.com
 .ywrcqa.whas11.com
@@ -9411,6 +9422,7 @@
 .zpqck.fromourplace.ca
 .zpwykn.emassagechair.com
 .zrbezdaddiahk.space
+.zrqbyjixyvlvo.space
 .zscnz.sugarandheartclinic.com
 .zsjxwj.com
 .ztykeqkw.skysource.com.ua
